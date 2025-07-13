@@ -1,0 +1,310 @@
+{
+  "title": "Show #1277 - Tuesday, March 6, 1990",
+  "date": {
+    "day": 6,
+    "month": "March",
+    "year": 1990
+  },
+  "clues": [
+    {
+      "category": "GEOGRAPHY",
+      "text": "Inhabitants of this country's capital are known as Baghdadis",
+      "answer": "Iraq"
+    },
+    {
+      "category": "FOOD & DRINK",
+      "text": "Traditionally, Indy 500 winners drink this in the winner's circle, so it does a car body good, too",
+      "answer": "milk"
+    },
+    {
+      "category": "ICE SKATING",
+      "text": "The Glaciarium, the 1st one of these with artificially frozen ice, opened in London in 1876",
+      "answer": "an ice skating rink"
+    },
+    {
+      "category": "RODENTS",
+      "text": "Lewis & Clark called these Great Plains mammals \"barking squirrels\"",
+      "answer": "prairie dogs"
+    },
+    {
+      "category": "ARCHITECTURE",
+      "text": "A writer & doctor as well as an architect, Imhotep designed the 1st of these structures",
+      "answer": "a pyramid"
+    },
+    {
+      "category": "FAMOUS JUNIORS",
+      "text": "His father wrote \"Old Ironsides\" & he was a justice of the Supreme Court",
+      "answer": "Oliver Wendell Holmes"
+    },
+    {
+      "category": "GEOGRAPHY",
+      "text": "Strait separating sizable superpowers",
+      "answer": "the Bering Strait"
+    },
+    {
+      "category": "FOOD & DRINK",
+      "text": "Medellin is a popular coffee grown in this South American country, not Brazil",
+      "answer": "Colombia"
+    },
+    {
+      "category": "ICE SKATING",
+      "text": "This queen of France was skating around 1776--possibly on thin ice",
+      "answer": "Marie Antoinette"
+    },
+    {
+      "category": "RODENTS",
+      "text": "The best known of these weather forecasting rodents is Punxsutawney Phil",
+      "answer": "a groundhog"
+    },
+    {
+      "category": "ARCHITECTURE",
+      "text": "The ancient structure seenhere",
+      "answer": "Stonehenge"
+    },
+    {
+      "category": "FAMOUS JUNIORS",
+      "text": "His father urged him to study science, which he used in the novels \"Cat's Cradle\" & \"Slaughterhouse-Five\"",
+      "answer": "Kurt Vonnegut Jr."
+    },
+    {
+      "category": "GEOGRAPHY",
+      "text": "In classical literature these Scottish islands were known as the Orcades",
+      "answer": "the Orkneys"
+    },
+    {
+      "category": "FOOD & DRINK",
+      "text": "This \"magically delicious\" cereal has a leprechaun for a spokesman",
+      "answer": "Lucky Charms"
+    },
+    {
+      "category": "ICE SKATING",
+      "text": "One of the 1st of these, called \"Flirting in St. Moritz\", was staged at the hippodrome in 1915",
+      "answer": "an ice show"
+    },
+    {
+      "category": "RODENTS",
+      "text": "Contrary to popular opinion, these rodents do not deliberately commit suicide in the sea",
+      "answer": "lemmings"
+    },
+    {
+      "category": "ARCHITECTURE",
+      "text": "The obelisk that stands in the center of this square was brought to Rome from Egypt by Caligula",
+      "answer": "St. Peter's"
+    },
+    {
+      "category": "FAMOUS JUNIORS",
+      "text": "Both politicians & both named Edmund, neither he nor his father \"Pat\" used Edmund as a first name",
+      "answer": "Jerry Brown"
+    },
+    {
+      "category": "GEOGRAPHY",
+      "text": "Over a million people live in the Canary Islands which constitute 2 provinces of this country",
+      "answer": "Spain"
+    },
+    {
+      "category": "FOOD & DRINK",
+      "text": "The 2 primary ingredients of croquettes de pommes de terre a la Florentine",
+      "answer": "potatoes & spinach"
+    },
+    {
+      "category": "ICE SKATING",
+      "text": "Men started competing in this type of skating at the 1924 Olympics; women not until 1960",
+      "answer": "speed skating"
+    },
+    {
+      "category": "RODENTS",
+      "text": "This little \"golden\" pet's name is from the German for \"hoarder\" since he stores food in his cheeks",
+      "answer": "a hamster"
+    },
+    {
+      "category": "ARCHITECTURE",
+      "text": "An innovative housing project called Habitat was built for this city's Expo 67",
+      "answer": "Montreal"
+    },
+    {
+      "category": "FAMOUS JUNIORS",
+      "text": "TV actor whose father was a concert violinist & whose mother was opera star Alma Gluck",
+      "answer": "Efrem Zimbalist Jr."
+    },
+    {
+      "category": "GEOGRAPHY",
+      "text": "If eels could talk, they'd tell you this sea was named for the type of seaweed found there",
+      "answer": "Sargasso"
+    },
+    {
+      "category": "FOOD & DRINK",
+      "text": "Varieties of this green garnish, related to the mustard plant, include winter, garden & water",
+      "answer": "the cress"
+    },
+    {
+      "category": "ICE SKATING",
+      "text": "Champion ice skater Katarina Witt hails from this Soviet Bloc country",
+      "answer": "East Germany"
+    },
+    {
+      "category": "RODENTS",
+      "text": "Native to the Andes Mountains, these rodents, known for their dense fur, now are mainly raised on ranches",
+      "answer": "chinchillas"
+    },
+    {
+      "category": "ARCHITECTURE",
+      "text": "Once a church, then a mosque & now a museum, the Hagia Sophia is considered the finest example of this style",
+      "answer": "Byzantine"
+    },
+    {
+      "category": "FAMOUS JUNIORS",
+      "text": "His father was a dancer with the Will Mastin Trio & he was featured with the act as a child",
+      "answer": "Sammy Davis Jr."
+    },
+    {
+      "category": "IN THE DICTIONARY",
+      "text": "Pronounced one way, it's a motorized bike; pronounced another way, it means sulked or brooded",
+      "answer": "moped"
+    },
+    {
+      "category": "U.S. HISTORY",
+      "text": "This Secretary of State's plan for economic assistance for Europe was 1st proposed at Harvard in 1947",
+      "answer": "(George) Marshall"
+    },
+    {
+      "category": "ART",
+      "text": "After the revolution of 1830, Delacroix painted her \"Leading the People\"",
+      "answer": "Liberty"
+    },
+    {
+      "category": "WOMEN AUTHORS",
+      "text": "Before achieving fame with \"The House of Earth\" trilogy, this author was a teacher in China",
+      "answer": "Pearl Buck"
+    },
+    {
+      "category": "WEATHER",
+      "text": "Called a \"willy-willy\" in Australia, it's name is from a West Indian word meaning \"big wind\"",
+      "answer": "hurricanes"
+    },
+    {
+      "category": "SCREEN GEMS",
+      "text": "In this 1971 James Bond film, the evil Blofeld was a diamond smuggler",
+      "answer": "Diamonds are Forever"
+    },
+    {
+      "category": "IN THE DICTIONARY",
+      "text": "This word can precede infinitive or personality",
+      "answer": "split"
+    },
+    {
+      "category": "U.S. HISTORY",
+      "text": "Robert Morris spent 3 years in debtor's prison after having been the chief financier of this war",
+      "answer": "the American Revolution"
+    },
+    {
+      "category": "ART",
+      "text": "His nephew Gainsborough DuPont apprenticed with him",
+      "answer": "Thomas Gainsborough"
+    },
+    {
+      "category": "WOMEN AUTHORS",
+      "text": "According to the title of an Erma Bombeck best seller, this is \"the Second Oldest Profession\"",
+      "answer": "motherhood"
+    },
+    {
+      "category": "WEATHER",
+      "text": "\"Red sky in the morning, sailor take warning; red sky at night is\" this",
+      "answer": "(sailor's) delight"
+    },
+    {
+      "category": "SCREEN GEMS",
+      "text": "The title of this 1969 Hitchcock film refers to the code name of a ring of spies",
+      "answer": "Topaz"
+    },
+    {
+      "category": "IN THE DICTIONARY",
+      "text": "The breaking out of a rash on the skin, or the breaking out of lava on a volcano",
+      "answer": "eruption"
+    },
+    {
+      "category": "U.S. HISTORY",
+      "text": "Marines intervened in this country in 1927 to quell an uprising led by Gen. Augusto Cesar Sandino",
+      "answer": "Nicaragua"
+    },
+    {
+      "category": "ART",
+      "text": "Degas installed one of these in his studio to study models getting in & out of it",
+      "answer": "a bathtub"
+    },
+    {
+      "category": "WOMEN AUTHORS",
+      "text": "This financial columnist's income tax guide has been published annually for the last 20 years",
+      "answer": "Sylvia Porter"
+    },
+    {
+      "category": "WEATHER",
+      "text": "To measure very low temperatures, this liquid, not mercury, is used in thermometers",
+      "answer": "alcohol"
+    },
+    {
+      "category": "SCREEN GEMS",
+      "text": "It was the sequel to \"Romancing the Stone\"",
+      "answer": "The Jewel of the Nile"
+    },
+    {
+      "category": "IN THE DICTIONARY",
+      "text": "Word that means \"citified\", or the name taken by 8 Roman Catholic popes",
+      "answer": "urban"
+    },
+    {
+      "category": "U.S. HISTORY",
+      "text": "In 1905 Oklahoma Indians drafted a Constitution & tried to create a state named for this Cherokee",
+      "answer": "Sequoyah"
+    },
+    {
+      "category": "ART",
+      "text": "Born in Crete, he moved from Italy to Spain during the Inquisition & it's reflected in his work",
+      "answer": "El Greco"
+    },
+    {
+      "category": "WOMEN AUTHORS",
+      "text": "This novelist collaborated with Geo. S. Kaufman on such plays as \"Dinner at Eight\" & \"Stage Door\"",
+      "answer": "Edna Ferber"
+    },
+    {
+      "category": "WEATHER",
+      "text": "Squall lines, which are clusters of these, may stretch for hundreds of miles",
+      "answer": "thunderstorms"
+    },
+    {
+      "category": "SCREEN GEMS",
+      "text": "This 1948 film based on a Steinbeck story about a fisherman was shot in Mexico",
+      "answer": "The Pearl"
+    },
+    {
+      "category": "IN THE DICTIONARY",
+      "text": "It's defined as the act of shaving the head or the part of the head left bare by shaving",
+      "answer": "tonsure"
+    },
+    {
+      "category": "U.S. HISTORY",
+      "text": "After the Battle of Lake Erie, he sent the message, \"We have met the enemy & they are ours\"",
+      "answer": "(Commodore) Perry"
+    },
+    {
+      "category": "ART",
+      "text": "When modern art was declared a \"bourgeois luxury\" in '23, this modern artist moved from Moscow to Paris",
+      "answer": "Chagall"
+    },
+    {
+      "category": "WOMEN AUTHORS",
+      "text": "This author's 1st million-selling book, \"Every Night, Josephine!\", was about her pet poodle",
+      "answer": "Jacqueline Susann"
+    },
+    {
+      "category": "WEATHER",
+      "text": "19th c. British commander who developed the scale of comparative wind forces named for him",
+      "answer": "Sir Francis Beaufort"
+    },
+    {
+      "category": "SCREEN GEMS",
+      "text": "In this film, when Cary Grant told Grace Kelly her necklace was imitation, she answered, \"I'm not\"",
+      "answer": "To Catch a Thief"
+    }
+  ]
+}

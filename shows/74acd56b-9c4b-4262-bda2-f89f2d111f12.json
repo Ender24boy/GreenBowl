@@ -1,0 +1,295 @@
+{
+  "title": "Show #1145 - Friday, July 21, 1989",
+  "date": {
+    "day": 21,
+    "month": "July",
+    "year": 1989
+  },
+  "clues": [
+    {
+      "category": "WOMEN IN HISTORY",
+      "text": "Lady Caroline Lamb was both Lord Byron's lover & the wife of William Lamb, this queen's 1st P.M.",
+      "answer": "Queen Victoria"
+    },
+    {
+      "category": "88 MOVIES",
+      "text": "In \"18 Again\", this comic in his 90s switches bodies with his grandson",
+      "answer": "George Burns"
+    },
+    {
+      "category": "PHILOSOPHERS",
+      "text": "Though largely unknown when he died, he's been called the most prominent figure in Chinese history",
+      "answer": "Confucius"
+    },
+    {
+      "category": "MUSICAL TEXAS TOWNS",
+      "text": "Bing Crosby had a million seller about a rose in this 3rd largest Texas town",
+      "answer": "San Antonio"
+    },
+    {
+      "category": "GOLF",
+      "text": "A no. 3 wood, or what the dish ran away with",
+      "answer": "a spoon"
+    },
+    {
+      "category": "IN OTHER WORDS...",
+      "text": "Business without recreation results in John being boring",
+      "answer": "\"All work and no play makes Jack a dull boy\""
+    },
+    {
+      "category": "WOMEN IN HISTORY",
+      "text": "Astronomer Maria Mitchell became world famous after discovering one of these in 1847",
+      "answer": "a comet"
+    },
+    {
+      "category": "88 MOVIES",
+      "text": "She played the human Wanda in \"A Fish Called Wanda\"",
+      "answer": "Jamie Lee Curtis"
+    },
+    {
+      "category": "PHILOSOPHERS",
+      "text": "Caled \"an outstanding thinker of the 19th century\", this philosopher also wrote \"War & Peace\"",
+      "answer": "Tolstoy"
+    },
+    {
+      "category": "MUSICAL TEXAS TOWNS",
+      "text": "In 1987 country music's George Strait went straight to this \"yellow\" Texas town \"by Morning\"",
+      "answer": "Amarillo"
+    },
+    {
+      "category": "GOLF",
+      "text": "Famous golfer to whomthisgolf cart belongs:",
+      "answer": "Bob Hope"
+    },
+    {
+      "category": "IN OTHER WORDS...",
+      "text": "Fire a pistol into a clock's mechanism",
+      "answer": "\"shoot the works\""
+    },
+    {
+      "category": "WOMEN IN HISTORY",
+      "text": "In 1849 Elizabeth Blackwell became the 1st woman to earn this degree",
+      "answer": "Doctor of Medicine"
+    },
+    {
+      "category": "PHILOSOPHERS",
+      "text": "Rousseau said it's \"a good bank account, a good cook and a good digestion\", Shultz, \"a warm puppy\"",
+      "answer": "happiness"
+    },
+    {
+      "category": "MUSICAL TEXAS TOWNS",
+      "text": "In 1965 Dean Martin found himself \"Going Back to\" this city",
+      "answer": "Houston"
+    },
+    {
+      "category": "GOLF",
+      "text": "Originally a nautical term for a channel between rocks, it's now the stretch between the tee & green",
+      "answer": "the fairway"
+    },
+    {
+      "category": "IN OTHER WORDS...",
+      "text": "Drudgery enlarges encompassing all hours llotted",
+      "answer": "\"Work expands to fill the time available for it\""
+    },
+    {
+      "category": "WOMEN IN HISTORY",
+      "text": "She married publisher George P. Putnam in 1931",
+      "answer": "Amelia Earhart"
+    },
+    {
+      "category": "PHILOSOPHERS",
+      "text": "Siegel & Shuster gave us the Superman of the comics, & he gave us the philosophical superman",
+      "answer": "Nietzsche"
+    },
+    {
+      "category": "MUSICAL TEXAS TOWNS",
+      "text": "It's how you would spell Dallas if you were singing a song from \"The Most Happy Fella\"",
+      "answer": "\"Big D-Little A-Double L-A-S"
+    },
+    {
+      "category": "GOLF",
+      "text": "Possibly the greatest golfer of all time, he retired at 28 while still an amateur",
+      "answer": "Bobby Jones"
+    },
+    {
+      "category": "IN OTHER WORDS...",
+      "text": "Agree employment, when obtainable",
+      "answer": "\"Nice work, if you can get it\""
+    },
+    {
+      "category": "WOMEN IN HISTORY",
+      "text": "This legendary Philadelphian was born Elizabeth Griscom in 1752 & wasn't famous until after her death",
+      "answer": "Betsy Ross"
+    },
+    {
+      "category": "PHILOSOPHERS",
+      "text": "Aristocles was the real name of this Athenian known for his \"Dialogues\"",
+      "answer": "Plato"
+    },
+    {
+      "category": "MUSICAL TEXAS TOWNS",
+      "text": "Chronologically speaking, Glen Campbell's hits went from Phoenix to Wichita to this city",
+      "answer": "Galveston"
+    },
+    {
+      "category": "GOLF",
+      "text": "Tony Lema earned his nickname when he bought this for the press after a tournament win",
+      "answer": "champagne"
+    },
+    {
+      "category": "IN OTHER WORDS...",
+      "text": "Make no inquiry, yours truly merely toils on these premises",
+      "answer": "\"Don't ask me, I just work here\""
+    },
+    {
+      "category": "NOVEL PLACES",
+      "text": "The Admiral Benbow Inn near Black Hill Cove in the English countryside",
+      "answer": "Treasure Island"
+    },
+    {
+      "category": "BALLET",
+      "text": "Though it's rarely done in ballet, Billy the Kid does this in the Spanish ballet named for him",
+      "answer": "he speaks (in Spanish)"
+    },
+    {
+      "category": "EVOLUTION",
+      "text": "Proof that man walked upright 3.8 million years ago is seen in these in Tanzania, not Grauman's Chinese",
+      "answer": "footprints"
+    },
+    {
+      "category": "PBS",
+      "text": "The 1st black woman admitted to the U. of Ga., C. Hunter-Gault is a correspondent to this \"NewsHour\"",
+      "answer": "MacNeil/Lehrer NewsHour"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "The 2 capitals on the island of Ireland are Dublin & this city",
+      "answer": "Belfast"
+    },
+    {
+      "category": "THE SUPREME COURT",
+      "text": "It wasn't until 1869 that the number of justices stabilized at this number",
+      "answer": "9"
+    },
+    {
+      "category": "NOVEL PLACES",
+      "text": "Spanning a 2 1/2 month period, this novel begins & ends at London's Reform Club",
+      "answer": "Around the World in 80 Days"
+    },
+    {
+      "category": "BALLET",
+      "text": "Historians say it was the \"Ballet Comique de la Reine\", commissioned by Catherine de Médicis in 1581",
+      "answer": "the very first ballet company"
+    },
+    {
+      "category": "EVOLUTION",
+      "text": "The horseshoe crab is called a \"living\" one of these because it's changed little over 200 million years",
+      "answer": "a fossil"
+    },
+    {
+      "category": "PBS",
+      "text": "This science series, which premiered in March 1974, has featured such topics as \"The Miracle of Life\"",
+      "answer": "Nova"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "The world's highest ski run is on this country's Mount Chacaltaya near La Paz",
+      "answer": "Bolivia"
+    },
+    {
+      "category": "THE SUPREME COURT",
+      "text": "He's the first Italian-American appointed to the Supreme Court",
+      "answer": "Scalia"
+    },
+    {
+      "category": "NOVEL PLACES",
+      "text": "Her life experiences take her from Gateshead Hall to Lowood School to Thornfield Manor",
+      "answer": "Jane Eyre"
+    },
+    {
+      "category": "BALLET",
+      "text": "18th century ballet star Gaetan Vestris was known as \"Dieu de la danse\", which means this",
+      "answer": "god of the dance"
+    },
+    {
+      "category": "EVOLUTION",
+      "text": "The full title of Darwin's book is \"On the Origin of Species by Means of\" this",
+      "answer": "Natural Selection"
+    },
+    {
+      "category": "PBS",
+      "text": "Host David McCullough takes PBS viewers on a journey through this museum's \"World\"",
+      "answer": "TheSmithsonian World"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "The Organization of African Unity is headquartered in this capital of Ethiopia",
+      "answer": "Addis Ababa"
+    },
+    {
+      "category": "THE SUPREME COURT",
+      "text": "This president originally appointed Rehnquist to the Court as an associate justice",
+      "answer": "Nixon"
+    },
+    {
+      "category": "NOVEL PLACES",
+      "text": "British Guiana & the densely forested area south of the Orinoco River in Venezuela",
+      "answer": "Green Mansions"
+    },
+    {
+      "category": "BALLET",
+      "text": "This immortal 19th c. ballet tells the story of Albrecht's beloved, who still dances after her death",
+      "answer": "Giselle"
+    },
+    {
+      "category": "EVOLUTION",
+      "text": "The Butler Act prohibiting the teaching of the theory of evolution was on this state's books until 1967",
+      "answer": "Tennessee"
+    },
+    {
+      "category": "PBS",
+      "text": "Host of \"Wall $treet Week\" who posed for Playboy reading the Wall St. Journal in his pool",
+      "answer": "(Louis) Rukeyser"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "Though Auckland was founded as New Zealand's capital, it soon lost the job to this city",
+      "answer": "Wellington"
+    },
+    {
+      "category": "THE SUPREME COURT",
+      "text": "The newest member of the Court, he replaced Lewis F. Powell Jr.",
+      "answer": "(Anthony) Kennedy"
+    },
+    {
+      "category": "NOVEL PLACES",
+      "text": "Floral Heights on the outskirts of Zenith, a midwestern Metropolis",
+      "answer": "Babbitt"
+    },
+    {
+      "category": "BALLET",
+      "text": "At the end of a Rimsky-Korsakov ballet, this title bird pecks the king to death",
+      "answer": "Le Coq d'Or"
+    },
+    {
+      "category": "EVOLUTION",
+      "text": "Modern man is the only living member of this species",
+      "answer": "Homo sapiens"
+    },
+    {
+      "category": "PBS",
+      "text": "\"Masterpiece Theatre\"s most popular & longest running presentation",
+      "answer": "Upstairs, Downstairs"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "Alphabetically 1st among Asian capitals, it's the capital of the United Arab Emirates",
+      "answer": "Abu Dhabi"
+    },
+    {
+      "category": "THE SUPREME COURT",
+      "text": "In July 1965 Arthur Goldberg resigned from the Court to accept this position",
+      "answer": "American Ambassador to the United Nations"
+    }
+  ]
+}

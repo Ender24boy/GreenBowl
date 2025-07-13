@@ -1,0 +1,310 @@
+{
+  "title": "Jeopardy! Mastersgame #44 - Wednesday, May 14, 2025",
+  "date": {
+    "day": 14,
+    "month": "May",
+    "year": 2025
+  },
+  "clues": [
+    {
+      "category": "RIVERS",
+      "text": "Not the Amazon but the more than 1,900-mile-long São Francisco is the longest river entirely within this country",
+      "answer": "Brazil"
+    },
+    {
+      "category": "WEATHERING SOME BOOK TITLES",
+      "text": "I'll admit, reading about creepy, orphaned twin boys in \"Red Rain\" by this author gave me goosebumps",
+      "answer": "(R.L.) Stine"
+    },
+    {
+      "category": "DROP A LETTER",
+      "text": "Finished &vie",
+      "answer": "compete & complete"
+    },
+    {
+      "category": "SHOP TALK",
+      "text": "To a firefighter, \"the stick\" is this, extending 100 feet or more upward from a truck",
+      "answer": "a ladder"
+    },
+    {
+      "category": "HEY THERE, SPEEDY!",
+      "text": "Even if you order slow-roasted chicken with caliente sauce, this chain perennially leads in drive-thru speed, about 4 minutes",
+      "answer": "Taco Bell"
+    },
+    {
+      "category": "AARON SORKIN, WRITER",
+      "text": "(One more time, here's Aaron Sorkin.)  Director David Fincher said working with my writing wasn't for the faint of heart, but my 160-page dialogue-heavy script forthis filmdelivered the goods, winning anAdapted Screenplay Oscar",
+      "answer": "The Social Network"
+    },
+    {
+      "category": "RIVERS",
+      "text": "Dawson City, population 30,000 in the late 1890s, population 1,500 today, sits at the confluence of these 2 rivers",
+      "answer": "the Yukon & the Klondike"
+    },
+    {
+      "category": "WEATHERING SOME BOOK TITLES",
+      "text": "This No. 1 nonfiction bestseller detailed lives lost aboard a doomed fishing vessel in 1991",
+      "answer": "The Perfect Storm"
+    },
+    {
+      "category": "DROP A LETTER",
+      "text": "Poetry &a Gaelic language",
+      "answer": "verse & Erse"
+    },
+    {
+      "category": "SHOP TALK",
+      "text": "A restaurant \"cover\" is one guest; this follows a number to indicate how many guests a table seats, as in a \"4-\" or \"6-\" this",
+      "answer": "top"
+    },
+    {
+      "category": "HEY THERE, SPEEDY!",
+      "text": "This is pretty nimble for something that weighs 925,000 pounds--it's going 17,500 mph right now",
+      "answer": "the International Space Station"
+    },
+    {
+      "category": "AARON SORKIN, WRITER",
+      "text": "(Back to Aaron Sorkin.)  I spent 13 months in a hotel room writing \"The American President\", so to unwind, I watched a lot of ESPN, which led me to createthisTV series; I even got to visit ESPN's Bristol campus where I got the inspiration for Felicity Huffman's character",
+      "answer": "SportsNight"
+    },
+    {
+      "category": "RIVERS",
+      "text": "Australia's longest river, it bears the name of a Scottish soldier & British Colonial secretary",
+      "answer": "Murray"
+    },
+    {
+      "category": "WEATHERING SOME BOOK TITLES",
+      "text": "Now making a big move on the outside is the beloved horse \"Misty of\" this Virginia resort island",
+      "answer": "Chincoteague"
+    },
+    {
+      "category": "DROP A LETTER",
+      "text": "A bit of color &Pulitzer-winning playwright William",
+      "answer": "tinge & Inge"
+    },
+    {
+      "category": "SHOP TALK",
+      "text": "The pilots on an airline flight are the cockpit crew; the flight attendants are part of this other crew",
+      "answer": "the cabin crew"
+    },
+    {
+      "category": "HEY THERE, SPEEDY!",
+      "text": "19th century surgeon Robert Liston could carry out this, which he called \"the last alternative\", in less than 30 seconds",
+      "answer": "an amputation"
+    },
+    {
+      "category": "AARON SORKIN, WRITER",
+      "text": "(Here's Aaron Sorkin.)  Jeff Daniels is one of the best actors I know, which is why I cast him to playAtticus Finchin my Broadway production of \"To Kill a Mockingbird\" & as ajaded anchor seeking redemptionon this series",
+      "answer": "The Newsroom"
+    },
+    {
+      "category": "RIVERS",
+      "text": "This name of a great river means \"son of\" a Hindu creator god",
+      "answer": "Brahmaputra"
+    },
+    {
+      "category": "WEATHERING SOME BOOK TITLES",
+      "text": "In 2016 George R.R. Martin blew in with an excerpt from this very anticipated but unpublished novel (sorry, folks, it'll come when it comes)",
+      "answer": "The Winds of Winter"
+    },
+    {
+      "category": "DROP A LETTER",
+      "text": "A goat &a marketplace",
+      "answer": "agora & angora"
+    },
+    {
+      "category": "SHOP TALK",
+      "text": "To a London cabbie, a long shift is a this, the composer of \"Night And Day\"",
+      "answer": "a Cole Porter"
+    },
+    {
+      "category": "HEY THERE, SPEEDY!",
+      "text": "On Sept. 13, 1935 he set a world speed record above Santa Ana, California by flying 352 mph in an aircraft bearing his name",
+      "answer": "Howard Hughes"
+    },
+    {
+      "category": "AARON SORKIN, WRITER",
+      "text": "(Aaron?)  On \"The West Wing\" I based some of the character of C. J. Cregg onthiswoman, the first female press secretary; she also served as a political consultant on the show",
+      "answer": "Dee Dee Myers"
+    },
+    {
+      "category": "RIVERS",
+      "text": "\"Y\", yes, this giant river of Central Asia flows through Kyzyl, Russia & empties into the Arctic Ocean",
+      "answer": "Yenisei"
+    },
+    {
+      "category": "WEATHERING SOME BOOK TITLES",
+      "text": "We learn \"That Smilla is a damn great lady... one hundred percent\" in this Peter Høeg novel",
+      "answer": "Smilla's Sense of Snow"
+    },
+    {
+      "category": "DROP A LETTER",
+      "text": "To intimidate &a certain female family member",
+      "answer": "daunt & aunt"
+    },
+    {
+      "category": "SHOP TALK",
+      "text": "If you work in the rag trade, you're familiar with this hyphenated French equivalent of \"ready-to-wear\"",
+      "answer": "prêt-à-porter"
+    },
+    {
+      "category": "HEY THERE, SPEEDY!",
+      "text": "This last name of Ettore was on the 1910Type 15, which broke 55 mph, & theMistral, the fastest open-top car at 282 mph",
+      "answer": "Bugatti"
+    },
+    {
+      "category": "AARON SORKIN, WRITER",
+      "text": "(Back to Aaron Sorkin.)  When I took on the task of writing the screenplay for \"The Trial of the Chicago 7\", I struggled with understandingthisYippie activist, but came to understand the seriousness beneath his clownish facade",
+      "answer": "(Abbie) Hoffman"
+    },
+    {
+      "category": "HISTORICAL ARTIFACTS",
+      "text": "In 2008 the New Mexico History Museum acquired one of these hats, left when Pancho Villa raided the village of Columbus in 1916",
+      "answer": "a sombrero"
+    },
+    {
+      "category": "STARTS WITH 2 VOWELS",
+      "text": "In court it's a person who testifies about something based on what they heard, not what they saw",
+      "answer": "an earwitness (auditory witness)"
+    },
+    {
+      "category": "THE NATIONAL PARK SYSTEM",
+      "text": "Bonjou, komen to yê?  Louisiana's Cane River site bears the name of these people of mixed ancestry who occupied the land for 200 years",
+      "answer": "Creole"
+    },
+    {
+      "category": "AFRICAN FOOD",
+      "text": "Ila Alasepo in Nigeria is named for this vegetable that's also central to gumbo",
+      "answer": "okra"
+    },
+    {
+      "category": "POP CULTURE",
+      "text": "Angelina Jolie said this role was her favorite Disney character when she was little; she was afraid of her & she loved her",
+      "answer": "Maleficent"
+    },
+    {
+      "category": "BIOLOGIST BIO",
+      "text": "The 1936 book \"Birds of the West Indies\" was a huge success; Ian Fleming loved it & this author's name on its cover",
+      "answer": "James Bond"
+    },
+    {
+      "category": "HISTORICAL ARTIFACTS",
+      "text": "TheBibleGeorge Washington used for his first inauguration has a permanent home atthisbuilding where he took the oath",
+      "answer": "Federal Hall (in New York)"
+    },
+    {
+      "category": "STARTS WITH 2 VOWELS",
+      "text": "Contrary to its name,thisanimal is actually in the hyena family",
+      "answer": "an Aardwolf"
+    },
+    {
+      "category": "THE NATIONAL PARK SYSTEM",
+      "text": "At over 11,300 feet, Eagle Peak in Wyoming is the highest point in this national park",
+      "answer": "Yellowstone"
+    },
+    {
+      "category": "AFRICAN FOOD",
+      "text": "This treewith 3 \"B\"s in its name produces afruitthat's used in smoothies for its health benefits",
+      "answer": "baobab"
+    },
+    {
+      "category": "POP CULTURE",
+      "text": "Not surprisingly, this \"party game for horrible people\" has an entire nasty bundle of expansion packs",
+      "answer": "Cards Against Humanity"
+    },
+    {
+      "category": "BIOLOGIST BIO",
+      "text": "In 1930, this man published a book on the gall wasp; 18 years later, he'd get more public notice with work on the birds & the bees",
+      "answer": "Kinsey"
+    },
+    {
+      "category": "HISTORICAL ARTIFACTS",
+      "text": "Bottles endure of these products like J.W. Poland headache killer, of dubious effect despite the imprimatur in the name",
+      "answer": "patent medicines"
+    },
+    {
+      "category": "STARTS WITH 2 VOWELS",
+      "text": "From 936 to 1531 most German kings were crowned in this city",
+      "answer": "Aachen"
+    },
+    {
+      "category": "THE NATIONAL PARK SYSTEM",
+      "text": "The national scenic trail named for this 6-state area (but only going through 2 states) is especially scenic in autumn",
+      "answer": "New England"
+    },
+    {
+      "category": "AFRICAN FOOD",
+      "text": "Many West African nations debate who has the best version of thistomato & rice dish, also known as riz gras, but we will not wade into it",
+      "answer": "jollof"
+    },
+    {
+      "category": "POP CULTURE",
+      "text": "To coincide with the Moon landing, this David Bowie song was released in the U.K. in July 1969 & became his first hit",
+      "answer": "\"Space Oddity\""
+    },
+    {
+      "category": "BIOLOGIST BIO",
+      "text": "In 1929, way before she wrote a few bestsellers, she did post-grad work at the marine biological lab. in Woods Hole, Mass.",
+      "answer": "(Rachel) Carson"
+    },
+    {
+      "category": "HISTORICAL ARTIFACTS",
+      "text": "One namesake of this 1928 treaty aiming to end war isshownsigning it with apennow held by the National Museum of American Diplomacy",
+      "answer": "Kellogg–Briand"
+    },
+    {
+      "category": "STARTS WITH 2 VOWELS",
+      "text": "It's another name for thetenor tubathat's used in military parades",
+      "answer": "a euphonium"
+    },
+    {
+      "category": "THE NATIONAL PARK SYSTEM",
+      "text": "A national military park in Ga. & Tenn. is named for Chickamauga & this other \"Ch\" battle, one a Confederate & one a Union victory",
+      "answer": "Chattanooga"
+    },
+    {
+      "category": "AFRICAN FOOD",
+      "text": "Borrowed from Amharic, it's the word for a spongy flatbread used in East African cuisine",
+      "answer": "injera"
+    },
+    {
+      "category": "POP CULTURE",
+      "text": "Thisreal-life star of \"Free Willy\" finally swam in the open ocean in 2002",
+      "answer": "Keiko"
+    },
+    {
+      "category": "BIOLOGIST BIO",
+      "text": "In 2009 Elizabeth Blackburn won a Nobel Prize for her work discovering the nature of these structures that cap chromosomes",
+      "answer": "telomeres"
+    },
+    {
+      "category": "HISTORICAL ARTIFACTS",
+      "text": "A find in Galilee has unearthed hairpins & horseshoes of the Crusader army wiped out in this 1187 battle",
+      "answer": "the Battle of Hattin"
+    },
+    {
+      "category": "STARTS WITH 2 VOWELS",
+      "text": "Usually conical, it's a kiln for drying hops",
+      "answer": "an oast"
+    },
+    {
+      "category": "THE NATIONAL PARK SYSTEM",
+      "text": "The smallest National Park Service site is a0.2-acre Philly national memorialnamed for this Polish-born man & rhyming with \"moose go\"",
+      "answer": "Kosciuszko"
+    },
+    {
+      "category": "AFRICAN FOOD",
+      "text": "Made by pounding cassava,thisdouble-talk West & Central African food is often dipped in stews",
+      "answer": "fufu"
+    },
+    {
+      "category": "POP CULTURE",
+      "text": "\"Wicked\" author Gregory Maguire said this last name of Elphaba refers to \"the sound... a house makes when it falls on your sister\"",
+      "answer": "Throp"
+    },
+    {
+      "category": "BIOLOGIST BIO",
+      "text": "His support for Chucky D & his theories earned this man the moniker \"Darwin's Bulldog\"",
+      "answer": "(Thomas) Huxley"
+    }
+  ]
+}

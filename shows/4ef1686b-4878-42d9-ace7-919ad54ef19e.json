@@ -1,0 +1,310 @@
+{
+  "title": "National College Championship game #6 - Thursday, February 10, 2022",
+  "date": {
+    "day": 10,
+    "month": "February",
+    "year": 2022
+  },
+  "clues": [
+    {
+      "category": "TIME TO HIT THE LIBRARY",
+      "text": "The 2 main kinds of call numbers are Library of Congress & this alliterative type formulated by a college librarian",
+      "answer": "Dewey decimal"
+    },
+    {
+      "category": "FEMALE AUTHORS",
+      "text": "Beatrix Potter, known for 1902's \"The Tale of\" this long-eared fellow, was also a noted conservationist",
+      "answer": "Peter Rabbit"
+    },
+    {
+      "category": "THE 1990s",
+      "text": "Sheinspired a popular hairstyle called \"The Rachel\", named after her TV character",
+      "answer": "Jennifer Aniston"
+    },
+    {
+      "category": "GRAMMY'S ALBUM OF THE YEAR",
+      "text": "2019:For her musical question \"When We All Fall Asleep, Where Do We Go?\"",
+      "answer": "Billie Eilish"
+    },
+    {
+      "category": "PU",
+      "text": "It's the piece of golf equipment seenhere",
+      "answer": "a putter"
+    },
+    {
+      "category": "WHAT'S THAT SMELL?",
+      "text": "Sorry, it's my dog, this breed, who gota little wet",
+      "answer": "(an English) bulldog"
+    },
+    {
+      "category": "TIME TO HIT THE LIBRARY",
+      "text": "This process of registering books to make them findable produced its first electronic record at Ohio University in 1971",
+      "answer": "cataloging"
+    },
+    {
+      "category": "FEMALE AUTHORS",
+      "text": "Joining Thalia & Urania, the ancient Greek poet Sappho was dubbed \"the tenth\" one of these goddesses",
+      "answer": "the Muses"
+    },
+    {
+      "category": "THE 1990s",
+      "text": "Though authorized in 1977, this telescope wasn't placed into orbit until 1990",
+      "answer": "the Hubble Telescope"
+    },
+    {
+      "category": "GRAMMY'S ALBUM OF THE YEAR",
+      "text": "2017:\"24k Magic\" conjured a Grammy for him",
+      "answer": "Bruno Mars"
+    },
+    {
+      "category": "PU",
+      "text": "Cinnamon, nutmeg & ginger go into the blend called this \"pie spice\"",
+      "answer": "pumpkin"
+    },
+    {
+      "category": "WHAT'S THAT SMELL?",
+      "text": "It's eau de this frightened member of the family Mephitidae who just sprayed its musk",
+      "answer": "a skunk"
+    },
+    {
+      "category": "TIME TO HIT THE LIBRARY",
+      "text": "Newspapers, magazines & journals are all these, an information source published at regular intervals",
+      "answer": "periodicals"
+    },
+    {
+      "category": "FEMALE AUTHORS",
+      "text": "This Zora was a Zeta--one of the first sorors of Zeta Phi Beta--when she attended Howard in the 1920s",
+      "answer": "Zora Neale Hurston"
+    },
+    {
+      "category": "THE 1990s",
+      "text": "In thelate '90scivil war broke out between theSerbs & ethnic Albaniansin what is nowthisself-declared independent nation",
+      "answer": "Kosovo"
+    },
+    {
+      "category": "GRAMMY'S ALBUM OF THE YEAR",
+      "text": "1967:This band won for \"Sgt. Pepper's Lonely Hearts Club Band\"",
+      "answer": "The Beatles"
+    },
+    {
+      "category": "PU",
+      "text": "In certain legal cases, for a serious wrong, these \"damages\" may be awarded in excess of compensation",
+      "answer": "punitive"
+    },
+    {
+      "category": "WHAT'S THAT SMELL?",
+      "text": "It'sthisIce Age fossil site in the heart of Los Angeles",
+      "answer": "the La Brea Tar Pits"
+    },
+    {
+      "category": "TIME TO HIT THE LIBRARY",
+      "text": "I.L.L. is short for this service; your library can even get materials from the Library of Congress, but you can't take those home",
+      "answer": "interlibrary loan"
+    },
+    {
+      "category": "FEMALE AUTHORS",
+      "text": "In this long-awaited 2019 sequel, Margaret Atwood brings more news from Gilead",
+      "answer": "The Testaments"
+    },
+    {
+      "category": "THE 1990s",
+      "text": "In 1993 a 51-day standoff between Branch Davidians & federal agents near this Texas city ended tragically with over 75 deaths",
+      "answer": "Waco"
+    },
+    {
+      "category": "GRAMMY'S ALBUM OF THE YEAR",
+      "text": "2018:\"Golden Hour\" was golden for this country-crossover singer",
+      "answer": "Kacey Musgraves"
+    },
+    {
+      "category": "PU",
+      "text": "In Dante's \"Divine Comedy\", this section comes between \"Inferno\" & \"Paradiso\"",
+      "answer": "Purgatorio"
+    },
+    {
+      "category": "WHAT'S THAT SMELL?",
+      "text": "It's this 5-letter type of fertilizer made from bat droppings, but it's not too bad",
+      "answer": "guano"
+    },
+    {
+      "category": "TIME TO HIT THE LIBRARY",
+      "text": "This name of theUCSD libraryhonors Dr. Seuss, who gave many their first love of reading & whose creations it sort of resembles",
+      "answer": "the Geisel Library"
+    },
+    {
+      "category": "FEMALE AUTHORS",
+      "text": "\"Laura's Memories\", an annual pageant in Mansfield, Missouri, celebrates this woman who wrote her books there",
+      "answer": "Laura Ingalls Wilder"
+    },
+    {
+      "category": "THE 1990s",
+      "text": "In 1994, \"Three Tall Women\" earnedthisplaywright his third Pulitzer Prize",
+      "answer": "Edward Albee"
+    },
+    {
+      "category": "GRAMMY'S ALBUM OF THE YEAR",
+      "text": "2014:Soy this guy... he's a winner, baby--(\"Morning Phase\")--so why don't you name him?",
+      "answer": "Beck"
+    },
+    {
+      "category": "PU",
+      "text": "This adjective means pertaining to or affecting the lungs",
+      "answer": "pulmonary"
+    },
+    {
+      "category": "WHAT'S THAT SMELL?",
+      "text": "It'sthistropical fruit from Asia with a mild, sweet flavor, but said to smell like stinky feet",
+      "answer": "durian"
+    },
+    {
+      "category": "HERE'S THE THING",
+      "text": "It's one of these groovy alliterative items that'll look great in your dorm room",
+      "answer": "a lava lamp"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "This South American capital was originally named for \"Our Lady Saint Mary of the Fair Winds\" or \"Good Air\"",
+      "answer": "Buenos Aires"
+    },
+    {
+      "category": "FAMOUS PAINTINGS",
+      "text": "Grant Wood's sister & dentist posed as the Midwestern farmer & daughter in this iconic painting",
+      "answer": "American Gothic"
+    },
+    {
+      "category": "COMEDIANS' ROLES",
+      "text": "Awkwafina's time growing up in this Big Apple borough inspired her character Nora in a Comedy Central series",
+      "answer": "Queens"
+    },
+    {
+      "category": "MEDIEVAL LIFE",
+      "text": "Medieval Brits mainly dressed in this animal fabric; by God's bones, itchy my tunic be!",
+      "answer": "wool"
+    },
+    {
+      "category": "4 LETTERS, 3 VOWELS",
+      "text": "It's a light greenish-blue",
+      "answer": "aqua"
+    },
+    {
+      "category": "HERE'S THE THING",
+      "text": "A symbol of sovereignty, it's a ceremonial staff or baton like the one seenhere",
+      "answer": "a scepter"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "TheTigris Rivercuts through the center ofthiscapital",
+      "answer": "Baghdad"
+    },
+    {
+      "category": "FAMOUS PAINTINGS",
+      "text": "Edvard Munch's diary entry describing \"flaming clouds\" & \"shivering with anxiety\" inspired this iconic 1893 work",
+      "answer": "The Scream"
+    },
+    {
+      "category": "COMEDIANS' ROLES",
+      "text": "In a 2018 film Kevin Hart attends the title \"Night School\" & this female comic is his teacher",
+      "answer": "Tiffany Haddish"
+    },
+    {
+      "category": "MEDIEVAL LIFE",
+      "text": "A major part of medieval Japanese art was portraits ofthesemen, hung in temples--the portraits were--& venerated",
+      "answer": "Buddhist monks"
+    },
+    {
+      "category": "4 LETTERS, 3 VOWELS",
+      "text": "It's a woodwind instrument with a double reed",
+      "answer": "oboe"
+    },
+    {
+      "category": "HERE'S THE THING",
+      "text": "Here's a vintage one of these instant-print cameras whose pictures people really did shake",
+      "answer": "Polaroid"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "Get your Gangnam style on in the upscale Gangnam district of this city",
+      "answer": "Seoul (Korea)"
+    },
+    {
+      "category": "FAMOUS PAINTINGS",
+      "text": "News coverage of the horrific bombing of a Spanish Basque city by the Germans in 1937 led Picasso to create this huge anti-war painting",
+      "answer": "Guernica"
+    },
+    {
+      "category": "COMEDIANS' ROLES",
+      "text": "Tig Notaro got some laughs playing a feisty helicopter pilot in this Zack Snyder zombie flick",
+      "answer": "Army of the Dead"
+    },
+    {
+      "category": "MEDIEVAL LIFE",
+      "text": "This part of a castle's defenses often also functioned as the sewer",
+      "answer": "the moat"
+    },
+    {
+      "category": "4 LETTERS, 3 VOWELS",
+      "text": "\"In\" this means instead",
+      "answer": "lieu"
+    },
+    {
+      "category": "HERE'S THE THING",
+      "text": "It's a cute little kitty inside this type of earthenware planter whose name is partly from the Italian for \"earth\"",
+      "answer": "terra cotta"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "This capital of Malta was named for a Grand Master of the Knights of St. John",
+      "answer": "Valletta"
+    },
+    {
+      "category": "FAMOUS PAINTINGS",
+      "text": "\"A restaurant on Greenwich Avenue (in New York City) where two streets meet\" inspired this Edward Hopper painting",
+      "answer": "Nighthawks"
+    },
+    {
+      "category": "COMEDIANS' ROLES",
+      "text": "\"B\" is for this frank comedian who plays Frank Murphy on the animated hit \"F Is for Family\"",
+      "answer": "Bill Burr"
+    },
+    {
+      "category": "MEDIEVAL LIFE",
+      "text": "The University ofthiscitybetween Florence & Milan attracted students from around Europe & built acollegefor the Spaniards",
+      "answer": "Bologna"
+    },
+    {
+      "category": "4 LETTERS, 3 VOWELS",
+      "text": "This synonym for boyfriend comes from French",
+      "answer": "beau"
+    },
+    {
+      "category": "HERE'S THE THING",
+      "text": "It's this type of conical flask named for a German organic chemist",
+      "answer": "Erlenmeyer"
+    },
+    {
+      "category": "WORLD CAPITALS",
+      "text": "The Vardar River divides this capital of North Macedonia into old & new sections",
+      "answer": "Skopje"
+    },
+    {
+      "category": "FAMOUS PAINTINGS",
+      "text": "This American exhibited her\"Children Playing on the Beach\"at the Final Impressionist Exhibition in 1886",
+      "answer": "Mary Cassatt"
+    },
+    {
+      "category": "COMEDIANS' ROLES",
+      "text": "This comedian nicknamed \"Fluffy\" was the voice of Speedy Gonzales in \"Space Jam: A New Legacy\"",
+      "answer": "(Gabriel) Iglesias"
+    },
+    {
+      "category": "MEDIEVAL LIFE",
+      "text": "This medical practice generated a vacuum above the skin that was supposed to draw out \"vicious humors\"",
+      "answer": "cupping"
+    },
+    {
+      "category": "4 LETTERS, 3 VOWELS",
+      "text": "On a ship, \"put the helm\" this way means to turn away from the wind",
+      "answer": "alee"
+    }
+  ]
+}

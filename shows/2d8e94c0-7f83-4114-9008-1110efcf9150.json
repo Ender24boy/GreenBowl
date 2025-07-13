@@ -1,0 +1,310 @@
+{
+  "title": "Show #4869 - Thursday, November 10, 2005",
+  "date": {
+    "day": 10,
+    "month": "November",
+    "year": 2005
+  },
+  "clues": [
+    {
+      "category": "COLLEGE AKA",
+      "text": "In Alabama:A reddish-brown colour",
+      "answer": "Auburn"
+    },
+    {
+      "category": "GEEK LOVE",
+      "text": "The Woz, Steve Wozniak, built the first computer for this company",
+      "answer": "Apple"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "In the 1840s he began reaping fame & fortune from the sale of his reaping machines",
+      "answer": "(Cyrus) McCormick"
+    },
+    {
+      "category": "I KNOW WHAT YOU DID LAST SUMMER",
+      "text": "A rocket scientist in training, you interned at this lab, JPL for short",
+      "answer": "the Jet Propulsion Lab"
+    },
+    {
+      "category": "THE DA VINCI CODE",
+      "text": "This Da Vinci masterpiece is a portrait of the second wife of a Florentine merchant",
+      "answer": "theMona Lisa"
+    },
+    {
+      "category": "THE ACC",
+      "text": "On July 1, 2005 this school, Doug Flutie's alma mater, became the ACC's 12th member",
+      "answer": "Boston College"
+    },
+    {
+      "category": "COLLEGE AKA",
+      "text": "In New York:A brand of toothpaste",
+      "answer": "Colgate"
+    },
+    {
+      "category": "GEEK LOVE",
+      "text": "Steve Ballmer has big geek shoes to fill for this Washington State software company",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "In June 1876 George Custer made his last stand at the Battle of this river",
+      "answer": "Little Bighorn"
+    },
+    {
+      "category": "I KNOW WHAT YOU DID LAST SUMMER",
+      "text": "You worked with this group founded by Millard Fuller to help build homes for low-income families",
+      "answer": "Habitat for Humanity"
+    },
+    {
+      "category": "THE DA VINCI CODE",
+      "text": "This mural depicts the reaction to Jesus' declaration that \"one of you shall betray me\"",
+      "answer": "The Last Supper"
+    },
+    {
+      "category": "THE ACC",
+      "text": "She's the ACC's all-time goals leader in women's soccer with 103",
+      "answer": "Mia Hamm"
+    },
+    {
+      "category": "COLLEGE AKA",
+      "text": "In Texas:An edible grain of the Gramineae family",
+      "answer": "Rice"
+    },
+    {
+      "category": "GEEK LOVE",
+      "text": "This director's geek cred was sealed when he sold his film co.'s computer division & it later became Pixar",
+      "answer": "George Lucas"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "It was the largest & most powerful state of the German Empire in the 1800s",
+      "answer": "Prussia"
+    },
+    {
+      "category": "I KNOW WHAT YOU DID LAST SUMMER",
+      "text": "You worked as a \"blended beverage technician\" at this chain that started as The Juice Club in 1990",
+      "answer": "Jamba Juice"
+    },
+    {
+      "category": "THE DA VINCI CODE",
+      "text": "Being left-handed made it easy for Leonardo to use what's called this type of writing named for a grooming aid",
+      "answer": "mirror writing"
+    },
+    {
+      "category": "THE ACC",
+      "text": "You'll be a hell of an engineer if you graduate from this school, a 1990 champ in football",
+      "answer": "Georgia Tech"
+    },
+    {
+      "category": "COLLEGE AKA",
+      "text": "In Massachusetts:Small clumps of hairs, trees or grass",
+      "answer": "Tufts"
+    },
+    {
+      "category": "GEEK LOVE",
+      "text": "Sexy Linus Torvalds made us melt when he created this freely distributed UNIX clone in 1991",
+      "answer": "Linux"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "Much of the fighting in this war, 1853 to 1856, took place on a peninsula in the Black Sea",
+      "answer": "the Crimean War"
+    },
+    {
+      "category": "I KNOW WHAT YOU DID LAST SUMMER",
+      "text": "You went to summer school to take this branch of science that deals specifically with compounds of carbon",
+      "answer": "organic chemistry"
+    },
+    {
+      "category": "THE DA VINCI CODE",
+      "text": "Italy has issued euro coins with this Da Vinci \"Man\" on the reverse",
+      "answer": "Vitruvian Man"
+    },
+    {
+      "category": "THE ACC",
+      "text": "In 1954, when you talked about Arnold, you meant this Wake Forest golfer & ACC champ",
+      "answer": "Arnold Palmer"
+    },
+    {
+      "category": "COLLEGE AKA",
+      "text": "In Iowa:A male duck",
+      "answer": "Drake"
+    },
+    {
+      "category": "GEEK LOVE",
+      "text": "Hunky Marc Andreessen turned heads with this early web browser & company, later brought out by AOL",
+      "answer": "Netscape"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "In 1889 this South American country's last emperor, Pedro II, was forced to abdicate",
+      "answer": "Brazil"
+    },
+    {
+      "category": "I KNOW WHAT YOU DID LAST SUMMER",
+      "text": "You slept til noon every day & read novels like \"The Devil Wears Prada\" & \"Bergdorf\" these",
+      "answer": "Blondes"
+    },
+    {
+      "category": "THE DA VINCI CODE",
+      "text": "Around 1485, Leonardo painted the youngladywith this short-tailed weasel seenhere",
+      "answer": "an ermine"
+    },
+    {
+      "category": "THE ACC",
+      "text": "The only ACC withdrawal came in 1971 when this university's Gamecocks resigned",
+      "answer": "the University of South Carolina"
+    },
+    {
+      "category": "WE'VE GOT MORE PEOPLE THAN YOU!",
+      "text": "Iraq,Iran,Israel",
+      "answer": "Iran"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "(Sarah of the Clue Crew gives the clue accompanied by a puppet at the Golden Theatre in New York: \"I'm on the Broadway set ofAvenue Q.\")  This troubled character in \"Avenue Q\" has the same name as an Ivy League university in New Jersey--you do look preppy\"Why thank you!\"",
+      "answer": "Princeton"
+    },
+    {
+      "category": "TOUGH STUFF",
+      "text": "When beekeepers open an active hive, they blow this into it first",
+      "answer": "smoke"
+    },
+    {
+      "category": "SUPREME COURT REJECTS",
+      "text": "This president lost Haynsworth & Carswell but won with Harry Blackmun in 1970",
+      "answer": "Nixon"
+    },
+    {
+      "category": "PITHY QUOTES",
+      "text": "Scrooge's 2-word response to \"A merry Christmas, Uncle!\"",
+      "answer": "\"Bah, Humbug\""
+    },
+    {
+      "category": "THE \"ACC",
+      "text": "Draw & push the bellows so that air passes over the reeds to play this instrument",
+      "answer": "the accordion"
+    },
+    {
+      "category": "WE'VE GOT MORE PEOPLE THAN YOU!",
+      "text": "Latvia,Lithuania,Estonia",
+      "answer": "Lithuania"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Harvey Fierstein milked the role of Tevye in a revival of this classic musical",
+      "answer": "Fiddler on the Roof"
+    },
+    {
+      "category": "TOUGH STUFF",
+      "text": "Siberia is a source for this golden gem, November's birthstone",
+      "answer": "topaz"
+    },
+    {
+      "category": "SUPREME COURT REJECTS",
+      "text": "When John Jay quit, John Rutledge failed to win confirmation as Chief Justice for this president",
+      "answer": "George Washington"
+    },
+    {
+      "category": "PITHY QUOTES",
+      "text": "After recanting is belief that the Earth orbits the sun, he's said to have muttered, \"But it does move\"",
+      "answer": "Galileo"
+    },
+    {
+      "category": "THE \"ACC",
+      "text": "Due in part to scandals at Enron & WorldCom, the Sarbanes-Oxley Act of 2002 sought to reform this profession",
+      "answer": "accounting"
+    },
+    {
+      "category": "WE'VE GOT MORE PEOPLE THAN YOU!",
+      "text": "Nauru,Tonga,Fiji",
+      "answer": "Fiji"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "(Sarah of the Clue Crew gives the clue suspended in a bubble in front of a giant clock in the Gershwin Theatre in New York.)  In the hit musical \"Wicked\", this beautiful resident of Oz floats in high above the set",
+      "answer": "Glinda (the Good Witch)"
+    },
+    {
+      "category": "TOUGH STUFF",
+      "text": "The languages of Mauritania include Soninke, French & this official one",
+      "answer": "Arabic"
+    },
+    {
+      "category": "SUPREME COURT REJECTS",
+      "text": "This president not only got Bork-ed but also got smoked with Douglas Ginsburg",
+      "answer": "Reagan"
+    },
+    {
+      "category": "PITHY QUOTES",
+      "text": "It's said William Booth sent his troops in this charitable \"Army\" a 1-word telegram: \"Others!\"",
+      "answer": "The Salvation Army"
+    },
+    {
+      "category": "THE \"ACC",
+      "text": "It's the capital of Ghana",
+      "answer": "Accra"
+    },
+    {
+      "category": "WE'VE GOT MORE PEOPLE THAN YOU!",
+      "text": "Poland,France,Germany",
+      "answer": "Germany"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Yes, \"Sir\": Robert Goulet played him in \"Camelot\" & Hank Azaria played him in \"Spamalot\"",
+      "answer": "Sir Lancelot"
+    },
+    {
+      "category": "TOUGH STUFF",
+      "text": "(Jeff Probst delivers the clue from Palau.)  Palau celebrates its independence on October 1st because it signed a compact with this country on that date in 1994",
+      "answer": "the United States of America"
+    },
+    {
+      "category": "SUPREME COURT REJECTS",
+      "text": "In 1881 Stanley Matthews failed under Hayes but was confirmed under this doomed president",
+      "answer": "James Garfield"
+    },
+    {
+      "category": "PITHY QUOTES",
+      "text": "French title of Zola's 1898 letter to President Faure",
+      "answer": "J'accuse"
+    },
+    {
+      "category": "THE \"ACC",
+      "text": "When used as a catalyst to spread fire, gasoline is considered this",
+      "answer": "an accelerant"
+    },
+    {
+      "category": "WE'VE GOT MORE PEOPLE THAN YOU!",
+      "text": "Pakistan,Afghanistan,Kazakhstan",
+      "answer": "Pakistan"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "(Cheryl of the Clue Crew gives the clue from inside a giant tree in the New Amsterdam Theatre in New York.)  I'm here in the tree of this character, who's a male baboon in the movie & played by a female here on Broadway",
+      "answer": "Rafiki"
+    },
+    {
+      "category": "TOUGH STUFF",
+      "text": "From the Latin for \"pouch\", it's the scientific term for a possum's pouch",
+      "answer": "marsupium"
+    },
+    {
+      "category": "SUPREME COURT REJECTS",
+      "text": "William Hornblower & Wheeler Peckham gave this president back-to-back losses in 1894",
+      "answer": "Grover Cleveland"
+    },
+    {
+      "category": "PITHY QUOTES",
+      "text": "The King James Bible's shortest verse, \"Jesus wept\", refers to the death of this man",
+      "answer": "Lazarus"
+    },
+    {
+      "category": "THE \"ACC",
+      "text": "Accumulated over time",
+      "answer": "accrued"
+    }
+  ]
+}

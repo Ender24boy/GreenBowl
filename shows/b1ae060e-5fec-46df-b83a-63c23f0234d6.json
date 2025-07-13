@@ -1,0 +1,310 @@
+{
+  "title": "Show #8486 - Monday, October 11, 2021",
+  "date": {
+    "day": 11,
+    "month": "October",
+    "year": 2021
+  },
+  "clues": [
+    {
+      "category": "CITY NICKNAMES",
+      "text": "Oxford is called \"The City of Dreaming Spires\", while this other U.K. place is \"The City of Perspiring Dreams\"",
+      "answer": "Cambridge"
+    },
+    {
+      "category": "POTPOURRI",
+      "text": "The HT in HTML & HTTP stands for this",
+      "answer": "hypertext"
+    },
+    {
+      "category": "THIS ONE GOES TO 2011",
+      "text": "In December 2011 the last U.S. troops left this country, ending a war that began in 2003; they later returned to fight ISIS",
+      "answer": "Iraq"
+    },
+    {
+      "category": "SPORTY ANAGRAMS",
+      "text": "Often unpopular on a diamond:IMPURE",
+      "answer": "the umpire"
+    },
+    {
+      "category": "BIOGRAPHIES",
+      "text": "\"Empire State of Mind\" tells how this man became a rap mogul",
+      "answer": "Jay-Z"
+    },
+    {
+      "category": "THE ICKIEST OF THE \"ICKY",
+      "text": "You've been described as fastidious, so you're too this",
+      "answer": "finicky"
+    },
+    {
+      "category": "CITY NICKNAMES",
+      "text": "Back when it was Constantinople, this Turkish city was known as \"Second Rome\"",
+      "answer": "Istanbul"
+    },
+    {
+      "category": "POTPOURRI",
+      "text": "In the Disney film he's alphabetically last of Snow White's seven dwarfs",
+      "answer": "Sneezy"
+    },
+    {
+      "category": "THIS ONE GOES TO 2011",
+      "text": "From the early 1800s until 2011, these busy workers carried messages & assisted members in the House of Representatives",
+      "answer": "pages"
+    },
+    {
+      "category": "SPORTY ANAGRAMS",
+      "text": "He sometimes runs the football:FLAB HACK",
+      "answer": "halfback"
+    },
+    {
+      "category": "BIOGRAPHIES",
+      "text": "\"Hiding in Plain Sight\" is the subtitle of Julia Sweig's biography of this first lady born in Karnack, Texas",
+      "answer": "(Lady Bird) Johnson"
+    },
+    {
+      "category": "THE ICKIEST OF THE \"ICKY",
+      "text": "Before \"wicket\" it refers to a muddy part on the cricket pitch, or any awkward problem",
+      "answer": "sticky"
+    },
+    {
+      "category": "CITY NICKNAMES",
+      "text": "Looking down Capitol Boulevard, you can see whythisU.S. city--whose French-derived name means \"wooded\"--is the \"City of Trees\"",
+      "answer": "Boise"
+    },
+    {
+      "category": "POTPOURRI",
+      "text": "A flock of geese in flight can be called a skein or wedge; the same group on the ground or in the water is this",
+      "answer": "gaggle"
+    },
+    {
+      "category": "THIS ONE GOES TO 2011",
+      "text": "With a landing in July 2011, the 135-mission program using these came to an end",
+      "answer": "the Space Shuttles"
+    },
+    {
+      "category": "SPORTY ANAGRAMS",
+      "text": "A big shot in basketball:HERE TO RIP NET",
+      "answer": "three pointer"
+    },
+    {
+      "category": "BIOGRAPHIES",
+      "text": "Jon Krakauer's \"Where Men Win Glory\" tells of this man who left the NFL for the Army & was killed in Afghanistan",
+      "answer": "(Pat) Tillman"
+    },
+    {
+      "category": "THE ICKIEST OF THE \"ICKY",
+      "text": "Your pasta has too much of the plant bulb Allium sativum, so it's overly this",
+      "answer": "garlicky"
+    },
+    {
+      "category": "CITY NICKNAMES",
+      "text": "Once gently funned as \"Brisvegas\" for its anemic nightlife, it now prefers \"Australia's New World City\"",
+      "answer": "Brisbane"
+    },
+    {
+      "category": "POTPOURRI",
+      "text": "This appetizer has flowered on the Outback Steakhouse menu since 1988--it accounts for 1 in 4 apps ordered there",
+      "answer": "the Bloomin' Onion"
+    },
+    {
+      "category": "THIS ONE GOES TO 2011",
+      "text": "As this store chain closed, the CEO wrote, \"My sincerest hope is that we remain in the hearts of readers for years to come\"",
+      "answer": "Borders"
+    },
+    {
+      "category": "SPORTY ANAGRAMS",
+      "text": "Multi-gender tennis:EDIBLE MUD SOX",
+      "answer": "mixed doubles"
+    },
+    {
+      "category": "BIOGRAPHIES",
+      "text": "\"Radioactive... a Tale of Love & Fallout\" is about the relationship between this couple with real chemistry",
+      "answer": "Marie & Pierre Curie"
+    },
+    {
+      "category": "THE ICKIEST OF THE \"ICKY",
+      "text": "A fussy baby who cries excessively is often described this way",
+      "answer": "colicky"
+    },
+    {
+      "category": "CITY NICKNAMES",
+      "text": "With the hub airport & some of the most glorious beaches of the French Riviera, it's the \"City of Angels\"",
+      "answer": "Nice"
+    },
+    {
+      "category": "POTPOURRI",
+      "text": "Andrew Lloyd Webber wrote the music to the songs in \"Jesus Christ Superstar\"; this man wrote the lyrics",
+      "answer": "Rice"
+    },
+    {
+      "category": "THIS ONE GOES TO 2011",
+      "text": "Hisdecades of rule ended in Egypt, & though bedridden, he went on trial for crimes including abuse of power",
+      "answer": "Mubarak"
+    },
+    {
+      "category": "SPORTY ANAGRAMS",
+      "text": "Olympic event with ropes & ribbons:CATCHY STRING SHIMMY",
+      "answer": "rhythmic gymnastics"
+    },
+    {
+      "category": "BIOGRAPHIES",
+      "text": "\"His Truth Is Marching On\" tells about this late, great Georgia congressman & \"the Power of Hope\"",
+      "answer": "John Lewis"
+    },
+    {
+      "category": "THE ICKIEST OF THE \"ICKY",
+      "text": "A list of \"10 Most\" this adjective \"Auto Features\" included \"cabin perfume dispensers\"",
+      "answer": "gimmicky"
+    },
+    {
+      "category": "GEORGE WASHINGTON DID IT",
+      "text": "On Christmas night, 1776, Washington crossed the Delaware; the battle of this now-state capital was the next day",
+      "answer": "Trenton"
+    },
+    {
+      "category": "MED. ABBREV.",
+      "text": "After a major surgery, you may end up in the ICU, which stands for this",
+      "answer": "the intensive care unit"
+    },
+    {
+      "category": "NATIONAL LITERARY TITLES",
+      "text": "A detective is hired to track down the missing sister of the secretive Miss Wonderly at the beginning of this hard-boiled novel",
+      "answer": "The Maltese Falcon"
+    },
+    {
+      "category": "IT DOESN'T MEAN WHAT IT SOUNDS LIKE",
+      "text": "Women fought for this, a word which is not derived from \"pain\", rather from the Latin for \"to publicly show support\"",
+      "answer": "suffrage"
+    },
+    {
+      "category": "TALK LIKE A FARMER",
+      "text": "2 main kinds of farming are subsistence farming & growing these alliterative items to sell",
+      "answer": "cash crops"
+    },
+    {
+      "category": "RECENT MOVIES",
+      "text": "It's what \"The Meg\" is in the Jason Statham aquatic actioner",
+      "answer": "a megalodon"
+    },
+    {
+      "category": "GEORGE WASHINGTON DID IT",
+      "text": "Before he was president, George presided over this months-long meeting in the summer of 1787",
+      "answer": "Constitutional Convention"
+    },
+    {
+      "category": "MED. ABBREV.",
+      "text": "IDDM stands for this-dependent diabetes mellitus",
+      "answer": "insulin"
+    },
+    {
+      "category": "NATIONAL LITERARY TITLES",
+      "text": "In this Michael Ondaatje novel, a badly burned plane crash victim remembers a fateful love affair",
+      "answer": "The English Patient"
+    },
+    {
+      "category": "IT DOESN'T MEAN WHAT IT SOUNDS LIKE",
+      "text": "From the Greek for \"song\", this type of \"drama\" sounds like it's really easygoing, but it features exaggerated emotion",
+      "answer": "melodrama"
+    },
+    {
+      "category": "TALK LIKE A FARMER",
+      "text": "This 7-letter layer of earth used for cultivation usually contains more organic matter than the layers beneath it",
+      "answer": "topsoil"
+    },
+    {
+      "category": "RECENT MOVIES",
+      "text": "Anthony Ramos took over Lin-Manuel Miranda's singing bodega owner role in the film adaptation of this stage musical",
+      "answer": "In the Heights"
+    },
+    {
+      "category": "GEORGE WASHINGTON DID IT",
+      "text": "A 1791 proclamation by President George ordered the first this of the District of Columbia; a young George would've done it himself",
+      "answer": "a survey"
+    },
+    {
+      "category": "MED. ABBREV.",
+      "text": "In med speak, a heart attack is an M.I., this infarction",
+      "answer": "myocardial"
+    },
+    {
+      "category": "NATIONAL LITERARY TITLES",
+      "text": "This guy is the magnanimous title Greek in Nikos Kazantzakis' novel about living life to the fullest",
+      "answer": "Zorba"
+    },
+    {
+      "category": "IT DOESN'T MEAN WHAT IT SOUNDS LIKE",
+      "text": "Noisome sounds like it offends the ears, but it means something offensive especially to this other sense organ",
+      "answer": "the nose"
+    },
+    {
+      "category": "TALK LIKE A FARMER",
+      "text": "Though it's not for tea & conversation, an area that may put the cows in a tandem or rotary setup is this activity's \"parlor\"",
+      "answer": "the milking parlor"
+    },
+    {
+      "category": "RECENT MOVIES",
+      "text": "Tom Hardy is back in rare form again playing Eddie Brock, a journalist who shares his body withthisalien symbiote",
+      "answer": "Venom"
+    },
+    {
+      "category": "GEORGE WASHINGTON DID IT",
+      "text": "On May 28, 1754 Lt. Colonel George ordered an attack on the troops of Ensign Coulon de Jumonville, starting this conflict",
+      "answer": "the French and Indian War"
+    },
+    {
+      "category": "MED. ABBREV.",
+      "text": "A blow to the head could cause TBI, short for this",
+      "answer": "a traumatic brain injury"
+    },
+    {
+      "category": "NATIONAL LITERARY TITLES",
+      "text": "Meryl Streep starred in a film of this John Fowles novel",
+      "answer": "The French Lieutenant's Woman"
+    },
+    {
+      "category": "IT DOESN'T MEAN WHAT IT SOUNDS LIKE",
+      "text": "Belladonna means \"fair lady\", but is actually a type of plant called \"deadly\" this",
+      "answer": "nightshade"
+    },
+    {
+      "category": "TALK LIKE A FARMER",
+      "text": "This unit of measure varies with its content: for wheat it's 60 pounds & for oats, 32",
+      "answer": "a bushel"
+    },
+    {
+      "category": "RECENT MOVIES",
+      "text": "This word/genre completes the title of a movie with Riz Ahmed as a drummer going deaf, \"Sound of...\"",
+      "answer": "Metal"
+    },
+    {
+      "category": "GEORGE WASHINGTON DID IT",
+      "text": "At 26 George married a woman with this last name of her first husband",
+      "answer": "Custis"
+    },
+    {
+      "category": "MED. ABBREV.",
+      "text": "P.E. is this type of blood clot in the lungs",
+      "answer": "a pulmonary embolism"
+    },
+    {
+      "category": "NATIONAL LITERARY TITLES",
+      "text": "A home built by the VanHoebeek family gives this 2019 Ann Patchett bestseller its title",
+      "answer": "The Dutch House"
+    },
+    {
+      "category": "IT DOESN'T MEAN WHAT IT SOUNDS LIKE",
+      "text": "As a noun this word refers to a gallant mounted knight; as an adjective, it can mean disdainful or offhand",
+      "answer": "cavalier"
+    },
+    {
+      "category": "TALK LIKE A FARMER",
+      "text": "Despite its name, it's not a frog relative, it's a microscopic worm such as an eelworm that may damage plant roots",
+      "answer": "a nematode"
+    },
+    {
+      "category": "RECENT MOVIES",
+      "text": "The 2020 film \"Resistance\" saw Jesse Eisenberg play this mime working for the French resistance",
+      "answer": "Marcel Marceau"
+    }
+  ]
+}

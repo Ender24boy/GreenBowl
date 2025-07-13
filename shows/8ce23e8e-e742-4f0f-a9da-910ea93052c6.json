@@ -1,0 +1,310 @@
+{
+  "title": "PrimetimeCelebrity Jeopardy!game #25 - Tuesday, January 16, 2024",
+  "date": {
+    "day": 16,
+    "month": "January",
+    "year": 2024
+  },
+  "clues": [
+    {
+      "category": "WHO CAME FIRST?",
+      "text": "John Quincy Adams,John F. Kennedy,Jon Bon Jovi",
+      "answer": "John Quincy Adams"
+    },
+    {
+      "category": "DR. SEUSS EN ESPAÑOL",
+      "text": "\"Huevos Verdes con Jamón\"",
+      "answer": "Green Eggs and Ham"
+    },
+    {
+      "category": "SPELLING BIZ",
+      "text": "Thisbeverage brand debuted in 1876; you can't spell it without spelling...B _ _ _ E _ _ E R",
+      "answer": "Budweiser"
+    },
+    {
+      "category": "KURT RUSSELL FILMS",
+      "text": "Kurt & this funny lady were already a couple when they starred in the 1987 amnesia comedy \"Overboard\"",
+      "answer": "Goldie Hawn"
+    },
+    {
+      "category": "TREES",
+      "text": "This South American rainforest is said to be home to roughly 390 billion trees",
+      "answer": "the Amazon"
+    },
+    {
+      "category": "LOL",
+      "text": "An oldie but goodie, this 1958 Chordettes hit features the line, \"sweeter than candy on a stick\"",
+      "answer": "\"Lollipop\""
+    },
+    {
+      "category": "WHO CAME FIRST?",
+      "text": "Sally Ride,Coretta Scott King,Florence Nightingale",
+      "answer": "Florence Nightingale"
+    },
+    {
+      "category": "DR. SEUSS EN ESPAÑOL",
+      "text": "\"¡Cómo el Grinch Robó la Navidad!\"",
+      "answer": "How the Grinch Stole Christmas"
+    },
+    {
+      "category": "SPELLING BIZ",
+      "text": "Thisgasoline brand merged with Exxon in 1999; you can't spell it without spelling..._ O _ I L",
+      "answer": "Mobil"
+    },
+    {
+      "category": "KURT RUSSELL FILMS",
+      "text": "A sudden reintroduction of oxygen to an enclosed fire can cause this, also the title of a Kurt Russell film",
+      "answer": "Backdraft"
+    },
+    {
+      "category": "TREES",
+      "text": "In the 1984 film \"The Karate Kid\", Daniel asks Mr. Miyagi \"How'd they get so small?\" when he sees Mr. Miyagi trimming these trees",
+      "answer": "bonsai"
+    },
+    {
+      "category": "LOL",
+      "text": "Jane's Addiction singer Perry Farrell got the name for this Chicago music festival from the Three Stooges",
+      "answer": "Lollapalooza"
+    },
+    {
+      "category": "WHO CAME FIRST?",
+      "text": "Ferdinand Magellan,Marco Polo,Christopher Columbus",
+      "answer": "Marco Polo"
+    },
+    {
+      "category": "DR. SEUSS EN ESPAÑOL",
+      "text": "\"El Gato Ensombrerado\"",
+      "answer": "The Cat in the Hat"
+    },
+    {
+      "category": "SPELLING BIZ",
+      "text": "Toyota debutedthismodel in the US in 1983; you can't spell it without spelling...C A _ R _",
+      "answer": "Camry"
+    },
+    {
+      "category": "KURT RUSSELL FILMS",
+      "text": "Rumor has it that Russell was secretly directing the 1993 western \"Tombstone\" while portraying this legendary lawman",
+      "answer": "Wyatt Earp"
+    },
+    {
+      "category": "TREES",
+      "text": "This Bay Area city has a tree on its official flag (it's the type of tree featured in the city's name)",
+      "answer": "Oakland"
+    },
+    {
+      "category": "LOL",
+      "text": "This word meaning \"dawdle\" is almost as much fun to say as \"dillydally\" & \"shilly-shally\", two of its other synonyms",
+      "answer": "lollygag"
+    },
+    {
+      "category": "WHO CAME FIRST?",
+      "text": "Coco Chanel,Frida Kahlo,Jane Austen",
+      "answer": "Jane Austen"
+    },
+    {
+      "category": "DR. SEUSS EN ESPAÑOL",
+      "text": "\"¡Horton Escucha a Quién!\"",
+      "answer": "Horton Hears a Who"
+    },
+    {
+      "category": "SPELLING BIZ",
+      "text": "Bronies knowthisplaything debuted in 1983; you can't spell it without spelling..._ __ _ T _ _ __ O _ Y",
+      "answer": "My Little Pony"
+    },
+    {
+      "category": "KURT RUSSELL FILMS",
+      "text": "Kurt Russell's Santa is the gift that keeps on giving! He even speaks a fake language called \"Elvish\" in this holiday romp",
+      "answer": "The Christmas Chronicles"
+    },
+    {
+      "category": "TREES",
+      "text": "Balsa, magnolia or sequoia: it's the tree that becomes the name of another tree when you add an \"M\" to its end",
+      "answer": "balsa (balsam accepted)"
+    },
+    {
+      "category": "LOL",
+      "text": "In 1955, a U.K. Sunday Express editor declared this novel by Vladimir Nabokov \"the filthiest book I have ever read\"",
+      "answer": "Lolita"
+    },
+    {
+      "category": "WHO CAME FIRST?",
+      "text": "Alexander the Great,Attila the Hun,Genghis Khan",
+      "answer": "Alexander the Great"
+    },
+    {
+      "category": "DR. SEUSS EN ESPAÑOL",
+      "text": "\"Un Pez, Dos Peces, Pez Rojo, Pez Azul\"",
+      "answer": "One Fish, Two Fish, Red Fish, Blue Fish"
+    },
+    {
+      "category": "SPELLING BIZ",
+      "text": "In 1972,thisbrand debuted Red Zinger and Sleepy Time; you can't spell it without spelling..._ _ _ _ _ T _ _ __ E A _ _ _ _ _ _ _",
+      "answer": "Celestial Seasonings"
+    },
+    {
+      "category": "KURT RUSSELL FILMS",
+      "text": "Kurt has said that his most iconic character is \"Snake\" Plissken, the antihero of this film set in a dystopian Big Apple",
+      "answer": "Escape from New York"
+    },
+    {
+      "category": "TREES",
+      "text": "Meaning \"to fall off\" in Latin, it's the word used to describe non-evergreen trees & baby teeth",
+      "answer": "deciduous"
+    },
+    {
+      "category": "LOL",
+      "text": "This 1998 German crowd-pleaser is 80 minutes long; for most of that time, Franka Potente is out of breath",
+      "answer": "Run Lola Run"
+    },
+    {
+      "category": "THE FRENCH HORN",
+      "text": "A French horn's name is technically just \"horn\"--& the modern version was born not in France, but in this land of Oktoberfest",
+      "answer": "Germany"
+    },
+    {
+      "category": "SISTERHOODS",
+      "text": "The beloved March sisters--Meg, Jo, Beth & Amy--are the heroines of this classic novel",
+      "answer": "Little Women"
+    },
+    {
+      "category": "WORDS THAT MAKE DOGS GO NUTS",
+      "text": "It goes hand in hand with \"trick\" on All Hallows' Eve",
+      "answer": "treat"
+    },
+    {
+      "category": "THE MOUNT RUSHMORE OF...",
+      "text": "Will Ferrell films: \"Old School\", \"Anchorman\", \"Step Brothers\" & this comedy set in the Big Apple & the North Pole",
+      "answer": "Elf"
+    },
+    {
+      "category": "WHERE ART THOU?",
+      "text": "You're snapping a selfie atthismuseum's main entrance, a glass pyramid designed by architect I.M. Pei",
+      "answer": "the Louvre"
+    },
+    {
+      "category": "YUP, IT'S A PORT-A-POTTY",
+      "text": "A family-owned port-a-potty business since 2003, its name is \"yes yes\" in French",
+      "answer": "Oui Oui"
+    },
+    {
+      "category": "THE FRENCH HORN",
+      "text": "A French horn & choir comprise the iconic intro of this Rolling Stones song, in which Mick assures us, \"you get what you need\"",
+      "answer": "\"You Can't Always Get What You Want\""
+    },
+    {
+      "category": "SISTERHOODS",
+      "text": "Grammy-winning sisters Ruth, Anita, Bonnie & June kept fans so excited performing as this foursome",
+      "answer": "the Pointer Sisters"
+    },
+    {
+      "category": "WORDS THAT MAKE DOGS GO NUTS",
+      "text": "A large, lavish party with dancing; once upon a time Cinderella attended one",
+      "answer": "ball"
+    },
+    {
+      "category": "THE MOUNT RUSHMORE OF...",
+      "text": "U.S. gymnasts: Simone Biles, Gabby Douglas, Kerri Strug & this gold medalist who became America's Sweetheart in 1984",
+      "answer": "Mary Lou Retton"
+    },
+    {
+      "category": "WHERE ART THOU?",
+      "text": "You're taking a dip in one of the world's most photographed swimming pools, Bondi Icebergs, inthiscity Down Under",
+      "answer": "Sydney"
+    },
+    {
+      "category": "YUP, IT'S A PORT-A-POTTY",
+      "text": "A port-a-potty business for over 30 years, it's also a poker hand consisting of the five highest cards of one suit",
+      "answer": "Royal Flush"
+    },
+    {
+      "category": "THE FRENCH HORN",
+      "text": "In one of the least alluring rituals of horn maintenance, players must invert their instruments routinely to drain them of this",
+      "answer": "spit"
+    },
+    {
+      "category": "SISTERHOODS",
+      "text": "Carmen, Lena, Tibby, Bridget, & a pair of secondhand Levi's in a 2005 film",
+      "answer": "Sisterhood of the Traveling Pants"
+    },
+    {
+      "category": "WORDS THAT MAKE DOGS GO NUTS",
+      "text": "It's the \"P\" in the automotive acronym PRNDL",
+      "answer": "park"
+    },
+    {
+      "category": "THE MOUNT RUSHMORE OF...",
+      "text": "Celebrity chefs: Wolfgang Puck, Julia Child, Anthony Bourdain & this N'awlins legend known for his catchphrase \"Bam!\"",
+      "answer": "Emeril Lagasse"
+    },
+    {
+      "category": "WHERE ART THOU?",
+      "text": "You're hiking up the Yoshida Trail, the most popular route to the summit ofthissacred peak in Japan",
+      "answer": "Mount Fuji"
+    },
+    {
+      "category": "YUP, IT'S A PORT-A-POTTY",
+      "text": "Finally, I've been holding it in forever; it's what the WC stands for onthisport-a-potty",
+      "answer": "water closet"
+    },
+    {
+      "category": "THE FRENCH HORN",
+      "text": "After the 2014 finale, the iconic blue French horn from the set of this TV comedy went home with actor Josh Radnor",
+      "answer": "How I Met Your Mother"
+    },
+    {
+      "category": "SISTERHOODS",
+      "text": "Not everyone on \"Keeping up with the Kardashians\" was a Kardashian; these three were the only sisters to boast TV's splashiest name",
+      "answer": "Kourtney, Kim & Khloe"
+    },
+    {
+      "category": "WORDS THAT MAKE DOGS GO NUTS",
+      "text": "In the \"Ice Age\" films, the acorn-obsessed Scrat is a fictional saber-toothed species of this rodent",
+      "answer": "a squirrel"
+    },
+    {
+      "category": "THE MOUNT RUSHMORE OF...",
+      "text": "Masterpieces: \"Mona Lisa\", \"The Last Supper\", \"the starry night\" & this Botticelli work of a goddess standing in a scallop shell",
+      "answer": "(The) Birth of Venus"
+    },
+    {
+      "category": "WHERE ART THOU?",
+      "text": "You're geeking out on a \"Game of Thrones\" tour of Dubrovnik, an ancient port city inthiscountry",
+      "answer": "Croatia"
+    },
+    {
+      "category": "YUP, IT'S A PORT-A-POTTY",
+      "text": "A break at the Indy 500, it's also the name of public toilets used in San Francisco since 2014",
+      "answer": "Pit Stop"
+    },
+    {
+      "category": "THE FRENCH HORN",
+      "text": "Thispart of the horn where a player inserts their hand can be detached on some instruments to make carrying easier",
+      "answer": "the bell"
+    },
+    {
+      "category": "SISTERHOODS",
+      "text": "Fans of this 1996 bestseller have formed dozens of female bonding clubs worldwide; not all require campfire initiation rituals",
+      "answer": "Divine Secrets of the Ya-Ya Sisterhood"
+    },
+    {
+      "category": "WORDS THAT MAKE DOGS GO NUTS",
+      "text": "In \"Mean Girls\", Gretchen Wieners tries to make this word happen to no avail",
+      "answer": "fetch"
+    },
+    {
+      "category": "THE MOUNT RUSHMORE OF...",
+      "text": "Rock drummers: Neil Peart, Ginger Baker, Keith Moon & this legendary Led Zeppelin beat keeper",
+      "answer": "John Bonham"
+    },
+    {
+      "category": "WHERE ART THOU?",
+      "text": "You're paddling through the heart of Budapest on a kayaking trip downthisriver",
+      "answer": "the Danube"
+    },
+    {
+      "category": "YUP, IT'S A PORT-A-POTTY",
+      "text": "Based in Eau Claire, WI, this port-a-potty company shares its name with the target where a skydiver lands",
+      "answer": "Drop Zone"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "title": "Super Jeopardy!show #5 - Saturday, July 14, 1990",
+  "date": {
+    "day": 14,
+    "month": "July",
+    "year": 1990
+  },
+  "clues": [
+    {
+      "category": "1980s ROCK",
+      "text": "In 1989 \"Express Yourself\" became this singer's 15th straight Top 5 hit, a record for females",
+      "answer": "Madonna"
+    },
+    {
+      "category": "LITERATURE",
+      "text": "This encyclopedia originated as part of the Scottish Enlightenment of the 18th century",
+      "answer": "Encyclopedia Brittanica"
+    },
+    {
+      "category": "PLANTS",
+      "text": "Indican, a colorless substance in this plant, turns blue in air & is used as a dye",
+      "answer": "indigo"
+    },
+    {
+      "category": "GEOMETRY",
+      "text": "A single straight line forms an angle of this many degrees",
+      "answer": "180"
+    },
+    {
+      "category": "DESIGN",
+      "text": "A Schwartzlot is a German painted decoration using enamel of this color on glass",
+      "answer": "black"
+    },
+    {
+      "category": "THE DODGERS",
+      "text": "It's said that when manager Tommy Lasorda cuts himself shaving, he bleeds this color",
+      "answer": "Dodger blue"
+    },
+    {
+      "category": "1980s ROCK",
+      "text": "This Scottish singer appeared in the opening credits of \"For Your Eyes Only\", singing the title tune",
+      "answer": "Sheena Easton"
+    },
+    {
+      "category": "LITERATURE",
+      "text": "The girls who were part of \"The Group\", by Mary McCarthy, attended this college",
+      "answer": "Vassar"
+    },
+    {
+      "category": "PLANTS",
+      "text": "The plantain is a species of this fruit",
+      "answer": "banana"
+    },
+    {
+      "category": "GEOMETRY",
+      "text": "In a right triangle, the side opposite the right angle is called this",
+      "answer": "hypotenuse"
+    },
+    {
+      "category": "DESIGN",
+      "text": "Juniper trees are sometimes used to build chests known by the name of this other wood",
+      "answer": "cedar"
+    },
+    {
+      "category": "THE DODGERS",
+      "text": "His 23 wins in 1988 were the most by a Dodger pitcher since Sandy Koufax's 27 in 1966",
+      "answer": "Orel Hershiser"
+    },
+    {
+      "category": "1980s ROCK",
+      "text": "This group's \"5150\" album was the first with Sammy Hagar as lead singer",
+      "answer": "Van Halen"
+    },
+    {
+      "category": "LITERATURE",
+      "text": "As James Jones could tell you, this completes Kipling's line from \"Gentlemen-Rankers\", \"Damned from...\"",
+      "answer": "here to eternity"
+    },
+    {
+      "category": "PLANTS",
+      "text": "Among the most primitive plants with chlorophyll, it is the main plant life in both seawater & freshwater",
+      "answer": "algae"
+    },
+    {
+      "category": "GEOMETRY",
+      "text": "To determine the area of a circle, you multiply pi X this",
+      "answer": "radius squared"
+    },
+    {
+      "category": "DESIGN",
+      "text": "The Griffin originated as a design in this \"land between two rivers\"",
+      "answer": "Mesopotamia"
+    },
+    {
+      "category": "THE DODGERS",
+      "text": "In 1981 this Dodger pitcher won the Rookie of the Year & the Cy Young Awards",
+      "answer": "Fernando Valenzuela"
+    },
+    {
+      "category": "1980s ROCK",
+      "text": "She joined Tom Petty and the Heartbreakers in the 1981 smash \"Stop Draggin' My Heart Around\"",
+      "answer": "Stevie Nicks"
+    },
+    {
+      "category": "LITERATURE",
+      "text": "Her poem \"I Never Saw A Moor\" didn't refer to her missing a production of \"Othello\"",
+      "answer": "Emily Dickinson"
+    },
+    {
+      "category": "PLANTS",
+      "text": "Carrots are root vegetables while potatoes are examples of these underground stems",
+      "answer": "tubers"
+    },
+    {
+      "category": "GEOMETRY",
+      "text": "2 or more circles that share the same center are said to be this",
+      "answer": "concentric"
+    },
+    {
+      "category": "DESIGN",
+      "text": "This group of buildings formed the Great Fortified Palace of the Moorish kings of Spain",
+      "answer": "Alhambra"
+    },
+    {
+      "category": "THE DODGERS",
+      "text": "In 1969 this catcher, whose career was cut short by a 1958 auto accident, was voted into the Hall of Fame",
+      "answer": "Roy Campanella"
+    },
+    {
+      "category": "1980s ROCK",
+      "text": "In 1985 this group had its first No. 1 single with \"I Want To Know What Love Is\"",
+      "answer": "Foreigner"
+    },
+    {
+      "category": "LITERATURE",
+      "text": "Among his \"Mosses From An Old Manse\" is \"Rappachini's Daughter\"",
+      "answer": "Nathaniel Hawthorne"
+    },
+    {
+      "category": "PLANTS",
+      "text": "This cactus can grow to 50' tall & the white flower that grows on top is Arizona's state flower",
+      "answer": "saguaro"
+    },
+    {
+      "category": "GEOMETRY",
+      "text": "An oblique angle is one that is either acute or this",
+      "answer": "obtuse"
+    },
+    {
+      "category": "DESIGN",
+      "text": "2 of the 3 classical orders of columns developed by the Greeks",
+      "answer": "Doric, Ionic & Corinthian"
+    },
+    {
+      "category": "THE DODGERS",
+      "text": "A Brooklyn bridge is named for this Dodger who lived in Brooklyn & later managed the Mets",
+      "answer": "Gil Hodges"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "You're hot as a pistol if you know the Union bought over 146,000 of this company's pistols",
+      "answer": "Colt"
+    },
+    {
+      "category": "COMMUNICATIONS",
+      "text": "In 1989, for this medium's 50th anniversary, a plaque was put in a museum at the site of the 1939 World's Fair",
+      "answer": "Television"
+    },
+    {
+      "category": "OPERA",
+      "text": "English translation of the title of Berlioz's opera \"Le Troyen\"",
+      "answer": "The Trojans"
+    },
+    {
+      "category": "INSECTS",
+      "text": "When hunting, this carnivore whose name means \"prophet\" raises its forelegs into a pious position",
+      "answer": "a praying mantis"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "This country's deserts include the Gibson, Great Sandy & Great Victoria",
+      "answer": "Australia"
+    },
+    {
+      "category": "KINGS NAMED ED",
+      "text": "In 1939 he visited England for the first time since his abdication",
+      "answer": "Edward VIII"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "In contrast to the \"Stars and Stripes\", the 1861 Confederate flag was nicknamed this",
+      "answer": "\"Stars and Bars\""
+    },
+    {
+      "category": "COMMUNICATIONS",
+      "text": "Communications satellite launched in 1962 that was the first privately owned Earth satellite",
+      "answer": "Telstar"
+    },
+    {
+      "category": "OPERA",
+      "text": "Placido Domingo played Radames in a 1987 production of this Verdi opera staged at the Temple of Luxor",
+      "answer": "Aida"
+    },
+    {
+      "category": "INSECTS",
+      "text": "The German variety of this household pest is also called the Croton bug, after New York City's Croton Reservoir",
+      "answer": "a cockroach"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "Jamestown is the capital of this British island where Napoleon died",
+      "answer": "St. Helena"
+    },
+    {
+      "category": "KINGS NAMED ED",
+      "text": "This country's King Edward supported exploration projects of his brother Henry the Navigator",
+      "answer": "Portugal"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "After failing to stop this general in Atlanta, General Hood asked to be relieved from duty",
+      "answer": "William T. Sherman"
+    },
+    {
+      "category": "COMMUNICATIONS",
+      "text": "U Thant spoke to the U.N. general assembly in English, although this was his native tongue",
+      "answer": "Burmese"
+    },
+    {
+      "category": "OPERA",
+      "text": "This Russian novel inspired the opera \"Raskolnikov\"",
+      "answer": "Crime and Punishment"
+    },
+    {
+      "category": "INSECTS",
+      "text": "Bubonic plague is spread by these insects who bite infected rats",
+      "answer": "fleas"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "In population, it's the largest city in South America",
+      "answer": "São Paulo"
+    },
+    {
+      "category": "KINGS NAMED ED",
+      "text": "Edward IV's symbol wasn't the tulip, though he fled to Holland before returning to fight this war",
+      "answer": "War of the Roses"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "After he resigned as treasury secretary, he was named Chief Justice by Lincoln, who never got along with him",
+      "answer": "Salmon P. Chase"
+    },
+    {
+      "category": "COMMUNICATIONS",
+      "text": "The most often used letter in English text, it is also the quickest to send in Morse code",
+      "answer": "E"
+    },
+    {
+      "category": "OPERA",
+      "text": "Ping, Pang & Pong are characters in this Puccini opera set in Peking",
+      "answer": "Turandot"
+    },
+    {
+      "category": "INSECTS",
+      "text": "The dreaded Dutch Elm Disease is spread from tree to tree by this insect",
+      "answer": "a beetle"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "Found mostly in the Soviet Union, this belt of grassland runs 5,000 miles from Hungary to Manchuria",
+      "answer": "Steppes"
+    },
+    {
+      "category": "KINGS NAMED ED",
+      "text": "At his death he named Harold his successor though he allegedly promised the crown to William of Normandy",
+      "answer": "Edward the Confessor (Edward III)"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "On August 21, 1863 Quantrill's Raiders descended on this city in Kansas",
+      "answer": "Lawrence"
+    },
+    {
+      "category": "COMMUNICATIONS",
+      "text": "This M.I.T. linguist claims every human knows the general principles of language at birth",
+      "answer": "Noam Chomsky"
+    },
+    {
+      "category": "OPERA",
+      "text": "Donizetti opera that includesthe following, perhaps the most famous mad scene in opera:",
+      "answer": "Lucia di Lammermoor"
+    },
+    {
+      "category": "INSECTS",
+      "text": "Some have called the dragonfly this, in the belief that it sews up people's lips",
+      "answer": "a darning needle"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "Iona is part of this Scottish island group",
+      "answer": "Hebrides"
+    },
+    {
+      "category": "KINGS NAMED ED",
+      "text": "King for 3 months in 1483, Shakespeare's \"Richard III\" tells of his death in the tower",
+      "answer": "Edward V"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "title": "Show #1485 - Friday, February 1, 1991",
+  "date": {
+    "day": 1,
+    "month": "February",
+    "year": 1991
+  },
+  "clues": [
+    {
+      "category": "G\" WHIZ",
+      "text": "According to some accounts, he was killed by Elhanan, one of David's soldiers",
+      "answer": "Goliath"
+    },
+    {
+      "category": "SICKNESS & HEALTH",
+      "text": "Despite its name, it's usually caused by an allergy to pollen & involves no change in temp.",
+      "answer": "hay fever"
+    },
+    {
+      "category": "AROUND THE HOUSE",
+      "text": "Metal containers can damage the magnetron tube in this type of cooking equipment",
+      "answer": "a microwave oven"
+    },
+    {
+      "category": "MYSTERIES",
+      "text": "As you might expect, this continent is the setting for Elspeth Huxley's \"Murder on Safari\"",
+      "answer": "Africa"
+    },
+    {
+      "category": "U.S. CITIES",
+      "text": "It's home to the NBA \"Nuggets\" & the NFL \"Broncos\"",
+      "answer": "Denver"
+    },
+    {
+      "category": "FAMOUS GEMINIS",
+      "text": "Some Gemini husbands, like this Vermont-born Mormon leader, scatter their attentions",
+      "answer": "Brigham Young"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "The comet, lionhead & veiltail are popular varieties of this aquatic pet, a type of carp",
+      "answer": "a goldfish"
+    },
+    {
+      "category": "SICKNESS & HEALTH",
+      "text": "Secreted by the cortex, this hormone is used in medicine to reduce inflammation",
+      "answer": "cortisone"
+    },
+    {
+      "category": "AROUND THE HOUSE",
+      "text": "Steamers are now available to waft the scent of these dried flower mixtures thru the house",
+      "answer": "potpourri"
+    },
+    {
+      "category": "MYSTERIES",
+      "text": "The murders in \"A Pocketful of Rye\" by Agatha Christie are based on this nursery rhyme",
+      "answer": "\"Sing a Song of Sixpence\""
+    },
+    {
+      "category": "U.S. CITIES",
+      "text": "Abilene, Texas is named after the Abilene in this state",
+      "answer": "Kansas"
+    },
+    {
+      "category": "FAMOUS GEMINIS",
+      "text": "This \"Jazz Singer\" was born in Russia under the sign of Gemini; we don't know what his mammy's sign was",
+      "answer": "Al Jolson"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "A Scottish city or the last name of Southern author Ellen, who wrote \"In This Our Life\"",
+      "answer": "Glasgow"
+    },
+    {
+      "category": "SICKNESS & HEALTH",
+      "text": "Eye exams often include a pressure check of the eye fluid to test for this disorder",
+      "answer": "glaucoma"
+    },
+    {
+      "category": "AROUND THE HOUSE",
+      "text": "Kitchen device often shaped like an hourglass but containing only about 3 minutes worth of sand",
+      "answer": "an egg timer"
+    },
+    {
+      "category": "MYSTERIES",
+      "text": "\"A Scandal in Bohemia\" tells us, \"there was but one woman to him, and that woman was... Irene Adler\"",
+      "answer": "Sherlock Holmes"
+    },
+    {
+      "category": "U.S. CITIES",
+      "text": "Its wealthiest families once lived in the Back Bay section",
+      "answer": "Boston"
+    },
+    {
+      "category": "FAMOUS GEMINIS",
+      "text": "JFK was a Gemini & this actress who sang \"Happy Birthday\" to him in 1962 was a Gemini, too",
+      "answer": "Marilyn Monroe"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "A ragtime dance popular around WWI, or an animal who's also known as Ursus horribilis",
+      "answer": "a grizzly"
+    },
+    {
+      "category": "SICKNESS & HEALTH",
+      "text": "A DPT vaccine protects against diphtheria, tetanus & pertussis, which is this",
+      "answer": "whooping cough"
+    },
+    {
+      "category": "AROUND THE HOUSE",
+      "text": "On the table it's what you might find in a boat",
+      "answer": "gravy"
+    },
+    {
+      "category": "MYSTERIES",
+      "text": "Last name of Lady Antonia, the biographer who also writes Jemima Shore mysteries",
+      "answer": "Fraser"
+    },
+    {
+      "category": "U.S. CITIES",
+      "text": "St. Paul is the northernmost capital on the Mississippi & this is the southernmost",
+      "answer": "Baton Rouge (Louisiana)"
+    },
+    {
+      "category": "FAMOUS GEMINIS",
+      "text": "Geminis can be flirtatious & fickle, as this swashbuckling Tasmanian actor could have told you",
+      "answer": "Errol Flynn"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "Aaron Copland wrote \"Appalachian Spring\" for this woman, who choreographed it",
+      "answer": "Martha Graham"
+    },
+    {
+      "category": "SICKNESS & HEALTH",
+      "text": "Prescription cough medicines may contain this narcotic drug, derived from opium",
+      "answer": "codeine"
+    },
+    {
+      "category": "AROUND THE HOUSE",
+      "text": "Needlepoint done on a canvas with 16-20 mesh holes per linear inch is called this",
+      "answer": "petit point"
+    },
+    {
+      "category": "MYSTERIES",
+      "text": "Tony Hillerman writes novels about Jim Chee, a detective on this Indian tribe's police force",
+      "answer": "the Navajo"
+    },
+    {
+      "category": "U.S. CITIES",
+      "text": "In 1849, while \"Forty-Niners\" flocked to John Sutter Sr.'s mill, John Sutter Jr. founded this city",
+      "answer": "Sacramento"
+    },
+    {
+      "category": "FAMOUS GEMINIS",
+      "text": "The Gemini poetess who wrote, \"As he died to make men holy, let us die to make men free.\"",
+      "answer": "Julia Ward Howe"
+    },
+    {
+      "category": "ANCIENT HISTORY",
+      "text": "The Persian government ran this service using relay stations with remounts & fresh riders a day's ride apart",
+      "answer": "the postal service"
+    },
+    {
+      "category": "QUOTES",
+      "text": "Completes the quote: \"The beauty of Israel is slain upon thy high places: how are the mighty...\"",
+      "answer": "fallen"
+    },
+    {
+      "category": "WOMEN",
+      "text": "Women who kept these after they wed were called \"Lucy Stoners\" after Lucy Stone who did it in 1855",
+      "answer": "their maiden name"
+    },
+    {
+      "category": "CONNECTICUT",
+      "text": "In existence for 289 years, it's the state's oldest university",
+      "answer": "Yale"
+    },
+    {
+      "category": "ARTISTS",
+      "text": "17th c. painter Jan van Goyen was one of this country's most gifted landscape artists",
+      "answer": "Holland"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Innkeeper,Captain of the Inquisition,dancing horses,Sancho Panza",
+      "answer": "Man of La Mancha"
+    },
+    {
+      "category": "ANCIENT HISTORY",
+      "text": "Known in Greek mythology for his treasures of gold, this Phrygian king really existed",
+      "answer": "Midas"
+    },
+    {
+      "category": "QUOTES",
+      "text": "Gertrude Stein said, \"In\" this country \"there is more space where nobody is than where anybody is.\"",
+      "answer": "USA"
+    },
+    {
+      "category": "WOMEN",
+      "text": "Mahalia Jackson was among those who sang old slave spirituals at his 1963 March on Washington",
+      "answer": "Martin Luther King, Jr."
+    },
+    {
+      "category": "CONNECTICUT",
+      "text": "Bridgeport's Mountain Grove Cemetery is the burial place of Tom Thumb & this showman who employed him",
+      "answer": "P.T. Barnum"
+    },
+    {
+      "category": "ARTISTS",
+      "text": "In 1514 Pope Leo X made Raphael chief architect of this building",
+      "answer": "St. Peter's (Basilica)"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Cassie, Zach,Sheila, Maggie",
+      "answer": "A Chorus Line"
+    },
+    {
+      "category": "ANCIENT HISTORY",
+      "text": "11 rulers of the Byzantine Empire, including the first & last, bore this name",
+      "answer": "Constantine"
+    },
+    {
+      "category": "QUOTES",
+      "text": "On August 25, 1944 Hitler asked this famous question about France's capital",
+      "answer": "\"Is Paris burning?\""
+    },
+    {
+      "category": "WOMEN",
+      "text": "She was the first woman mayor of Chicago",
+      "answer": "Jane Byrne"
+    },
+    {
+      "category": "CONNECTICUT",
+      "text": "Connecticut's highest point is on Mount Frissell, but the peak's top is further north in this state",
+      "answer": "Massachusetts"
+    },
+    {
+      "category": "ARTISTS",
+      "text": "This woman whose life spanned a century was known for painting flowers & cattle skulls",
+      "answer": "Georgia O'Keeffe"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Lt. Joseph Cable,Liat,Bloody Mary",
+      "answer": "South Pacific"
+    },
+    {
+      "category": "ANCIENT HISTORY",
+      "text": "Rome was ruled by these non-Latin neighbors from the late 7th century B.C. to about 509 B.C.",
+      "answer": "the Etruscans"
+    },
+    {
+      "category": "QUOTES",
+      "text": "Joyce Kilmer wrote about one of these \"upon whose bosom snow has lain; who intimately lives with rain\"",
+      "answer": "a tree"
+    },
+    {
+      "category": "WOMEN",
+      "text": "At age 91 Anna Hauptmann is still trying to clear her husband of this 1932 crime",
+      "answer": "the Lindbergh baby kidnapping"
+    },
+    {
+      "category": "CONNECTICUT",
+      "text": "You can visit the house in which Mark Twain lived from 1874-91 in this city",
+      "answer": "Hartford"
+    },
+    {
+      "category": "ARTISTS",
+      "text": "Spanish cubist Jose Victoriano Gonzalez changed his name to this, keeping the initials J.G.",
+      "answer": "Juan Gris"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Queenie,Cap'n Andy,Gaylord Ravenal",
+      "answer": "Show Boat"
+    },
+    {
+      "category": "ANCIENT HISTORY",
+      "text": "A type of camel is named for this ancient country in southwest Asia",
+      "answer": "Bactria"
+    },
+    {
+      "category": "QUOTES",
+      "text": "Phrase that completes John Donne's line \"Never send to know for whom the bell tolls\"",
+      "answer": "\"it tolls for thee\""
+    },
+    {
+      "category": "WOMEN",
+      "text": "She & Harold Ickes were FDR's only original Cabinet members to serve to 1945",
+      "answer": "Frances Perkins"
+    },
+    {
+      "category": "CONNECTICUT",
+      "text": "In 1687 when Gov. Andros came to seize the colonial constitution, it was hidden in this tree",
+      "answer": "the Charter Oak"
+    },
+    {
+      "category": "ARTISTS",
+      "text": "In 1977 the city of Antwerp celebrated the 400th anniversary of the birth of this Baroque artist",
+      "answer": "Peter Paul Rubens"
+    },
+    {
+      "category": "CHARACTERS IN MUSICALS",
+      "text": "Chief Commissar,President of the Politburo,French comrades,Ninotchka",
+      "answer": "Silk Stockings"
+    }
+  ]
+}

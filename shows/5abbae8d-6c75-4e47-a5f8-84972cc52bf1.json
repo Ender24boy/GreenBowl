@@ -1,0 +1,305 @@
+{
+  "title": "Show #7623 - Wednesday, November 1, 2017",
+  "date": {
+    "day": 1,
+    "month": "November",
+    "year": 2017
+  },
+  "clues": [
+    {
+      "category": "TAKE A HIKE!",
+      "text": "It's a short and fairly easy hike toManoa Fallson this most populous Hawaiian island",
+      "answer": "Oahu"
+    },
+    {
+      "category": "SHADES OF BLUE",
+      "text": "John Paul Jones' branch of the Armed Forces",
+      "answer": "the Navy"
+    },
+    {
+      "category": "GOLF",
+      "text": "It's a right-handed golfer's shot that veers to the right, or what he might want to do to his wrists after it does",
+      "answer": "slice"
+    },
+    {
+      "category": "19th CENTURY AMERICA",
+      "text": "In 1813 Baltimore seamstress Mary Pickersgill was commissioned to make the 30' x 42' garrison flag that flew over this fort",
+      "answer": "Fort McHenry"
+    },
+    {
+      "category": "IT'S A \"LOCK",
+      "text": "Juries arrive at this when they can't agree on a verdict",
+      "answer": "deadlock"
+    },
+    {
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
+      "text": "\"His head\" (not his bonnet) \"is full of\" these buzzers",
+      "answer": "bees"
+    },
+    {
+      "category": "TAKE A HIKE!",
+      "text": "Each year thousands of people hike British Columbia's West Coast Trail located on this island",
+      "answer": "Vancouver Island"
+    },
+    {
+      "category": "SHADES OF BLUE",
+      "text": "The witching hour",
+      "answer": "midnight"
+    },
+    {
+      "category": "GOLF",
+      "text": "It's a right-handed golfer's shot that veers to the left, or the punch he might want to throw after it does",
+      "answer": "hook"
+    },
+    {
+      "category": "19th CENTURY AMERICA",
+      "text": "The term \"Era of Good Feelings\" was first used in 1817 by a Boston newspaper after this president visited the city",
+      "answer": "(James) Monroe"
+    },
+    {
+      "category": "IT'S A \"LOCK",
+      "text": "It's the state of being married",
+      "answer": "wedlock"
+    },
+    {
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
+      "text": "\"He's had a thump over the head with\" this Biblical strongman's \"jawbone\"",
+      "answer": "Samson"
+    },
+    {
+      "category": "TAKE A HIKE!",
+      "text": "(Kelly of the Clue Crew shows a map on the monitor.) For those who like a challenge, it takes about six months to hike the nearly 2,200 miles from Springer Mountain in Georgia to Mt. Katahdin in Maine to complete this trail in its entirety",
+      "answer": "the Appalachian Trail"
+    },
+    {
+      "category": "SHADES OF BLUE",
+      "text": "A shoe, or a university",
+      "answer": "oxford"
+    },
+    {
+      "category": "GOLF",
+      "text": "After an extended adventure on 13 in 2017, this 23-year-old became the youngest American to win the British Open",
+      "answer": "Jordan Spieth"
+    },
+    {
+      "category": "19th CENTURY AMERICA",
+      "text": "An 1878 novel about a cattle drive is considered the first fictional treatment of this archetypal Westerner",
+      "answer": "a cowboy"
+    },
+    {
+      "category": "IT'S A \"LOCK",
+      "text": "In Shakespeare he asks, \"If you prick us, do we not bleed? If you tickle us, do we not laugh?\"",
+      "answer": "Shylock"
+    },
+    {
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
+      "text": "\"He sees\" these (Ben probably didn't mean Walter Payton & Dick Butkus)",
+      "answer": "bears"
+    },
+    {
+      "category": "TAKE A HIKE!",
+      "text": "With a variety of landscapes to explore, this South American region whose name means \"big foot\" is a hiker's paradise",
+      "answer": "Patagonia"
+    },
+    {
+      "category": "SHADES OF BLUE",
+      "text": "The mineral seenhere",
+      "answer": "turquoise"
+    },
+    {
+      "category": "GOLF",
+      "text": "In 2016 the Masters, U.S. & British Opens & this 4th in the quartet were all won by players winning their first majors",
+      "answer": "the PGA Championship"
+    },
+    {
+      "category": "19th CENTURY AMERICA",
+      "text": "From 1840 to 1860 this island of 8 million sent 1.7 million immigrants to the United States",
+      "answer": "Ireland"
+    },
+    {
+      "category": "IT'S A \"LOCK",
+      "text": "This company has been a leader in identity theft protection since its founding in 2005",
+      "answer": "LifeLock"
+    },
+    {
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
+      "text": "A drunk is \"half way to\" this site of the second skirmish of the Revolution",
+      "answer": "Concord"
+    },
+    {
+      "category": "TAKE A HIKE!",
+      "text": "REI offers 11-day hiking trips on the Lemosho route to the top of this highest African mountain",
+      "answer": "Kilimanjaro"
+    },
+    {
+      "category": "SHADES OF BLUE",
+      "text": "Almay makes a loose finishing one",
+      "answer": "powder"
+    },
+    {
+      "category": "GOLF",
+      "text": "2-word culinary term for a ballburied partway; over easy or sunny side up?",
+      "answer": "a fried egg"
+    },
+    {
+      "category": "19th CENTURY AMERICA",
+      "text": "The body of this Sauk leader for whom an 1832 war is named was kept in an Iowa museum until 1855, when the museum  burned",
+      "answer": "Black Hawk"
+    },
+    {
+      "category": "IT'S A \"LOCK",
+      "text": "In the U.S. most imitation crab & lobster are made from this fish of the cod family",
+      "answer": "pollock"
+    },
+    {
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
+      "text": "The unsteady fellow has \"lost his\" this, which has a handle called the tiller",
+      "answer": "a rudder"
+    },
+    {
+      "category": "ICHTHYOLOGY",
+      "text": "Some fish are fluviatile, by definition living in these",
+      "answer": "rivers"
+    },
+    {
+      "category": "BORROWED WORDS",
+      "text": "If you're found guilty but you're not present, you've been convicted this Latin way",
+      "answer": "in absentia"
+    },
+    {
+      "category": "OLD NATIONAL ANTHEMS",
+      "text": "From 1833 to 1917 Russia used the anthem \"God Save\" this personage",
+      "answer": "the tsar"
+    },
+    {
+      "category": "AUTHORS' NEW DIRECTIONS",
+      "text": "Pregnant in 1959, Sylvia Plath wrote \"The It-Doesn't-Matter Suit\" for these people",
+      "answer": "children"
+    },
+    {
+      "category": "A MARRIAGE MADE IN...",
+      "text": "The poshLuttrellstown Castle:the former Posh Spice and him",
+      "answer": "David Beckham"
+    },
+    {
+      "category": "KEVIN",
+      "text": "The lone album from this former hubby of Britney known as \"K-Fed\" scored a lofty 15 on Metacritic",
+      "answer": "Kevin Federline"
+    },
+    {
+      "category": "ICHTHYOLOGY",
+      "text": "Its closest living relative, the pacu, has 2 rows of teeth; this fish has just 1 row, much sharper & nastier",
+      "answer": "the piranha"
+    },
+    {
+      "category": "BORROWED WORDS",
+      "text": "Today meaning \"excessive pride\", the Greek word hubris once meant foolishly trying to surpass these",
+      "answer": "the gods"
+    },
+    {
+      "category": "AUTHORS' NEW DIRECTIONS",
+      "text": "Jack Kerouac's only play was titled this \"Generation\"",
+      "answer": "Beat"
+    },
+    {
+      "category": "A MARRIAGE MADE IN...",
+      "text": "Aman-i-Khas resort, next to a tiger sanctuary in India: a 12-hour ceremony for the 14-month marriage of Katy Perry & him",
+      "answer": "(Russell) Brand"
+    },
+    {
+      "category": "KEVIN",
+      "text": "\"Coast of Dreams\", covering 1990-2003, is part of a multivolume history of this state by the late Kevin Starr",
+      "answer": "California"
+    },
+    {
+      "category": "ICHTHYOLOGY",
+      "text": "Elasmobranches like rays & skates have skeletons made of this",
+      "answer": "cartilage"
+    },
+    {
+      "category": "BORROWED WORDS",
+      "text": "It's the French term for the type of dance performed by the Sugar Plum Fairy & the Prince in \"The Nutcracker\"",
+      "answer": "pas de deux"
+    },
+    {
+      "category": "OLD NATIONAL ANTHEMS",
+      "text": "Until 2003 this Middle East nation used \"The Land Of Two Rivers\"",
+      "answer": "Iraq"
+    },
+    {
+      "category": "AUTHORS' NEW DIRECTIONS",
+      "text": "He temporarily dropped the spy stuff in 1971's \"The Naive and Sentimental Lover\"",
+      "answer": "John le Carré"
+    },
+    {
+      "category": "A MARRIAGE MADE IN...",
+      "text": "Boone Hall Plantationin South Carolina: Blake Lively and this actor",
+      "answer": "Ryan Reynolds"
+    },
+    {
+      "category": "KEVIN",
+      "text": "A leading member of the Labor Party, Kevin Rudd was prime minister of this nation from 2007 to 2010",
+      "answer": "Australia"
+    },
+    {
+      "category": "ICHTHYOLOGY",
+      "text": "Some fish are protogynous hermaphrodites, so if the dominant male dies, one of the females can make this change",
+      "answer": "a sex change"
+    },
+    {
+      "category": "BORROWED WORDS",
+      "text": "A Spanish word meaning \"alert\" or \"watchful\", or an English word meaning an unauthorized law enforcer",
+      "answer": "vigilante"
+    },
+    {
+      "category": "OLD NATIONAL ANTHEMS",
+      "text": "In the 19th century this imperial nation used \"Gott Erhalte Franz Den Kaiser\", \"God Save Emperor Francis\"",
+      "answer": "Austria"
+    },
+    {
+      "category": "AUTHORS' NEW DIRECTIONS",
+      "text": "His third novel, \"Mother Night\", was his first to abandon science fiction",
+      "answer": "Vonnegut"
+    },
+    {
+      "category": "A MARRIAGE MADE IN...",
+      "text": "Florence's Forte di Belvedere:Kanye & Kim, at a fortress built in the 16th century for a member of this family",
+      "answer": "the Medicis"
+    },
+    {
+      "category": "KEVIN",
+      "text": "Before his 21-year NBA career, this big man (then big kid) led his high school team to the Chicago city title in 1995",
+      "answer": "Kevin Garnett"
+    },
+    {
+      "category": "ICHTHYOLOGY",
+      "text": "Thesebristles on the heads of catfish get their name from the Latin for \"beard\"",
+      "answer": "barbels"
+    },
+    {
+      "category": "BORROWED WORDS",
+      "text": "This name for soft, fur-lined boots is from a native word for \"bearded seal\", which they could be made from",
+      "answer": "mukluks"
+    },
+    {
+      "category": "OLD NATIONAL ANTHEMS",
+      "text": "\"The Song Of Girondists\", used by France 1848-52, was originally in a historical drama by this writer of the time",
+      "answer": "Alexander Dumas"
+    },
+    {
+      "category": "AUTHORS' NEW DIRECTIONS",
+      "text": "The past-obsessed Marcel Proust wrote a book of these parodies that begin with \"past\"",
+      "answer": "pastiches"
+    },
+    {
+      "category": "A MARRIAGE MADE IN...",
+      "text": "Flora Farm in Los Cabos, Mexico:Victoria's Secret model Behati Prinsloo & this \"Voice\" coach",
+      "answer": "Adam Levine"
+    },
+    {
+      "category": "KEVIN",
+      "text": "In 2017,this\"Shark\" from TV's \"Tank\" ran for the leadership of Canada's conservative party",
+      "answer": "Kevin O'Leary"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "title": "Show #8283 - Wednesday, November 18, 2020",
+  "date": {
+    "day": 18,
+    "month": "November",
+    "year": 2020
+  },
+  "clues": [
+    {
+      "category": "AROUND THE WORLD",
+      "text": "The Windrush, Evenlode & Cherwell are tributaries of this English river",
+      "answer": "the Thames"
+    },
+    {
+      "category": "I GOT THEM HISTORICAL BLUES",
+      "text": "On the day I was born / In April 1822 / I had no idea I'd be president, or a top general too / I wore the blues / The Union Army blues",
+      "answer": "(Ulysses) Grant"
+    },
+    {
+      "category": "FOOD",
+      "text": "Thisfruit was an early symbol of peace & prosperity",
+      "answer": "the fig"
+    },
+    {
+      "category": "V.O. INITIALS",
+      "text": "Ted in \"Ted\":S.M.",
+      "answer": "Seth MacFarlane"
+    },
+    {
+      "category": "REQUESTS",
+      "text": "It's a request made after trial for review by a higher court",
+      "answer": "an appeal"
+    },
+    {
+      "category": "THE PHRASE THAT PAYS",
+      "text": "Adding my opinion, \"I'm putting my\" this trifling amount \"in\"; I'd like to think it's worth more",
+      "answer": "two cents"
+    },
+    {
+      "category": "AROUND THE WORLD",
+      "text": "The name of this Mexican city may be derived from a ranch in the area whose name translates to \"Aunt Jane\"",
+      "answer": "Tijuana"
+    },
+    {
+      "category": "I GOT THEM HISTORICAL BLUES",
+      "text": "Can you hear this train's whistle blowin' / In 1889 / Running from Paris to Constantinople / Murder on the riders' minds",
+      "answer": "the Orient Express"
+    },
+    {
+      "category": "FOOD",
+      "text": "No lie, Burger King calls this signature sandwich \"America's favorite burger\"",
+      "answer": "the Whopper"
+    },
+    {
+      "category": "V.O. INITIALS",
+      "text": "Ralph in \"Wreck-It Ralph\":J.C.R.",
+      "answer": "John C. Reilly"
+    },
+    {
+      "category": "REQUESTS",
+      "text": "On Facebook if you delete this request, the sender can't send you another one for a year",
+      "answer": "a friend request"
+    },
+    {
+      "category": "THE PHRASE THAT PAYS",
+      "text": "Something completely without value is said to be \"not worth a plugged\" this",
+      "answer": "a nickel"
+    },
+    {
+      "category": "AROUND THE WORLD",
+      "text": "The name of this Iraqi city means \"gift of God\" or \"founded by God\"",
+      "answer": "Baghdad"
+    },
+    {
+      "category": "I GOT THEM HISTORICAL BLUES",
+      "text": "There's a dark house over yonder / In Boston's North Square / The home this Founding Father rode from / A home still standing there",
+      "answer": "Paul Revere"
+    },
+    {
+      "category": "FOOD",
+      "text": "It's Christmas, and we got a batch ofthissemi-soft candy--yum",
+      "answer": "fudge"
+    },
+    {
+      "category": "V.O. INITIALS",
+      "text": "Mater in \"Cars\":L.T.C.G.",
+      "answer": "Larry the Cable Guy"
+    },
+    {
+      "category": "REQUESTS",
+      "text": "In 2015 a California state agency mandated that restaurants may not serve this unless the diner requests it",
+      "answer": "a glass of water"
+    },
+    {
+      "category": "THE PHRASE THAT PAYS",
+      "text": "You \"turn on\" one of these when you change direction in a small area",
+      "answer": "a dime"
+    },
+    {
+      "category": "AROUND THE WORLD",
+      "text": "This largest Alaskan island is home to the largest type of grizzly bear",
+      "answer": "Kodiak"
+    },
+    {
+      "category": "I GOT THEM HISTORICAL BLUES",
+      "text": "Goin' to this max-security prison / Goin' to N.Y. soon / Its prisoner revolt had Pacino scream it / In \"Dog Day Afternoon\"",
+      "answer": "Attica"
+    },
+    {
+      "category": "FOOD",
+      "text": "Encyclopedia Britannica says this quick bread \"became an integral part of the fashionable ritual of 'taking tea\"'",
+      "answer": "scones"
+    },
+    {
+      "category": "V.O. INITIALS",
+      "text": "Remy from \"Ratatouille\":P.O.",
+      "answer": "Patton Oswalt"
+    },
+    {
+      "category": "REQUESTS",
+      "text": "Perhaps the most famous song request in movie history is for this tune: Play it, Sam",
+      "answer": "\"As Time Goes By\""
+    },
+    {
+      "category": "THE PHRASE THAT PAYS",
+      "text": "The essential point of a matter, or the very last part of a financial report showing profit or loss",
+      "answer": "the bottom line"
+    },
+    {
+      "category": "AROUND THE WORLD",
+      "text": "This 1,500-mile mountain chain separates the Mediterranean basin from the Sahara",
+      "answer": "the Atlas Mountains"
+    },
+    {
+      "category": "I GOT THEM HISTORICAL BLUES",
+      "text": "Hundreds of miles of this barrier / Got to stop any German assault / Got a design but no Belgian line / Think that may be a fault",
+      "answer": "Maginot"
+    },
+    {
+      "category": "FOOD",
+      "text": "This corkscrew pasta gets its name from the Italian for \"little spindles\"",
+      "answer": "fusilli"
+    },
+    {
+      "category": "V.O. INITIALS",
+      "text": "Wyldstyle/Lucy in \"The Lego Movie\":E.B.",
+      "answer": "Elizabeth Banks"
+    },
+    {
+      "category": "REQUESTS",
+      "text": "To access a web page, your computer sends this familiar 4-letter type of request",
+      "answer": "HTTP"
+    },
+    {
+      "category": "THE PHRASE THAT PAYS",
+      "text": "This \"royal\" phrase denotes a huge amount of money, perhaps to get your monarch back from those kidnappers",
+      "answer": "a king's ransom"
+    },
+    {
+      "category": "90s NEWSMAKERS",
+      "text": "In 1994, 4 years after his release from prison, he became president of South Africa",
+      "answer": "Mandela"
+    },
+    {
+      "category": "ANIMAL ETYMOLOGY",
+      "text": "No surprise, this animal's name is from Greek for \"8-footed\"",
+      "answer": "the octopus"
+    },
+    {
+      "category": "WORRY LINES",
+      "text": "In a No. 1 song, he cautioned, \"In every life we have some trouble but when you worry you make it double, don't worry be happy\"",
+      "answer": "(Bobby) McFerrin"
+    },
+    {
+      "category": "ONE-SUBJECT NONFICTION",
+      "text": "\"One Good Turn\" is a history of this tool & Mr. Phillips makes an appearance",
+      "answer": "a screwdriver"
+    },
+    {
+      "category": "TV CRIME SHOWS",
+      "text": "As Marty Byrde on \"Ozark\",thisactor relocates his family to Missouri to try to pay off a debt to a drug cartel",
+      "answer": "Jason Bateman"
+    },
+    {
+      "category": "STARTS WITH \"E",
+      "text": "If you're being elusive, you are taking these \"maneuvers\"",
+      "answer": "evasive"
+    },
+    {
+      "category": "90s NEWSMAKERS",
+      "text": "We salute you if you remember thathevictoriously led U.S. Forces in the Persian Gulf War",
+      "answer": "(Norman) Schwarzkopf"
+    },
+    {
+      "category": "ANIMAL ETYMOLOGY",
+      "text": "From Malay for \"man of the forest\", this primate lives in the tropical rain forests of Sumatra",
+      "answer": "the orangutan"
+    },
+    {
+      "category": "WORRY LINES",
+      "text": "\"What, me worry?\" is the motto of this Mad Magazine cover boy",
+      "answer": "Alfred E. Neuman"
+    },
+    {
+      "category": "ONE-SUBJECT NONFICTION",
+      "text": "In 2018 \"Cod\" & \"Salt\" author Mark Kurlansky tackled this liquid, letting us know donkey's is low-fat & goat's is high-protein",
+      "answer": "milk"
+    },
+    {
+      "category": "TV CRIME SHOWS",
+      "text": "A fashionable psychopathic hitwoman becomes the obsession of an MI6 agent on this BBC comedy crime drama",
+      "answer": "Killing Eve"
+    },
+    {
+      "category": "STARTS WITH \"E",
+      "text": "Being \"burnt in\" this 6-letter manner is not usually a good sign",
+      "answer": "effigy"
+    },
+    {
+      "category": "90s NEWSMAKERS",
+      "text": "This Michigan M.D. defended himself at his fifth trial, in 1999; conviction for second-degree murder ensued",
+      "answer": "Dr. Kevorkian"
+    },
+    {
+      "category": "ANIMAL ETYMOLOGY",
+      "text": "The reindeer also goes by this Native American name meaning \"shoveler of snow\", from its habit of shoving snow aside to feed",
+      "answer": "the caribou"
+    },
+    {
+      "category": "WORRY LINES",
+      "text": "An old song says, \"What's the use of worrying... so, pack up your troubles in your old kit bag and\" do this, this, this",
+      "answer": "smile, smile, smile"
+    },
+    {
+      "category": "ONE-SUBJECT NONFICTION",
+      "text": "Vince Beiser's \"The World in a Grain\" is about this substance that concrete & glass, among other things, are made of",
+      "answer": "sand"
+    },
+    {
+      "category": "TV CRIME SHOWS",
+      "text": "Spun off from \"Sons of Anarchy\", this show focuses on an outlaw motorcycle gang operating on the California/ Mexico border",
+      "answer": "Mayans"
+    },
+    {
+      "category": "STARTS WITH \"E",
+      "text": "Seismological term for the place you least want to be in an earthquake",
+      "answer": "the epicenter"
+    },
+    {
+      "category": "90s NEWSMAKERS",
+      "text": "The daughter of a Czech diplomat, she was U.S. ambassador to the U.N. before becoming U.S. Secretary of State",
+      "answer": "Madeleine Albright"
+    },
+    {
+      "category": "ANIMAL ETYMOLOGY",
+      "text": "Though it's really a mammal, its name is from Latin for \"pig fish\"",
+      "answer": "porpoise"
+    },
+    {
+      "category": "WORRY LINES",
+      "text": "When he was chair of the Fed in 1995, he said, \"I worry incessantly that I might be too clear\"",
+      "answer": "Greenspan"
+    },
+    {
+      "category": "ONE-SUBJECT NONFICTION",
+      "text": "Jasmine & vanilla are 2 ingredients, but you won't get the whole recipe in Tilar J. Mazzeo's book about this numerical perfume",
+      "answer": "Chanel No. 5"
+    },
+    {
+      "category": "TV CRIME SHOWS",
+      "text": "3 suburban mothers stop playing it safe & rob a supermarket on this show, but that's just the start of their criminal troubles",
+      "answer": "Good Girls"
+    },
+    {
+      "category": "STARTS WITH \"E",
+      "text": "A Christian holiday, or any sudden insight",
+      "answer": "Epiphany"
+    },
+    {
+      "category": "90s NEWSMAKERS",
+      "text": "Replacing Ed Koch in 1990,hebecame New York City's first African American mayor",
+      "answer": "(David) Dinkins"
+    },
+    {
+      "category": "ANIMAL ETYMOLOGY",
+      "text": "Though wide awake now,thiscritter is thought to get the first part of its name from a word for \"sleep\"",
+      "answer": "a dormouse"
+    },
+    {
+      "category": "WORRY LINES",
+      "text": "In this compilation of teachings, the Jewish sage Hillel said, \"The more possessions, the more worry\"",
+      "answer": "the Talmud"
+    },
+    {
+      "category": "ONE-SUBJECT NONFICTION",
+      "text": "Charles Seife wrote a book about it; ignored by the Romans & Greeks, it became \"the most important tool in mathematics\"",
+      "answer": "zero"
+    },
+    {
+      "category": "TV CRIME SHOWS",
+      "text": "This show stars Cillian Murphy as the leader of a British gang that rises up from the streets after World War I",
+      "answer": "Peaky Blinders"
+    },
+    {
+      "category": "STARTS WITH \"E",
+      "text": "This word that means boiling over with excitement comes from the Latin for \"boiling over\"",
+      "answer": "ebullient"
+    }
+  ]
+}

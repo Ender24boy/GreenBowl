@@ -1,0 +1,305 @@
+{
+  "title": "Show #7912 - Tuesday, January 22, 2019",
+  "date": {
+    "day": 22,
+    "month": "January",
+    "year": 2019
+  },
+  "clues": [
+    {
+      "category": "EVERYONE INTO THE POOL!",
+      "text": "\"Swimming World\" magazine namedhimMale World Swimmer of the Year eight times",
+      "answer": "Michael Phelps"
+    },
+    {
+      "category": "U.S. GEOGRAPHY",
+      "text": "The Great Salt Lake desert covers about 4,000 square miles in this state",
+      "answer": "Utah"
+    },
+    {
+      "category": "TAKING STOCK",
+      "text": "Beastly word for someone with an optimistic view of the stock market",
+      "answer": "a bull market"
+    },
+    {
+      "category": "LIT-POURRI",
+      "text": "Capote novella that contains the line \"it was one of these mailboxes that had first made me aware of Holly Golightly\"",
+      "answer": "Breakfast at Tiffany's"
+    },
+    {
+      "category": "NEVER GONNA GIVE U UP",
+      "text": "With a lever, it's pivotal",
+      "answer": "fulcrum"
+    },
+    {
+      "category": "RICK ROLES",
+      "text": "On the AFI's list of top heroes, No. 4 is Rick Blaine, played by him in \"Casablanca\"",
+      "answer": "Humphrey Bogart"
+    },
+    {
+      "category": "EVERYONE INTO THE POOL!",
+      "text": "One of the most popular swimming pool games bears the name of this Venetian traveler",
+      "answer": "Marco Polo"
+    },
+    {
+      "category": "U.S. GEOGRAPHY",
+      "text": "This city that's home to the University of Colorado lies at the base of the Flatiron Range of the Rockies",
+      "answer": "Boulder"
+    },
+    {
+      "category": "TAKING STOCK",
+      "text": "The Nikkei Index tracks the top 225 stocks on this city's stock exchange",
+      "answer": "Tokyo"
+    },
+    {
+      "category": "LIT-POURRI",
+      "text": "His works include \"Neverwhere\" , \"The Graveyard Book\" & 2017's \"Norse Mythology\"",
+      "answer": "Neil Gaiman"
+    },
+    {
+      "category": "NEVER GONNA GIVE U UP",
+      "text": "This adjective for a not-celebrated \"hero\" is also a TV show chronicling the rise & fall of musical acts",
+      "answer": "Unsung"
+    },
+    {
+      "category": "RICK ROLES",
+      "text": "Andrew Lincoln played Rick Grimes, formerly in law enforcement, on this cable series",
+      "answer": "The Walking Dead"
+    },
+    {
+      "category": "EVERYONE INTO THE POOL!",
+      "text": "He found relief fromhispolio swimming in the mineral pools of Warm Springs, Georgia, wherehehad a little \"White House\"",
+      "answer": "FDR (Franklin Roosevelt)"
+    },
+    {
+      "category": "U.S. GEOGRAPHY",
+      "text": "Edgartown & Oak Bluffs are 2 of only a handful of towns on this island in New England",
+      "answer": "Martha's Vineyard"
+    },
+    {
+      "category": "TAKING STOCK",
+      "text": "Market winners in early 2018 include CMG, this Mexican food chain that got a new CEO & saw its price rise 50%",
+      "answer": "Chipotle"
+    },
+    {
+      "category": "LIT-POURRI",
+      "text": "\"Peace Breaks Out\" is John Knowles' sequel to this novel set at a New England boarding school",
+      "answer": "A Separate Peace"
+    },
+    {
+      "category": "RICK ROLES",
+      "text": "Brendan Fraser played Rick O'Connell, exploring Egypt in this 1999 film",
+      "answer": "The Mummy"
+    },
+    {
+      "category": "EVERYONE INTO THE POOL!",
+      "text": "Once known as water ballet, it became an Olympic sport in 1984",
+      "answer": "synchronized swimming"
+    },
+    {
+      "category": "U.S. GEOGRAPHY",
+      "text": "It sounds like a daily paper but this port city is actually part of a metro area that includes Norfolk & Virginia Beach",
+      "answer": "Newport News"
+    },
+    {
+      "category": "TAKING STOCK",
+      "text": "In 1971 this new U.S. stock exchange introduced the era of all-electronic trading",
+      "answer": "NASDAQ"
+    },
+    {
+      "category": "LIT-POURRI",
+      "text": "The title of this World War II-set novel refers to Liesel Meminger, who learns to read what she has stolen",
+      "answer": "The Book Thief"
+    },
+    {
+      "category": "NEVER GONNA GIVE U UP",
+      "text": "Montreuil is one of Paris",
+      "answer": "a suburb"
+    },
+    {
+      "category": "RICK ROLES",
+      "text": "In this film set in 2019, Rick Deckard (Harrison Ford) falls in love with a replicant",
+      "answer": "Blade Runner"
+    },
+    {
+      "category": "EVERYONE INTO THE POOL!",
+      "text": "You can enjoy some spectacular backdrops from this type of pool, also called a vanishing or negative edge pool",
+      "answer": "an infinity pool"
+    },
+    {
+      "category": "U.S. GEOGRAPHY",
+      "text": "Niagara Falls is made up of 2 falls, the American falls & these Canadian falls",
+      "answer": "Horseshoe Falls"
+    },
+    {
+      "category": "TAKING STOCK",
+      "text": "Running its own market index as well as providing credit ratings, \"S&P\" stands for this company",
+      "answer": "Standard & Poor's"
+    },
+    {
+      "category": "LIT-POURRI",
+      "text": "In a 2018 bestseller, Madeline Miller retells the story of this Greek sorceress, daughter of Helios",
+      "answer": "Circe"
+    },
+    {
+      "category": "NEVER GONNA GIVE U UP",
+      "text": "Type of plant seenhere, familiar to an infant Moses",
+      "answer": "a bulrush"
+    },
+    {
+      "category": "RICK ROLES",
+      "text": "Back on '80s TV, Larry Manetti was Rick Wright, a sidekick of this P.I. played by Tom Selleck",
+      "answer": "Magnum"
+    },
+    {
+      "category": "50 YEARS AGO, IN 1969",
+      "text": "With a $28,000-per-episode budget, this PBS kids' show made its debut on Nov. 10 & has stuck around for a few decades",
+      "answer": "Sesame Street"
+    },
+    {
+      "category": "EVERYTHING'S IN ORDINAL",
+      "text": "This blows in when you get a sudden burst of energy after feeling tired",
+      "answer": "second wind"
+    },
+    {
+      "category": "LANGUAGE FAMILIES",
+      "text": "Indo-Iranian & Germanic are branches of this hyphenated family that spans 2 continents",
+      "answer": "Indo-European"
+    },
+    {
+      "category": "MUSICAL & PLAY SETTINGS",
+      "text": "Much of this musical is set at the Kit Kat Klub in Berlin",
+      "answer": "Cabaret"
+    },
+    {
+      "category": "SPECIAL DAYS",
+      "text": "You might be \"in the\" or \"tickled\" this color on June 23, its national day",
+      "answer": "pink"
+    },
+    {
+      "category": "A FEW GOOD MEN",
+      "text": "Glen Bell was a WWII Marine cook in Guadalcanal before he started this Mexican fast food chain",
+      "answer": "Taco Bell"
+    },
+    {
+      "category": "50 YEARS AGO, IN 1969",
+      "text": "Ironically, on Feb. 14 Pope Paul VI's edict removed the feast of this saint's day from the liturgical calendar",
+      "answer": "Saint Valentine"
+    },
+    {
+      "category": "EVERYTHING'S IN ORDINAL",
+      "text": "It's the next rank under captain on a commercial ship",
+      "answer": "first mate"
+    },
+    {
+      "category": "LANGUAGE FAMILIES",
+      "text": "Niger-Congo languages include this Bantu tongue that's official in Kenya & Tanzania",
+      "answer": "Swahili"
+    },
+    {
+      "category": "MUSICAL & PLAY SETTINGS",
+      "text": "This play about a widow & her chauffeur \"takes place from 1948 to 1973, mostly in Atlanta\"",
+      "answer": "Driving Miss Daisy"
+    },
+    {
+      "category": "SPECIAL DAYS",
+      "text": "Use the smiling face with heart eyes on July 17, the world day for these",
+      "answer": "emojis"
+    },
+    {
+      "category": "A FEW GOOD MEN",
+      "text": "Comedian Rob Riggle was still an active reservist when he was a correspondent on this Comedy Central news satire show",
+      "answer": "The Daily Show"
+    },
+    {
+      "category": "50 YEARS AGO, IN 1969",
+      "text": "Called a sort of dress rehearsal,thisspace mission in May of 1969 sent the first color TV pictures of planet Earth",
+      "answer": "Apollo 10"
+    },
+    {
+      "category": "EVERYTHING'S IN ORDINAL",
+      "text": "You don't want to touch this electric transportation item, in real life or in politics",
+      "answer": "the third rail"
+    },
+    {
+      "category": "LANGUAGE FAMILIES",
+      "text": "Yucatecan is one branch of the language family that gets its name from this ancient civilization",
+      "answer": "the Maya"
+    },
+    {
+      "category": "MUSICAL & PLAY SETTINGS",
+      "text": "In Act One, Scene 1 of this play, \"the curtain rises on Truvy's Beauty Shop\" in Chinquapin Parish, Louisiana",
+      "answer": "Steel Magnolias"
+    },
+    {
+      "category": "SPECIAL DAYS",
+      "text": "July 13 honors these side orders, whether matchstick or shoestring",
+      "answer": "french fries"
+    },
+    {
+      "category": "A FEW GOOD MEN",
+      "text": "Before he joined the First Order as Kylo Ren, this actor was one of the good guys, enlisting as a Marine",
+      "answer": "(Adam) Driver"
+    },
+    {
+      "category": "50 YEARS AGO, IN 1969",
+      "text": "Student occupation of a Harvard building led to the end of this military education program at the school for 40 years",
+      "answer": "ROTC"
+    },
+    {
+      "category": "EVERYTHING'S IN ORDINAL",
+      "text": "This Christian sect founded in the U.S. got its official name in 1860",
+      "answer": "the Seventh-day Adventists"
+    },
+    {
+      "category": "LANGUAGE FAMILIES",
+      "text": "The Athabascan family ranges into Canada & includes this SW language, the USA's most widely spoken native language",
+      "answer": "Navajo"
+    },
+    {
+      "category": "MUSICAL & PLAY SETTINGS",
+      "text": "This 1988 Tony-winning play is set in a Paris prison in the present & in flashbacks from 1960 to 1970 in Beijing",
+      "answer": "M. Butterfly"
+    },
+    {
+      "category": "SPECIAL DAYS",
+      "text": "July 12 celebrates those like Jane Seymour & Kate Bosworth who have heterochromia, meaning this",
+      "answer": "different-colored eyes"
+    },
+    {
+      "category": "A FEW GOOD MEN",
+      "text": "Before he was a go-to guy for Scorsese, this actor earned a medal forhisservice in Lebanon in the 1950s",
+      "answer": "Harvey Keitel"
+    },
+    {
+      "category": "50 YEARS AGO, IN 1969",
+      "text": "Dismissed by de Gaulle in 1968, he returned to the \"centre\" of French politics, succeeding de Gaulle as president",
+      "answer": "Georges Pompidou"
+    },
+    {
+      "category": "EVERYTHING'S IN ORDINAL",
+      "text": "First used in Spain in the 1930s, this term refers to a group working in secret to aid an enemy",
+      "answer": "a fifth column"
+    },
+    {
+      "category": "LANGUAGE FAMILIES",
+      "text": "Dravidian languages include this one that preceded \"Tigers\" in the name of an Asian separatist group",
+      "answer": "Tamil"
+    },
+    {
+      "category": "MUSICAL & PLAY SETTINGS",
+      "text": "A back room & bar of Harry Hope's saloon is the setting for this Eugene O'Neill play",
+      "answer": "The Iceman Cometh"
+    },
+    {
+      "category": "SPECIAL DAYS",
+      "text": "A'phabet day, aka no \"L\" day, is punningly observed on this date",
+      "answer": "December 25th"
+    },
+    {
+      "category": "A FEW GOOD MEN",
+      "text": "This \"Boombastic\" reggae singer served a tour in the corps in the first Gulf War",
+      "answer": "Shaggy"
+    }
+  ]
+}

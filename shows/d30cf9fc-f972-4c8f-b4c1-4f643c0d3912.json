@@ -1,0 +1,310 @@
+{
+  "title": "Show #9141 - Monday, July 8, 2024",
+  "date": {
+    "day": 8,
+    "month": "July",
+    "year": 2024
+  },
+  "clues": [
+    {
+      "category": "THE SOLAR SYSTEM",
+      "text": "Due to their composition, Jovian planets like Jupiter & Saturn are called these \"giants\"",
+      "answer": "gas"
+    },
+    {
+      "category": "TRUCK & TRUCKIN' SONGS",
+      "text": "Del Reeves sang about a trucker infatuated with a \"girl on\" one of these outdoor signs",
+      "answer": "a billboard"
+    },
+    {
+      "category": "THE SPANISH ANIMAL",
+      "text": "A pretty flutterer:la mariposa",
+      "answer": "a butterfly"
+    },
+    {
+      "category": "SAMUEL BECKETT",
+      "text": "Born in Foxrock, a suburb of Dublin, Beckett attended this nearby college & later taught there",
+      "answer": "Trinity College"
+    },
+    {
+      "category": "ENDGAME",
+      "text": "In this game, used as a metaphor in Beckett's \"Endgame\", I forgot to use the Schlechter Defense against the Danish Gambit; I'm toast",
+      "answer": "chess"
+    },
+    {
+      "category": "WAITING FOR...",
+      "text": "thisactor as I've managed to arrange an interview; hope my tape recorder works",
+      "answer": "(Russell) Crowe"
+    },
+    {
+      "category": "THE SOLAR SYSTEM",
+      "text": "The photosphere is the surface of this as seen from Earth",
+      "answer": "the Sun"
+    },
+    {
+      "category": "TRUCK & TRUCKIN' SONGS",
+      "text": "Not sure what Rhett Akins drove, but it wasn't a 4x4 from this brand because \"that ain't my truck\" in his girl's driveway",
+      "answer": "a Chevy"
+    },
+    {
+      "category": "THE SPANISH ANIMAL",
+      "text": "Anagram this:ATUN",
+      "answer": "tuna"
+    },
+    {
+      "category": "SAMUEL BECKETT",
+      "text": "A left-arm medium-paced bowler, Beckett claimed to play a \"gritty defense\" in this sport",
+      "answer": "cricket"
+    },
+    {
+      "category": "ENDGAME",
+      "text": "You own all utilities, railroads & properties & your family is seething at your sheer ruthlessness in this game",
+      "answer": "Monopoly"
+    },
+    {
+      "category": "WAITING FOR...",
+      "text": "some of this from Nestlé or Pillsbury; mom always said not to eat it raw, but now it's sold in edible form",
+      "answer": "cookie dough"
+    },
+    {
+      "category": "THE SOLAR SYSTEM",
+      "text": "Chiron, which shares properties of a comet & an asteroid, is this type of \"object\" named for the type of creature Chiron was in myth",
+      "answer": "a centaur"
+    },
+    {
+      "category": "TRUCK & TRUCKIN' SONGS",
+      "text": "Kathy Mattea sang about a driver coming home from his last trucking run with \"18 wheels &\" one of these numeric bouquets",
+      "answer": "a dozen roses"
+    },
+    {
+      "category": "THE SPANISH ANIMAL",
+      "text": "Maybe a mako:el tiburón",
+      "answer": "a shark"
+    },
+    {
+      "category": "SAMUEL BECKETT",
+      "text": "In 2013 people couldn't wait to see \"Waiting for Godot\" with Ian McKellen as Estragon & him as Vladimir; Broadway made it so",
+      "answer": "Stewart"
+    },
+    {
+      "category": "ENDGAME",
+      "text": "The turn gave me 3 of a kind & now the river makes it 4... everyone's all-in & I'm feelin' pretty good about my chances in this game",
+      "answer": "Texas hold 'em"
+    },
+    {
+      "category": "WAITING FOR...",
+      "text": "Denis Coleman; he's going to tell me how he got this big 3-letter job at Goldman Sachs managing cash flow & such",
+      "answer": "CFO"
+    },
+    {
+      "category": "THE SOLAR SYSTEM",
+      "text": "In 1959 the Russian space probe Luna 3 took the first photos of this hidden hemisphere",
+      "answer": "the dark side of the Moon (the far side)"
+    },
+    {
+      "category": "TRUCK & TRUCKIN' SONGS",
+      "text": "The longtime CMA Awards co-hosts have truck songs: Brad Paisley's \"Mud On The Tires\" & her 2023 \"Out Of That Truck\"",
+      "answer": "Carrie Underwood"
+    },
+    {
+      "category": "THE SPANISH ANIMAL",
+      "text": "A hunter's favorite:el venado",
+      "answer": "a deer"
+    },
+    {
+      "category": "SAMUEL BECKETT",
+      "text": "Beckett received the Croix de Guerre after joining this as an expat in Paris in 1940; his group had the name Gloria SMH",
+      "answer": "the French Resistance"
+    },
+    {
+      "category": "ENDGAME",
+      "text": "Sub-Zero is on the ropes, & Sonya has been told to \"Finish him!!\" in this video game franchise; Sonya shall indeed finish him",
+      "answer": "Mortal Kombat"
+    },
+    {
+      "category": "WAITING FOR...",
+      "text": "the bus out of this run-down city area, also the name of a metal band fronted by Sebastian Bach",
+      "answer": "Skid Row"
+    },
+    {
+      "category": "THE SOLAR SYSTEM",
+      "text": "Once called the largest asteroid in our solar system, it was reclassified as a dwarf planet in 2006",
+      "answer": "Ceres"
+    },
+    {
+      "category": "TRUCK & TRUCKIN' SONGS",
+      "text": "The title of this C.W. McCall song refers to a group of trucks all moving together; ain't she a beautiful sight?",
+      "answer": "\"Convoy\""
+    },
+    {
+      "category": "THE SPANISH ANIMAL",
+      "text": "A flier:el cuervo",
+      "answer": "the crow"
+    },
+    {
+      "category": "SAMUEL BECKETT",
+      "text": "Beckett used the phrase \"Fallor, ergo sum\" in a poem about this 17th century Frenchman",
+      "answer": "René Descartes"
+    },
+    {
+      "category": "ENDGAME",
+      "text": "I yelled the name of the game to indicate how many cards I had left, & my next play will end things",
+      "answer": "Uno"
+    },
+    {
+      "category": "WAITING FOR...",
+      "text": "this fictional Belgian detective with a head \"exactly the shape of an egg\"",
+      "answer": "Poirot"
+    },
+    {
+      "category": "20th CENTURY AMERICA",
+      "text": "In December 1955 these 2 leading labor federations formally merged, with a combined membership of 15 million",
+      "answer": "AFL & CIO"
+    },
+    {
+      "category": "CAPES",
+      "text": "It was briefly named after President Kennedy before reverting to its Spanish name for \"place of canes\"",
+      "answer": "Cape Canaveral"
+    },
+    {
+      "category": "3 OF A KIND",
+      "text": "Merriam-Webster,New Oxford American,Scholastic Children's",
+      "answer": "dictionaries"
+    },
+    {
+      "category": "BOOKS",
+      "text": "9-year-old Oskar's dad died in the World Trade Center on September 11 in the novel \"Extremely Loud and\" this",
+      "answer": "Incredibly Close"
+    },
+    {
+      "category": "VOCABULARY",
+      "text": "This word for a soccer fan you might want to avoid originated in the 1890s & someone named Hooley may have been involved",
+      "answer": "hooligan"
+    },
+    {
+      "category": "FLY ME TO THE MOON",
+      "text": "(Scarlett Johansson presents the clue.) In \"Airplane II\", Moon base commander Buck Murdock was played bythisactor; at one point, he sees the Starship Enterprise on a periscope",
+      "answer": "Shatner"
+    },
+    {
+      "category": "20th CENTURY AMERICA",
+      "text": "Drew's great aunt,shegave a great performance on Broadway in 1905 as Nora Helmer in \"A Doll's House\"",
+      "answer": "Ethel Barrymore"
+    },
+    {
+      "category": "CAPES",
+      "text": "In Chile a monument dedicated to those who perished while rounding Cape Horn depicts this seafaring bird in flight",
+      "answer": "an albatross"
+    },
+    {
+      "category": "3 OF A KIND",
+      "text": "Henry Kissinger,Yasser Arafat,Médecins Sans Frontières",
+      "answer": "Nobel Peace Prize winners"
+    },
+    {
+      "category": "BOOKS",
+      "text": "John le Carré put the \"spy\" in spy novel titles with this 1974 book, the first in the George Smiley-Karla trilogy",
+      "answer": "Tinker Tailor Soldier Spy"
+    },
+    {
+      "category": "VOCABULARY",
+      "text": "An irregular past tense verb, or a minor quarrel, a squabble, a tiff",
+      "answer": "spat"
+    },
+    {
+      "category": "FLY ME TO THE MOON",
+      "text": "(Scarlett Johansson presents the clue.) In \"A Grand Day Out\",thisman-&-dog stop-motion duo get a hankering for some cheese, so they decide to build a rocket & head tothe Moonfor a tasting",
+      "answer": "Wallace & Gromit"
+    },
+    {
+      "category": "20th CENTURY AMERICA",
+      "text": "In 1968, just 2 months prior to his own assassination, he attended the funeral of Martin Luther King Jr.",
+      "answer": "RFK"
+    },
+    {
+      "category": "CAPES",
+      "text": "In 1602 Bartholomew Gosnold didn't just find the obvious fish at this cape, but also herring & mackerel",
+      "answer": "Cape Cod"
+    },
+    {
+      "category": "3 OF A KIND",
+      "text": "Harpy,martial,golden",
+      "answer": "eagles"
+    },
+    {
+      "category": "BOOKS",
+      "text": "When Kotaro Isaka's high-speed thriller \"Maria Beetle\" was translated into English, it got this title",
+      "answer": "Bullet Train"
+    },
+    {
+      "category": "VOCABULARY",
+      "text": "Without its -ine, this word still means a percussion instrument",
+      "answer": "tambourine"
+    },
+    {
+      "category": "FLY ME TO THE MOON",
+      "text": "(Scarlett Johansson presents the clue.) Ron Howard choseEd Harrisas NASA flight director Gene Kranz in \"Apollo 13\";Edhad previously gone into orbit as John Glenn in this 1983 film",
+      "answer": "The Right Stuff"
+    },
+    {
+      "category": "20th CENTURY AMERICA",
+      "text": "In 1986, some5 million peoplemade ahuman chainfrom coast to coast in this campaign to fight hunger & homelessness",
+      "answer": "Hands Across America"
+    },
+    {
+      "category": "CAPES",
+      "text": "In 1937 this North Carolina cape was the first place to receive the designation National Seashore",
+      "answer": "Cape Hatteras"
+    },
+    {
+      "category": "3 OF A KIND",
+      "text": "Asher,Judah,Gad",
+      "answer": "tribes of Israel"
+    },
+    {
+      "category": "BOOKS",
+      "text": "The first name of Stephen King's P.I. Gibney, it's the title of a 2023 bestseller where she takes center stage",
+      "answer": "Holly"
+    },
+    {
+      "category": "VOCABULARY",
+      "text": "In Latin it could mean many kinds of wishes; in English today, it's the sexual instinct",
+      "answer": "libido"
+    },
+    {
+      "category": "FLY ME TO THE MOON",
+      "text": "(Scarlett Johansson presents the clue.) \"A Trip to the Moon\", the 1902 classic from Georges Méliès, in which a rocket hits theMoonin the eye was loosely based on books by Jules Verne &thisBritish author",
+      "answer": "Wells"
+    },
+    {
+      "category": "20th CENTURY AMERICA",
+      "text": "Established in 1946 to control the development & use of nuclear power, this commission was superseded by a new agency in 1974",
+      "answer": "the AEC (Atomic Energy Commission)"
+    },
+    {
+      "category": "CAPES",
+      "text": "Cape Maclear is on the shores of this lake in southern Africa that also begins with \"M\"",
+      "answer": "Lake Malawi"
+    },
+    {
+      "category": "3 OF A KIND",
+      "text": "Roland,Oliver,Fierabras",
+      "answer": "paladins (knights of Charlemagne)"
+    },
+    {
+      "category": "BOOKS",
+      "text": "In this Günter  Grass novel, Oskar Matzerath receives the title instrument at the age of 3 & doesn't grow up",
+      "answer": "The Tin Drum"
+    },
+    {
+      "category": "VOCABULARY",
+      "text": "A restaurant chef calls a personal arrangement of ingredients & tools mise, short for this French phrase",
+      "answer": "mise en place"
+    },
+    {
+      "category": "FLY ME TO THE MOON",
+      "text": "(Scarlett Johansson presents the clue.) This title noble in a 1989 Terry Gilliam film takes a balloon to the Moon & meets the King of the Moon, played with a touch of \"luna-cy\" byRobin Williams",
+      "answer": "Baron Munchausen"
+    }
+  ]
+}

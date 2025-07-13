@@ -1,0 +1,310 @@
+{
+  "title": "Jeopardy! Mastersgame #21 - Wednesday, May 1, 2024",
+  "date": {
+    "day": 1,
+    "month": "May",
+    "year": 2024
+  },
+  "clues": [
+    {
+      "category": "THERE ONCE WAS THIS MAN FROM...",
+      "text": "...Down Under / Who looked at a mountain with wonder As high as can be / May 29th, '53 / Sadly, above Mallory's blunder",
+      "answer": "Hillary"
+    },
+    {
+      "category": "INTERNET SLANG",
+      "text": "Slang like \"fanum tax\" & \"skibidi\" baffle many; it's associated with this generation, a name that unfittingly follows Gen Z",
+      "answer": "Gen Alpha"
+    },
+    {
+      "category": "HOLIDAYS & OBSERVANCES",
+      "text": "Jamaican jerk chicken & candied sweet potatoes can be part of a feast called Karamu, held on Dec. 31, the sixth day of this",
+      "answer": "Kwanzaa"
+    },
+    {
+      "category": "AMERICAN FICTION",
+      "text": "In a John Grisham book, there's Supreme murder & a New Orleans law student prepares this title document",
+      "answer": "Pelican Brief"
+    },
+    {
+      "category": "4-LETTER TV",
+      "text": "First name of Walter White's brother-in-law & one of the title \"Venture Bros.\"",
+      "answer": "Hank"
+    },
+    {
+      "category": "YOU'RE REPEATING YOURSELF",
+      "text": "Born to Chinese parents, he made his Carnegie Hall recital debut as a teen & would go on to create the Silk Road Project",
+      "answer": "Yo-Yo Ma"
+    },
+    {
+      "category": "THERE ONCE WAS THIS MAN FROM...",
+      "text": "...Chile / Due to him, human rights went away / Prez in '74 / & for 16 years more / Times were rough under...",
+      "answer": "Pinochet"
+    },
+    {
+      "category": "INTERNET SLANG",
+      "text": "In classical music an op. is an opus, but over on Reddit, an O.P. is an abbreviation for this",
+      "answer": "the original poster"
+    },
+    {
+      "category": "HOLIDAYS & OBSERVANCES",
+      "text": "California has a state holiday honoring this labor leader, observed around his March 31 birthday",
+      "answer": "Chavez"
+    },
+    {
+      "category": "AMERICAN FICTION",
+      "text": "In 2022's \"Remarkably Bright Creatures\", Tova, the main character, forms an unusual friendship with one of these",
+      "answer": "an octopus"
+    },
+    {
+      "category": "4-LETTER TV",
+      "text": "Not a feline bone in his body, or any bone for that matter, he's SpongeBob's meowing pet",
+      "answer": "Gary"
+    },
+    {
+      "category": "YOU'RE REPEATING YOURSELF",
+      "text": "In productions of \"Grease\", this character, surname DiGregorio, is allegedly \"the best dancer at St. Bernadette's\"",
+      "answer": "Cha-Cha"
+    },
+    {
+      "category": "THERE ONCE WAS THIS MAN FROM...",
+      "text": "...U.K. / As prime minister, a late '30s stay / Not so powerfully built / & don't call him Wilt / Churchill's here now you go away",
+      "answer": "Chamberlain"
+    },
+    {
+      "category": "INTERNET SLANG",
+      "text": "If someone posts theskull emoji, it doesn't mean the user is dead inside, just dead from too much of this joyful activity",
+      "answer": "laughing"
+    },
+    {
+      "category": "HOLIDAYS & OBSERVANCES",
+      "text": "Horse racing, wrestling & archery are part of Naadam, a 5-day festival in this country said to date to the time of Genghis Khan",
+      "answer": "Mongolia"
+    },
+    {
+      "category": "AMERICAN FICTION",
+      "text": "4 Chinese women meet regularly to eat, talk about their families & play mah-jong in this Amy Tan classic",
+      "answer": "The Joy Luck Club"
+    },
+    {
+      "category": "4-LETTER TV",
+      "text": "Perhaps hopped up on the drink's caffeine, Maggie Simpson memorably dances to Britney Spears after drinking this",
+      "answer": "Buzz (Cola)"
+    },
+    {
+      "category": "YOU'RE REPEATING YOURSELF",
+      "text": "Along with Too-Too the owl & Chee-Chee the monkey, this duck was what one might call a known associate of Doctor Dolittle",
+      "answer": "Dab-Dab the duck"
+    },
+    {
+      "category": "THERE ONCE WAS THIS MAN FROM...",
+      "text": "...Paris / A minister of war, don't you see / He drew his \"line\" / Around 1929 / But the Germans... they didn't agree",
+      "answer": "Maginot"
+    },
+    {
+      "category": "INTERNET SLANG",
+      "text": "NPC, short for this, can be a diss for someone you regard as one of the sheeple",
+      "answer": "non-player character"
+    },
+    {
+      "category": "HOLIDAYS & OBSERVANCES",
+      "text": "On June 7 this country remembers the Battle of Arica & celebrates the national flag, seenhere",
+      "answer": "Peru"
+    },
+    {
+      "category": "AMERICAN FICTION",
+      "text": "A Yeats poem gave Cormac McCarthy the title of this novel that follows a drug deal gone wrong",
+      "answer": "No Country for Old Men"
+    },
+    {
+      "category": "4-LETTER TV",
+      "text": "Fused organic & synthetic matter, they demanded conformity from Captain Picard",
+      "answer": "Borg"
+    },
+    {
+      "category": "YOU'RE REPEATING YOURSELF",
+      "text": "This underwhelming squadron commander from \"Catch-22\" got a promotion caused by a computer with a sense of humor",
+      "answer": "Major (Major Major) Major"
+    },
+    {
+      "category": "THERE ONCE WAS THIS MAN FROM...",
+      "text": "...Maine / Speaker of the House, to be plain / Cleveland beat him for prez / So history says / & his last name, it rhymes, as it's...",
+      "answer": "Blaine"
+    },
+    {
+      "category": "INTERNET SLANG",
+      "text": "It's a portmanteau word for someone who makes internet content with an animal, like with Esther the Wonder Pig on Instaham",
+      "answer": "petfluencers"
+    },
+    {
+      "category": "HOLIDAYS & OBSERVANCES",
+      "text": "Held during the 5th month of the Chinese lunar calendar, this festival began as a search for poet Qu Yuan, who drowned in a Yangtze tributary",
+      "answer": "the Dragon Boat Festival"
+    },
+    {
+      "category": "AMERICAN FICTION",
+      "text": "Ernest J. Gaines wrote about one woman's life from slavery to the civil rights movement in \"The Autobiography of\" her",
+      "answer": "Miss Jane Pittman"
+    },
+    {
+      "category": "4-LETTER TV",
+      "text": "\"The Munsters\" had a pet dragon named this who was known to scare off ne'er-do-wells",
+      "answer": "Spot"
+    },
+    {
+      "category": "YOU'RE REPEATING YOURSELF",
+      "text": "This author collaborated on \"Romance\" with Joseph Conrad",
+      "answer": "Ford Madox Ford"
+    },
+    {
+      "category": "REALLY TOUGH CAPITALS",
+      "text": "This capital of Barbados does have the type of structure in its name, like the 1872 Chamberlain one",
+      "answer": "Bridgetown"
+    },
+    {
+      "category": "CLASSIC MOVIES",
+      "text": "This actor who starred in \"Paper Moon\" & \"Barry Lyndon\" passed away in 2023",
+      "answer": "(Ryan) O'Neal"
+    },
+    {
+      "category": "DREAMT OF IN YOUR PHILOSOPHY",
+      "text": "Edmund Burke took on aesthetics with an aptly titled \"Enquiry into the Origin of Our Ideas of the Sublime and\" this",
+      "answer": "Beautiful"
+    },
+    {
+      "category": "INVENTORS & INVENTIONS",
+      "text": "DuPont chemist Stephanie Kwolek was the subject of a kids' book called \"The Woman Who Invented the Thread That Stops\" these",
+      "answer": "Bullets"
+    },
+    {
+      "category": "NOT YOUR EVERYDAY WORDS",
+      "text": "Containing an archaic word for a wagon, it's just your basic builder of wagons",
+      "answer": "a wainwright"
+    },
+    {
+      "category": "AARON BURR & FRIENDS",
+      "text": "In 1851 Ole Bull offered him a job as an in-house playwright at a theater in Bergen",
+      "answer": "Henrik Ibsen"
+    },
+    {
+      "category": "REALLY TOUGH CAPITALS",
+      "text": "The names of these 2 Central American capitals include the full names of their countries",
+      "answer": "Guatemala City & Panama City"
+    },
+    {
+      "category": "CLASSIC MOVIES",
+      "text": "He played asinister preacherin \"The Night of the Hunter\" & arevenge-seeking ex-conin \"Cape Fear\"",
+      "answer": "Robert Mitchum"
+    },
+    {
+      "category": "DREAMT OF IN YOUR PHILOSOPHY",
+      "text": "In Tokugawa Japan of the 17th to 19th c., the dominant thought was neo-this philosophy of a guy from across the Sea of Japan",
+      "answer": "neo-Confucianism"
+    },
+    {
+      "category": "INVENTORS & INVENTIONS",
+      "text": "In 1873 Helen Blanchard received a patent for one of these that could zigzag",
+      "answer": "a sewing machine"
+    },
+    {
+      "category": "NOT YOUR EVERYDAY WORDS",
+      "text": "It can be a noun or a verb!  A shaved head of a monk, or to shave the head that way",
+      "answer": "tonsure"
+    },
+    {
+      "category": "AARON BURR & FRIENDS",
+      "text": "Adeline Stephen published novels under this name",
+      "answer": "Virginia Woolfe"
+    },
+    {
+      "category": "REALLY TOUGH CAPITALS",
+      "text": "Though it's in the middle of the island, not a port, Antananarivo is this country's capital",
+      "answer": "Madagascar"
+    },
+    {
+      "category": "CLASSIC MOVIES",
+      "text": "At the end of \"My Man Godfrey\", this actress surprises her man Godfrey with matrimony",
+      "answer": "(Carole) Lombard"
+    },
+    {
+      "category": "DREAMT OF IN YOUR PHILOSOPHY",
+      "text": "Thomas Kuhn is known for his talk of these frameworks whose \"shifts\" can change our worldview",
+      "answer": "paradigms"
+    },
+    {
+      "category": "INVENTORS & INVENTIONS",
+      "text": "Known for its weird sound effects,this instrumentwas named for the Russian man who invented it in the 1920s",
+      "answer": "theremin"
+    },
+    {
+      "category": "NOT YOUR EVERYDAY WORDS",
+      "text": "It means (really) fertile, but with only 6 letters, plus sounds smarter & is more fun to say",
+      "answer": "fecund"
+    },
+    {
+      "category": "AARON BURR & FRIENDS",
+      "text": "In 1877 Congress commissioned the Electoral Commission after he got 184 electoral votes but needed 185; it did not end well for him",
+      "answer": "Samuel Tilden"
+    },
+    {
+      "category": "REALLY TOUGH CAPITALS",
+      "text": "Alofi is the capital of this newly independent island state recognized by the U.S. in 2023",
+      "answer": "Niue"
+    },
+    {
+      "category": "CLASSIC MOVIES",
+      "text": "Woody Strode was the title \"Sergeant Rutledge\" in a 1960 Western courtroom drama directed by this quintessential Western auteur",
+      "answer": "(John) Ford"
+    },
+    {
+      "category": "DREAMT OF IN YOUR PHILOSOPHY",
+      "text": "This Scot who died in 1776 was a leader in empiricism, the belief that all knowledge is from experience",
+      "answer": "Hume"
+    },
+    {
+      "category": "INVENTORS & INVENTIONS",
+      "text": "Widely known as the \"Father of the Supercomputer\", he built some of the most powerful & expensive computers of the last century",
+      "answer": "Cray"
+    },
+    {
+      "category": "NOT YOUR EVERYDAY WORDS",
+      "text": "This odd word from astronomy also means a combination of 2 feet in one meter in poetry",
+      "answer": "syzygy"
+    },
+    {
+      "category": "AARON BURR & FRIENDS",
+      "text": "Née Coffin, she parted with Elizabeth Cady Stanton to organize the Seneca Falls Convention",
+      "answer": "Lucretia Mott"
+    },
+    {
+      "category": "REALLY TOUGH CAPITALS",
+      "text": "Bissau is the capital of Guinea-Bissau; this is the capital of regular Guinea",
+      "answer": "Conakry"
+    },
+    {
+      "category": "CLASSIC MOVIES",
+      "text": "Howard Hawks said a bush pilot & a dancer who fell in love helped inspire the story of this 1939 film",
+      "answer": "Only Angels Have Wings"
+    },
+    {
+      "category": "DREAMT OF IN YOUR PHILOSOPHY",
+      "text": "Aristotle was known to stroll while teaching, giving us this word for his followers or walking in general",
+      "answer": "peripatetic"
+    },
+    {
+      "category": "INVENTORS & INVENTIONS",
+      "text": "Missed it by that much!  In 1876 Bell's application for a telephone patent beat this rival's filing by just a few hours",
+      "answer": "Gray"
+    },
+    {
+      "category": "NOT YOUR EVERYDAY WORDS",
+      "text": "From Latin for \"begin\", it means just beginning or incoherent; its spelling includes a boys' school founded in 1896",
+      "answer": "inchoate"
+    },
+    {
+      "category": "AARON BURR & FRIENDS",
+      "text": "Louis Armstrong called this Canadian \"The Man with 4 Hands\", while Duke Ellington nicknamed him the \"Maharajah of the Keyboard\"",
+      "answer": "Oscar Peterson"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "title": "Trebek pilot #1 - Sunday, September 18, 1983",
+  "date": {
+    "day": 18,
+    "month": "September",
+    "year": 1983
+  },
+  "clues": [
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "This country's counties include Kerry, Kilkenny, and Kildare",
+      "answer": "Ireland"
+    },
+    {
+      "category": "BEST-SELLERS",
+      "text": "This Jacqueline Susann novel is the all-time fictional best seller",
+      "answer": "Valley of the Dolls"
+    },
+    {
+      "category": "SPORTS",
+      "text": "He's won 5 of the 10 last U.S. Open tennis titles",
+      "answer": "Jimmy Connors"
+    },
+    {
+      "category": "LISTS",
+      "text": "Moses received this list on Mt. Sinai",
+      "answer": "the Ten Commandments"
+    },
+    {
+      "category": "WILD WEST",
+      "text": "This was William Bonney's best-known alias",
+      "answer": "Billy the Kid"
+    },
+    {
+      "category": "HERBS AND SPICES",
+      "text": "Reportedly good for lowering blood pressure and repelling vampires",
+      "answer": "garlic"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "Only nation to cover an entire continent",
+      "answer": "Australia"
+    },
+    {
+      "category": "BEST-SELLERS",
+      "text": "Hot horror author whose latest book is about haunted '58 Plymouth",
+      "answer": "Stephen King"
+    },
+    {
+      "category": "SPORTS",
+      "text": "In golf, it's 2 under par for a hole",
+      "answer": "an eagle"
+    },
+    {
+      "category": "LISTS",
+      "text": "He lists the ten worst-dressed",
+      "answer": "Mr. Blackwell"
+    },
+    {
+      "category": "WILD WEST",
+      "text": "This town was the site of the gunfight at the O.K. Corral",
+      "answer": "Tombstone"
+    },
+    {
+      "category": "HERBS AND SPICES",
+      "text": "These dried flower buds are a must with baked ham",
+      "answer": "cloves"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "The Japanese name for Japan, meaning \"source of the sun\"",
+      "answer": "Nihon (or Nippon)"
+    },
+    {
+      "category": "BEST-SELLERS",
+      "text": "Recent expose of movie studio executive's way with a check",
+      "answer": "Indecent Exposure"
+    },
+    {
+      "category": "SPORTS",
+      "text": "Famous Notre Dame football backfield with apocalyptic nickname",
+      "answer": "the Four Horsemen"
+    },
+    {
+      "category": "LISTS",
+      "text": "WhatthisPaul Simon hit lists:\"You just slip out the back, Jack /Make a new plan, Stan /You don't need to be coy, Roy /Just get yourself free...\"",
+      "answer": "50 ways to leave your lover"
+    },
+    {
+      "category": "WILD WEST",
+      "text": "Buffalo Bill and Wild Bill Hickok both worked for this mail service",
+      "answer": "the Pony Express"
+    },
+    {
+      "category": "HERBS AND SPICES",
+      "text": "Spice made from the dried bark of a Ceylonese tree",
+      "answer": "cinnamon"
+    },
+    {
+      "category": "WORLD GEOGRAPHY",
+      "text": "The only country in Europe barred to American tourists",
+      "answer": "Albania"
+    },
+    {
+      "category": "SPORTS",
+      "text": "In college, Kareem Abdul-Jabbar played under this name",
+      "answer": "Lew Alcindor"
+    },
+    {
+      "category": "LISTS",
+      "text": "For them, \"The Book of Lists\" is a family affair",
+      "answer": "the Wallaces (or the Wallechinskys)"
+    },
+    {
+      "category": "WILD WEST",
+      "text": "This is the real name of\"Custer's Last Stand\"",
+      "answer": "(Battle of) the Little Bighorn"
+    },
+    {
+      "category": "HERBS AND SPICES",
+      "text": "This herb's name comes from belief that it will lengthen life and increase wisdom",
+      "answer": "sage"
+    },
+    {
+      "category": "SPORTS",
+      "text": "Superbowl trophy is named for this coach",
+      "answer": "Vince Lombardi"
+    },
+    {
+      "category": "WILD WEST",
+      "text": "This gunfighter wound up a New York City sports reporter",
+      "answer": "Bat Masterson"
+    },
+    {
+      "category": "ANATOMY",
+      "text": "If the body were a car, they would be the carburetors",
+      "answer": "the lungs"
+    },
+    {
+      "category": "ISLANDS",
+      "text": "The two island Boroughs of New York City",
+      "answer": "Manhattan & Staten Island"
+    },
+    {
+      "category": "THE SENATE",
+      "text": "The Constitution makes him \"president of the Senate\"",
+      "answer": "the vice president of the U.S."
+    },
+    {
+      "category": "FOREIGN PHRASES",
+      "text": "French phrase for food items, ordered individually",
+      "answer": "a la carte"
+    },
+    {
+      "category": "SAMS",
+      "text": "Popularized by famous WW-1 recruiting poster",
+      "answer": "Uncle Sam"
+    },
+    {
+      "category": "THE SIXTIES",
+      "text": "Self-appointed \"High Priest\" of LSD",
+      "answer": "Timothy Leary"
+    },
+    {
+      "category": "ANATOMY",
+      "text": "Building these up with steroids has caused sports controversy",
+      "answer": "muscles"
+    },
+    {
+      "category": "THE SENATE",
+      "text": "In a letter, the correct form of address for a senator",
+      "answer": "Honorable"
+    },
+    {
+      "category": "FOREIGN PHRASES",
+      "text": "The British call this \"the lift\"",
+      "answer": "the elevator"
+    },
+    {
+      "category": "SAMS",
+      "text": "Created by Dashiell Hammett, played by Humphrey Bogart",
+      "answer": "Sam Spade"
+    },
+    {
+      "category": "THE SIXTIES",
+      "text": "The year Armstrong took \"one small step...\"",
+      "answer": "1969"
+    },
+    {
+      "category": "ANATOMY",
+      "text": "Babies have more than 300, while adults have only 206",
+      "answer": "bones"
+    },
+    {
+      "category": "THE SENATE",
+      "text": "Former Rhodes scholar and basketball star now senator from New Jersey",
+      "answer": "Bill Bradley"
+    },
+    {
+      "category": "FOREIGN PHRASES",
+      "text": "Day of the year when Italians wish \"Buon Natale\"",
+      "answer": "Christmas (December 25)"
+    },
+    {
+      "category": "SAMS",
+      "text": "Texas hero who won Battle of San Jacinto",
+      "answer": "Sam Houston"
+    },
+    {
+      "category": "THE SIXTIES",
+      "text": "In late 1965 his book \"Unsafe at Any Speed\" was published",
+      "answer": "Ralph Nader"
+    },
+    {
+      "category": "ANATOMY",
+      "text": "A cranium and 2 femurs on a black flag",
+      "answer": "a skull and crossbones"
+    },
+    {
+      "category": "THE SENATE",
+      "text": "Presided over Senate while under indictment for murdering Alexander Hamilton",
+      "answer": "Aaron Burr"
+    },
+    {
+      "category": "FOREIGN PHRASES",
+      "text": "Meaning \"a bride's belongings\", it's French for \"small bundle\"",
+      "answer": "trousseau"
+    },
+    {
+      "category": "SAMS",
+      "text": "Most famous alumnus of Will Mastin Trio",
+      "answer": "Sammy Davis Jr."
+    },
+    {
+      "category": "THE SIXTIES",
+      "text": "The group tried for conspiring to riot at '68 Democratic Convention",
+      "answer": "the Chicago Seven"
+    },
+    {
+      "category": "ANATOMY",
+      "text": "This is the body's largest gland",
+      "answer": "the liver"
+    },
+    {
+      "category": "ISLANDS",
+      "text": "Where Napoleon died in exile",
+      "answer": "St. Helena"
+    },
+    {
+      "category": "THE SENATE",
+      "text": "Group of senators who vote together for a specific purpose",
+      "answer": "a bloc"
+    },
+    {
+      "category": "FOREIGN PHRASES",
+      "text": "Criminologist's phrase, from Latin for \"manner of working\"",
+      "answer": "modus operandi"
+    },
+    {
+      "category": "SAMS",
+      "text": "Film producer famous for malapropism, \"Include me out\"",
+      "answer": "Sam Goldwyn"
+    },
+    {
+      "category": "THE SIXTIES",
+      "text": "American who won the 1964 Nobel Peace Prize",
+      "answer": "Martin Luther King (Jr.)"
+    }
+  ]
+}

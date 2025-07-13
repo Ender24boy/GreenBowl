@@ -1,0 +1,305 @@
+{
+  "title": "Show #3869 - Thursday, May 31, 2001",
+  "date": {
+    "day": 31,
+    "month": "May",
+    "year": 2001
+  },
+  "clues": [
+    {
+      "category": "RADIOLOGY",
+      "text": "The field of therapeutic radiology concentrates on radiation treatment for this disease",
+      "answer": "cancer"
+    },
+    {
+      "category": "SAINTLY PEOPLE",
+      "text": "Last name of Louis, who left as Canada's PM in 1957, & of Yves, who became head of Dior in 1957",
+      "answer": "St. Laurent"
+    },
+    {
+      "category": "NEW YORK, NEW YORK",
+      "text": "The New York Stock Exchange has been called the heart of this street (we can hear the ticker ticking)",
+      "answer": "Wall Street"
+    },
+    {
+      "category": "ELVES SIGHTINGS",
+      "text": "An elf named Dobby implores this young hero not to return to school at Hogwarts",
+      "answer": "Harry Potter"
+    },
+    {
+      "category": "MOVIE VILLAINS",
+      "text": "The one-armed man who kills Helen Kimble",
+      "answer": "The Fugitive"
+    },
+    {
+      "category": "QUASI-RELATED PAIRS",
+      "text": "\"Designing Women\" actress Annie & unfavorable reviews",
+      "answer": "Potts & pans"
+    },
+    {
+      "category": "RADIOLOGY",
+      "text": "The American College of Radiology wants increased Medicare reimbursement for this breast imaging",
+      "answer": "mammography"
+    },
+    {
+      "category": "SAINTLY PEOPLE",
+      "text": "This redheaded actress dated Henry Kissinger & married Robert Wagner",
+      "answer": "Jill St. John"
+    },
+    {
+      "category": "NEW YORK, NEW YORK",
+      "text": "The main area of Vegas' New York-New York casino is made to look like this park, without the pigeons",
+      "answer": "Central Park"
+    },
+    {
+      "category": "ELVES SIGHTINGS",
+      "text": "The Erlking or king of the elves is a malicious spirit of this German forest who lures kids to their doom",
+      "answer": "the Black Forest"
+    },
+    {
+      "category": "MOVIE VILLAINS",
+      "text": "Emperor Commodus of Rome",
+      "answer": "Gladiator"
+    },
+    {
+      "category": "QUASI-RELATED PAIRS",
+      "text": "Edwin Starr's No. 1 hit that says, \"What is it good for?\" & pod veggies",
+      "answer": "\"War\" & peas"
+    },
+    {
+      "category": "RADIOLOGY",
+      "text": "This element, symbol Ba, is used to coat your innards for better viewing",
+      "answer": "barium"
+    },
+    {
+      "category": "SAINTLY PEOPLE",
+      "text": "Videos directed by Randee St. Nicholas include Whitney Houston's \"I'm Every Woman\" & this singer's \"Breathe Again\"",
+      "answer": "Toni Braxton"
+    },
+    {
+      "category": "NEW YORK, NEW YORK",
+      "text": "To celebrate the new millennium, this huge 5th Ave. art museum presented a special exhibit on the year one",
+      "answer": "the Metropolitan"
+    },
+    {
+      "category": "ELVES SIGHTINGS",
+      "text": "Colorful name of the type of elf seenhere",
+      "answer": "a brownie"
+    },
+    {
+      "category": "MOVIE VILLAINS",
+      "text": "Mental hospital worker Nurse Ratched",
+      "answer": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "category": "QUASI-RELATED PAIRS",
+      "text": "Guess? model Anna Nicole & the vegetable oil brand Florence Henderson endorsed in TV ads",
+      "answer": "Smith & Wesson"
+    },
+    {
+      "category": "RADIOLOGY",
+      "text": "Radiology began with a discovery by this German-born scientist",
+      "answer": "(Wilhelm) Röntgen"
+    },
+    {
+      "category": "SAINTLY PEOPLE",
+      "text": "This French composer was separated from his wife from 1881 to his death in 1921",
+      "answer": "Saint-Saëns"
+    },
+    {
+      "category": "NEW YORK, NEW YORK",
+      "text": "Music lovers Iove to take guided tours of this famous concert hall on 57th Street at 7th Avenue",
+      "answer": "Carnegie Hall"
+    },
+    {
+      "category": "ELVES SIGHTINGS",
+      "text": "\"Santaland Diaries\" is David Sedaris' funny yet painful tale of being an elf at this Herald Square store",
+      "answer": "Macy's"
+    },
+    {
+      "category": "MOVIE VILLAINS",
+      "text": "Mr. Potter, a Bedford Falls banker",
+      "answer": "It's a Wonderful Life"
+    },
+    {
+      "category": "QUASI-RELATED PAIRS",
+      "text": "\"Melrose Place\" actor Grant & legendary Swiss archer William",
+      "answer": "Show & Tell"
+    },
+    {
+      "category": "RADIOLOGY",
+      "text": "This sophisticated imaging technique sends the patient into a machine like the one seenhere",
+      "answer": "MRI"
+    },
+    {
+      "category": "SAINTLY PEOPLE",
+      "text": "This singer & activist who emerged in the '60s was born to Cree parents in Saskatchewan",
+      "answer": "Buffy Sainte-Marie"
+    },
+    {
+      "category": "NEW YORK, NEW YORK",
+      "text": "Dorothy Parker & Robert Benchley once traded quips at the famous \"Round Table\" at this hotel on West 44th Street",
+      "answer": "the Algonquin"
+    },
+    {
+      "category": "ELVES SIGHTINGS",
+      "text": "As you recall, in this man's books, elves flourished until Morgoth destroyed the Eldarin realms of Beleriand",
+      "answer": "Tolkien"
+    },
+    {
+      "category": "MOVIE VILLAINS",
+      "text": "The T-1000 killing machine",
+      "answer": "Terminator 2: Judgment Day"
+    },
+    {
+      "category": "QUASI-RELATED PAIRS",
+      "text": "The family of the Umbellularia californica tree & \"Return of the Native\" author Thomas",
+      "answer": "Laurel & Hardy"
+    },
+    {
+      "category": "RADIO-LOGY",
+      "text": "In 1984 this \"royal\" band went crazy with \"Radio Ga-Ga\"",
+      "answer": "Queen"
+    },
+    {
+      "category": "FRENCH ART & ARTISTS",
+      "text": "In the 1860s this Frenchman, truly a deep \"thinker\", briefly studied for the religious life",
+      "answer": "Rodin"
+    },
+    {
+      "category": "HOME STATES",
+      "text": "Butch Cassidy,Roseanne,Donny Osmond",
+      "answer": "Utah"
+    },
+    {
+      "category": "I'M CZAR-Y, SO CZAR-Y",
+      "text": "Czar Paul's mother was this \"Great\" empress, Paul's father was probably her husband Czar Peter III",
+      "answer": "Catherine (the Great)"
+    },
+    {
+      "category": "POETS & POETRY",
+      "text": "Robert Burns wrote, \"O, my love is like a red, red\" one of these \"that's newly sprung in June\"",
+      "answer": "rose"
+    },
+    {
+      "category": "4-LETTER \"W\"ORDS",
+      "text": "Walk through shallow water",
+      "answer": "wade"
+    },
+    {
+      "category": "RADIO-LOGY",
+      "text": "The song \"Radio Free Europe\" can be found on this group's album \"Murmur\"",
+      "answer": "R.E.M."
+    },
+    {
+      "category": "FRENCH ART & ARTISTS",
+      "text": "You'll find Pierre Puvis de Chavannes' \"Young Girls by the Edge of the Sea\" seenherein this city's Musee d'Orsay",
+      "answer": "Paris"
+    },
+    {
+      "category": "HOME STATES",
+      "text": "Robert Motherwell,Kurt Cobain,Bill Gates",
+      "answer": "Washington"
+    },
+    {
+      "category": "I'M CZAR-Y, SO CZAR-Y",
+      "text": "Type of weapon used to assassinate Czar Alexander II in 1881",
+      "answer": "dynamite"
+    },
+    {
+      "category": "POETS & POETRY",
+      "text": "Included in his \"Chicago Poems\" collection is that one about fog coming \"on little cat feet\"",
+      "answer": "(Carl) Sandburg"
+    },
+    {
+      "category": "4-LETTER \"W\"ORDS",
+      "text": "Withdraw gradually from some habit, or get a baby to give up its bottle",
+      "answer": "wean"
+    },
+    {
+      "category": "RADIO-LOGY",
+      "text": "In 2001 \"Kid A\" by this British band with lead singer Thom Yorke was nominated for an Album of the Year Grammy",
+      "answer": "Radiohead"
+    },
+    {
+      "category": "FRENCH ART & ARTISTS",
+      "text": "Jacques-Louis David's 1787 painting of \"The Death of\" this man features a cup of hemlock",
+      "answer": "Socrates"
+    },
+    {
+      "category": "HOME STATES",
+      "text": "Thomas Dewey,Henry Ford,Madonna",
+      "answer": "Michigan"
+    },
+    {
+      "category": "I'M CZAR-Y, SO CZAR-Y",
+      "text": "Boris Godunov recolonized this area stretching north to the Arctic Ocean; we're not sure why he wanted it",
+      "answer": "Siberia"
+    },
+    {
+      "category": "POETS & POETRY",
+      "text": "A trip to Ravenna in 1819 inspired Byron to write \"The Prophecy\" of this Italian poet",
+      "answer": "Dante"
+    },
+    {
+      "category": "4-LETTER \"W\"ORDS",
+      "text": "The shortest verse in the King James Bible says \"Jesus\" did this",
+      "answer": "wept"
+    },
+    {
+      "category": "RADIO-LOGY",
+      "text": "Foreseeing the future, in 1979 this group sang \"Video Killed the Radio Star\"",
+      "answer": "The Buggles"
+    },
+    {
+      "category": "FRENCH ART & ARTISTS",
+      "text": "You'll know that he painted the \"Musicians of the Orchestra\", seenhere, if you look at the performers in the background",
+      "answer": "(Edgar) Degas"
+    },
+    {
+      "category": "HOME STATES",
+      "text": "Dana Carvey,Evel Knievel,Jeannette Rankin",
+      "answer": "Montana"
+    },
+    {
+      "category": "I'M CZAR-Y, SO CZAR-Y",
+      "text": "The first czar of this name came to power in 1825; the second & last, in 1894",
+      "answer": "Nicholas"
+    },
+    {
+      "category": "POETS & POETRY",
+      "text": "In T.S. Eliot's \"Love Song of J. Alfred Prufrock\", \"The women come and go talking of\" him",
+      "answer": "Michelangelo"
+    },
+    {
+      "category": "4-LETTER \"W\"ORDS",
+      "text": "It's a forsaken & homeless child, like \"The Little Match Girl\"",
+      "answer": "waif"
+    },
+    {
+      "category": "RADIO-LOGY",
+      "text": "This song by Wall of Voodoo says, \"I wish I was in Tijuana eating barbecued iguana, I'd take requests on the telephone\"",
+      "answer": "\"Mexican Radio\""
+    },
+    {
+      "category": "FRENCH ART & ARTISTS",
+      "text": "Honore Daumier was imprisoned in 1832 for depicting King Louis Philippe as this Rabelaisian giant",
+      "answer": "Gargantua"
+    },
+    {
+      "category": "HOME STATES",
+      "text": "Amelia Earhart,Edgar Lee Masters,Dennis Hopper",
+      "answer": "Kansas"
+    },
+    {
+      "category": "POETS & POETRY",
+      "text": "This Robert Frost poem ends with the line \"Good fences make good neighbors\"",
+      "answer": "\"Mending Wall\""
+    },
+    {
+      "category": "4-LETTER \"W\"ORDS",
+      "text": "Distort, or the threads that run lengthwise on a loom",
+      "answer": "warp"
+    }
+  ]
+}

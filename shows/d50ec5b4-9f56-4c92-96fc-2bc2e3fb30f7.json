@@ -1,0 +1,310 @@
+{
+  "title": "Show #1945 - Friday, February 5, 1993",
+  "date": {
+    "day": 5,
+    "month": "February",
+    "year": 1993
+  },
+  "clues": [
+    {
+      "category": "THE SOUTH",
+      "text": "Natchez in this state is known for its lovely antebellum mansions; many of them are open to tourists",
+      "answer": "Mississippi"
+    },
+    {
+      "category": "MOVIE TRIVIA",
+      "text": "Irish actress Geraldine Fitzgerald played the woman who married Heathcliff in this 1939 classic",
+      "answer": "Wuthering Heights"
+    },
+    {
+      "category": "THE ENVIRONMENT",
+      "text": "Global warming caused by this \"effect\" could force the evacuation of some coastal lowlands",
+      "answer": "the greenhouse effect"
+    },
+    {
+      "category": "1992",
+      "text": "During one week in May, 7 people died climbing this Alaskan mountain",
+      "answer": "Mt. McKinley"
+    },
+    {
+      "category": "CHOCOLATE",
+      "text": "It's the only candy we know with \"Duds\" in its name",
+      "answer": "Milk Duds"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "Often caused by cold, this skin condition could be called \"waterfowl bumps\"",
+      "answer": "goosebumps"
+    },
+    {
+      "category": "THE SOUTH",
+      "text": "The shag, not the Charleston, is South Carolina's state one of these",
+      "answer": "a dance"
+    },
+    {
+      "category": "MOVIE TRIVIA",
+      "text": "Annette Bening came on like gangbusters when she wore a gown from this gangster film to the 1990 Oscars",
+      "answer": "Bugsy"
+    },
+    {
+      "category": "THE ENVIRONMENT",
+      "text": "Trees help humanity by absorbing this gas, but it's released to the atmosphere when they are burned",
+      "answer": "carbon dioxide"
+    },
+    {
+      "category": "1992",
+      "text": "In July this new Israeli prime minister went to Cairo to meet President Mubarak",
+      "answer": "Yitzhak Rabin"
+    },
+    {
+      "category": "CHOCOLATE",
+      "text": "This vegetable fat used in soap & cosmetics is a by-product of the chocolate industry",
+      "answer": "cocoa butter"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "These abandoned communities could be called \"spectre cities\"",
+      "answer": "ghost towns"
+    },
+    {
+      "category": "THE SOUTH",
+      "text": "The annual Jeanie festival in White Springs, Florida honors this composer who dreamed of Jeanie",
+      "answer": "Stephen Foster"
+    },
+    {
+      "category": "MOVIE TRIVIA",
+      "text": "Of bubble gum, flubber or blubber, the one Fred MacMurray invented in a 1961 film",
+      "answer": "flubber"
+    },
+    {
+      "category": "THE ENVIRONMENT",
+      "text": "These converters help release pollutants from automobile exhaust",
+      "answer": "catalytic converters"
+    },
+    {
+      "category": "1992",
+      "text": "After Slovakia's parliament declared sovereignty, he quit as president of Czechoslovakia",
+      "answer": "Václav Havel"
+    },
+    {
+      "category": "CHOCOLATE",
+      "text": "Theobroma Cacao, the scientific name of the cacao tree, means that it's the \"food of\" these beings",
+      "answer": "the gods"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "Jubilant joy, or the kind of club that might sing about it",
+      "answer": "a glee club"
+    },
+    {
+      "category": "THE SOUTH",
+      "text": "In 1926 the Rockefellers began restoring the historic area of this colonial capital of Virginia",
+      "answer": "Williamsburg"
+    },
+    {
+      "category": "MOVIE TRIVIA",
+      "text": "John Chancellor reportedly turned down the role in this 1976 film that won Peter Finch an Oscar",
+      "answer": "Network"
+    },
+    {
+      "category": "THE ENVIRONMENT",
+      "text": "The pH value of acid rain is equivalent to that of this common salad dressing ingredient",
+      "answer": "vinegar"
+    },
+    {
+      "category": "1992",
+      "text": "Founded in 1779, the Elizabeth Daily Journal, this state's oldest newspaper, folded",
+      "answer": "New Jersey"
+    },
+    {
+      "category": "CHOCOLATE",
+      "text": "Chocolate, garlic & onions are 3 of the main ingredients in this spicy Mexican sauce",
+      "answer": "mole"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "A voracious eater, or someone with an enormous capacity \"for work\" or \"for punishment\"",
+      "answer": "a glutton"
+    },
+    {
+      "category": "THE SOUTH",
+      "text": "This Tennessee city's architecture helped earn it the nickname \"The Athens of the South\"",
+      "answer": "Nashville"
+    },
+    {
+      "category": "MOVIE TRIVIA",
+      "text": "This \"Mrs. Miniver\" star played Eleanor Roosevelt in the 1960 film \"Sunrise at Campobello\"",
+      "answer": "Greer Garson"
+    },
+    {
+      "category": "THE ENVIRONMENT",
+      "text": "This type of garbage dump, used for about 80% of U.S. waste, often leaks toxic chemicals",
+      "answer": "a landfill"
+    },
+    {
+      "category": "1992",
+      "text": "A deadlock over how to close a $10.7-billion budget shortfall caused this state to issue IOUs",
+      "answer": "California"
+    },
+    {
+      "category": "CHOCOLATE",
+      "text": "A chocolate company is named for this legendary lady who graces its signature gold ballotins",
+      "answer": "(Lady) Godiva"
+    },
+    {
+      "category": "G\" WHIZ",
+      "text": "Some species of this ratlike rodent, a popular pet, are called jirds",
+      "answer": "gerbils"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "David Livingstone's body was interred in this London landmark in 1874",
+      "answer": "Westminster Abbey"
+    },
+    {
+      "category": "CHEMISTRY",
+      "text": "Mr. Potato Head could tell you the 3 best-known polysaccharides are cellulose, glycogen & this",
+      "answer": "starch"
+    },
+    {
+      "category": "FAMOUS WOMEN",
+      "text": "Now 80, this \"French Chef\" says she'll go until she drops, & \"that should be about 95\"",
+      "answer": "Julia Child"
+    },
+    {
+      "category": "COUNTRIES OF THE WORLD",
+      "text": "About 94% of this country's population belongs to the Han nationality",
+      "answer": "China"
+    },
+    {
+      "category": "POETRY",
+      "text": "This American poet wrote several versions of his lament \"Lenore\"",
+      "answer": "(Edgar Allan) Poe"
+    },
+    {
+      "category": "THE INSTRUMENT PLAYED",
+      "text": "Duane Eddy, Andres Segovia & Chuck Berry",
+      "answer": "a guitar"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "In 1870 the first rubber company west of the Alleghenies was founded in Akron, Ohio by this man",
+      "answer": "Goodrich"
+    },
+    {
+      "category": "CHEMISTRY",
+      "text": "Used in rechargeable batteries & to protect other metals from corrosion, its symbol is Cd",
+      "answer": "cadmium"
+    },
+    {
+      "category": "FAMOUS WOMEN",
+      "text": "This comedienne got her start on TV as the girlfriend of Jerry Mahoney, & we're not pulling your ear!",
+      "answer": "Carol Burnett"
+    },
+    {
+      "category": "COUNTRIES OF THE WORLD",
+      "text": "This country's 4 geographical provinces are Connaught, Leinster, Munster & part of Ulster",
+      "answer": "Ireland"
+    },
+    {
+      "category": "POETRY",
+      "text": "The 9th sect. of this Longfellow poem begins, \"On the shores of Gitche Gumee, of the shining Big-Sea-Water\"",
+      "answer": "Hiawatha"
+    },
+    {
+      "category": "THE INSTRUMENT PLAYED",
+      "text": "Ginger Baker, Karen Carpenter & Buddy Rich",
+      "answer": "the drums"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "This president ran for reelection in 1872 against fellow Republican Horace Greeley, who was endorsed by the Democrats",
+      "answer": "Grant"
+    },
+    {
+      "category": "CHEMISTRY",
+      "text": "An atom that loses one of these becomes a cation, a positively charged ion",
+      "answer": "an electron"
+    },
+    {
+      "category": "FAMOUS WOMEN",
+      "text": "It's the first name of cartoonist Guisewite, or her famous comic strip",
+      "answer": "Cathy"
+    },
+    {
+      "category": "COUNTRIES OF THE WORLD",
+      "text": "The Gallipoli Peninsula, a site of major action in WWI, is part of this country",
+      "answer": "Turkey"
+    },
+    {
+      "category": "POETRY",
+      "text": "T.S. Eliot asked \"Do I dare to eat a peach\" in this title character's \"Love Song\"",
+      "answer": "J. Alfred Prufrock"
+    },
+    {
+      "category": "THE INSTRUMENT PLAYED",
+      "text": "Toots Thielmans, Larry Addler & Stevie Wonder",
+      "answer": "the harmonica"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "In 1893 this labor leader founded the American Railway Union",
+      "answer": "(Eugene) Debs"
+    },
+    {
+      "category": "CHEMISTRY",
+      "text": "Burn a piece of sodium in a flask filled with chlorine gas & the resulting white powder is this",
+      "answer": "salt"
+    },
+    {
+      "category": "FAMOUS WOMEN",
+      "text": "The original Gibson Girl, Irene Langhorne Gibson, was an older sister of this American-born British \"Lady\"",
+      "answer": "Lady (Nancy) Astor"
+    },
+    {
+      "category": "COUNTRIES OF THE WORLD",
+      "text": "Bob Hawke served as prime minister of this country from 1983 to 1991",
+      "answer": "Australia"
+    },
+    {
+      "category": "POETRY",
+      "text": "Books in this Tennyson work include \"Merlin and Vivien\" & \"Lancelot and Elaine\"",
+      "answer": "\"The Idylls of the King\""
+    },
+    {
+      "category": "THE INSTRUMENT PLAYED",
+      "text": "Annie Whitehead, Kid Ory & Tommy Dorsey",
+      "answer": "the trombone"
+    },
+    {
+      "category": "THE 19th CENTURY",
+      "text": "On Jan. 5, 1895, in front of French troops, he was stripped of his buttons & badges & had his sword broken",
+      "answer": "Alfred Dreyfus"
+    },
+    {
+      "category": "CHEMISTRY",
+      "text": "This semiconducting element makes up 27.7% of the mass of the earth's crust",
+      "answer": "silicon"
+    },
+    {
+      "category": "FAMOUS WOMEN",
+      "text": "She founded the Elsa Wild Animal Appeal in England in 1961& in the U.S. in 1969",
+      "answer": "Joy Adamson"
+    },
+    {
+      "category": "COUNTRIES OF THE WORLD",
+      "text": "The Bryan-Chamorro treaty of 1914 gave the U.S. the right to build a canal thru this Central American country",
+      "answer": "Nicaragua"
+    },
+    {
+      "category": "POETRY",
+      "text": "\"Ah but a man's reach should exceed his grasp, or what's a heaven for?\" is from his \"Andrea Del Sarto\"",
+      "answer": "Robert Browning"
+    },
+    {
+      "category": "THE INSTRUMENT PLAYED",
+      "text": "Freddy Martin, Boots Randolph & John Coltrane",
+      "answer": "the saxophone"
+    }
+  ]
+}

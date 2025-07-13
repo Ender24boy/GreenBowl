@@ -1,0 +1,300 @@
+{
+  "title": "Trebek pilot #2 - Sunday, January 1, 1984",
+  "date": {
+    "day": 1,
+    "month": "January",
+    "year": 1984
+  },
+  "clues": [
+    {
+      "category": "TELEVISION",
+      "text": "Long-running Western about the Cartwright clan",
+      "answer": "Bonanza"
+    },
+    {
+      "category": "U.S. LANDMARKS",
+      "text": "It scrapes the sky at 5th Avenue & 34th Street, New York City",
+      "answer": "the Empire State Building"
+    },
+    {
+      "category": "CELEBRITY RELATIVES",
+      "text": "Shirley MacLaine's \"kid\" brother",
+      "answer": "Warren Beatty"
+    },
+    {
+      "category": "FOOD",
+      "text": "The most widely eaten fungus",
+      "answer": "a mushroom"
+    },
+    {
+      "category": "SUPERSTITIONS",
+      "text": "Number of years of bad luck that comes from breaking a mirror",
+      "answer": "7"
+    },
+    {
+      "category": "AWARDS",
+      "text": "This late singer's 28 gold records were the most ever awarded to an individual",
+      "answer": "Elvis (Presley)"
+    },
+    {
+      "category": "TELEVISION",
+      "text": "He's been Bentley Gregg, the Angels' Charlie, & Blake Carrington",
+      "answer": "John Forsythe"
+    },
+    {
+      "category": "U.S. LANDMARKS",
+      "text": "Named for the channel it spans, this California bridge is really orange",
+      "answer": "the Golden Gate"
+    },
+    {
+      "category": "CELEBRITY RELATIVES",
+      "text": "Mary Martin's boy who's developed a Dallas drawl",
+      "answer": "Larry Hagman"
+    },
+    {
+      "category": "FOOD",
+      "text": "Jewish deli substitute for \"pate de foie gras\"",
+      "answer": "chopped chicken livers"
+    },
+    {
+      "category": "SUPERSTITIONS",
+      "text": "The way a horseshoe's legs should point when it's hung for good luck",
+      "answer": "up"
+    },
+    {
+      "category": "AWARDS",
+      "text": "The annual awards given by the Academy of Motion Picture Arts & Sciences",
+      "answer": "the Oscar"
+    },
+    {
+      "category": "TELEVISION",
+      "text": "Eddie Murphy's impersonation has revived interest in this little green guy",
+      "answer": "Gumby"
+    },
+    {
+      "category": "U.S. LANDMARKS",
+      "text": "From the Spanish for \"Cottonwood\", the site where Jim Bowie & Davy Crockett died",
+      "answer": "the Alamo"
+    },
+    {
+      "category": "CELEBRITY RELATIVES",
+      "text": "She's Dear Abby's twin sister",
+      "answer": "Ann Landers"
+    },
+    {
+      "category": "FOOD",
+      "text": "This \"heavenly\" candy is made of whipped egg whites, sugar, & nuts",
+      "answer": "divinity"
+    },
+    {
+      "category": "SUPERSTITIONS",
+      "text": "What actors say on opening night instead of \"good luck\"",
+      "answer": "break a leg"
+    },
+    {
+      "category": "AWARDS",
+      "text": "Lech Walesa sent his wife to accept this award",
+      "answer": "the Nobel (Peace) Prize"
+    },
+    {
+      "category": "TELEVISION",
+      "text": "The greeting which opened each episode of \"Alfred Hitchcock Presents\"",
+      "answer": "\"Good evening\""
+    },
+    {
+      "category": "U.S. LANDMARKS",
+      "text": "The building on the back of a $20 bill",
+      "answer": "the White House"
+    },
+    {
+      "category": "CELEBRITY RELATIVES",
+      "text": "Carrie Fisher's famous parents",
+      "answer": "Debbie Reynolds & Eddie Fisher"
+    },
+    {
+      "category": "FOOD",
+      "text": "Order \"calamari\" in an Italian restaurant and you'll get this seafood",
+      "answer": "squid"
+    },
+    {
+      "category": "SUPERSTITIONS",
+      "text": "An omen of bad luck in Da Vinci's famous painting \"The Last Supper\"",
+      "answer": "the spilt salt shaker (or 13 at the table)"
+    },
+    {
+      "category": "AWARDS",
+      "text": "The highest award given to an American serviceman",
+      "answer": "the Congressional Medal of Honor"
+    },
+    {
+      "category": "TELEVISION",
+      "text": "Of 5 series spun off of \"All in the Family\" the only one still in production",
+      "answer": "The Jeffersons"
+    },
+    {
+      "category": "U.S. LANDMARKS",
+      "text": "The view from this Colorado summit inspired the song \"America the Beautiful\"",
+      "answer": "Pike's Peak"
+    },
+    {
+      "category": "CELEBRITY RELATIVES",
+      "text": "They were \"Minnie's boys\"",
+      "answer": "the Marx Brothers"
+    },
+    {
+      "category": "SUPERSTITIONS",
+      "text": "French warrior & statesman morbidly afraid of cats & the number 13",
+      "answer": "Napoleon"
+    },
+    {
+      "category": "AWARDS",
+      "text": "It's the award given each year's most outstanding major league pitcher",
+      "answer": "the Cy Young Award"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "First shot of the Civil War was fired there",
+      "answer": "Fort Sumter"
+    },
+    {
+      "category": "TOYS & GAMES",
+      "text": "Popular doll that comes with adoption papers",
+      "answer": "a Cabbage Patch Kid"
+    },
+    {
+      "category": "MOVIES",
+      "text": "Resembling a rock video, this film inspired off-the-shoulder sweatshirt fashions",
+      "answer": "Flashdance"
+    },
+    {
+      "category": "SPORTS LEGENDS",
+      "text": "His home-run records were broken by Maris & Aaron",
+      "answer": "Babe Ruth"
+    },
+    {
+      "category": "STATE NAMES",
+      "text": "The only state named after a president",
+      "answer": "Washington"
+    },
+    {
+      "category": "FAMOUS PAIRS",
+      "text": "The Brothers Grimm wrote about these 2 children of a broom maker",
+      "answer": "Hansel & Gretel"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "It was the capital of the Confederacy",
+      "answer": "Richmond, Viriginia"
+    },
+    {
+      "category": "TOYS & GAMES",
+      "text": "In Monopoly, the corner between Boardwalk & Mediterranean",
+      "answer": "Go"
+    },
+    {
+      "category": "MOVIES",
+      "text": "Her film \"Yentl\" has been called \"Tootsie on the Roof\"",
+      "answer": "Barbra Streisand"
+    },
+    {
+      "category": "SPORTS LEGENDS",
+      "text": "He has an I.Q. of 131, has written a best-seller, and stands 7'2\" tall",
+      "answer": "Kareem Abdul-Jabbar"
+    },
+    {
+      "category": "STATE NAMES",
+      "text": "Ponce de Leon named this Southern state for its flowers",
+      "answer": "Florida"
+    },
+    {
+      "category": "FAMOUS PAIRS",
+      "text": "Sin cities of the Bible",
+      "answer": "Sodom & Gomorrah"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "General who ravaged Georgia, then explained \"War is hell\"",
+      "answer": "General (William Tecumsah) Sherman"
+    },
+    {
+      "category": "TOYS & GAMES",
+      "text": "To play this, you need wickets, mallets and wooden balls",
+      "answer": "croquet"
+    },
+    {
+      "category": "MOVIES",
+      "text": "Best Picture of '42, it featured thefollowing:",
+      "answer": "Casablanca"
+    },
+    {
+      "category": "SPORTS LEGENDS",
+      "text": "In 1971, became first woman athlete to win over $100,000 in a year",
+      "answer": "Billie Jean King"
+    },
+    {
+      "category": "STATE NAMES",
+      "text": "1 of 2 Eastern Seaboard states named after queens of England",
+      "answer": "Maryland (or Virginia)"
+    },
+    {
+      "category": "FAMOUS PAIRS",
+      "text": "It's the world's largest mail-order co.",
+      "answer": "Sears-Roebuck"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "Battle known as \"high water mark of the Confederacy\"",
+      "answer": "the Battle of Gettysburg"
+    },
+    {
+      "category": "TOYS & GAMES",
+      "text": "\"Spit in the ocean\" is a variety of this card game",
+      "answer": "poker"
+    },
+    {
+      "category": "MOVIES",
+      "text": "She hit \"The Road\" 7 times with Hope & Crosby",
+      "answer": "Dorothy Lamour"
+    },
+    {
+      "category": "SPORTS LEGENDS",
+      "text": "Figure skater who won only U.S. gold at 1968 Winter Olympics in France",
+      "answer": "Peggy Fleming"
+    },
+    {
+      "category": "STATE NAMES",
+      "text": "The only state with a one-syllable name",
+      "answer": "Maine"
+    },
+    {
+      "category": "FAMOUS PAIRS",
+      "text": "Originally, these dancers' names were Frederick Austerlitz & Virginia McNath",
+      "answer": "Fred Astaire & Ginger Rogers"
+    },
+    {
+      "category": "CIVIL WAR",
+      "text": "The 2 vessels involved in the first battle between ironclad warships",
+      "answer": "theMonitor& theMerrimack"
+    },
+    {
+      "category": "TOYS & GAMES",
+      "text": "It's a tied game in chess",
+      "answer": "a stalemate"
+    },
+    {
+      "category": "MOVIES",
+      "text": "Current comic hit chronicling 30 years of a mother-daughter relationship",
+      "answer": "Terms of Endearment"
+    },
+    {
+      "category": "SPORTS LEGENDS",
+      "text": "Voted \"Greatest All-round Athlete of Last Half Century\", he was full-blooded American Indian",
+      "answer": "Jim Thorpe"
+    },
+    {
+      "category": "FAMOUS PAIRS",
+      "text": "They were the opposing attorneys at the Scopes \"Monkey\" Trial",
+      "answer": "Clarence Darrow & William Jennings Bryan"
+    }
+  ]
+}

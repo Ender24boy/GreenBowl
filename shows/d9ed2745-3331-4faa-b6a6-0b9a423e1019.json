@@ -1,0 +1,310 @@
+{
+  "title": "Show #3856 - Monday, May 14, 2001",
+  "date": {
+    "day": 14,
+    "month": "May",
+    "year": 2001
+  },
+  "clues": [
+    {
+      "category": "BIG COUNTRY",
+      "text": "In one of its official languages, this nation of 1 billion is known as Bharat",
+      "answer": "India"
+    },
+    {
+      "category": "COMIC & CARTOON CRITTERS",
+      "text": "Marmaduke",
+      "answer": "Dog (Great Dane)"
+    },
+    {
+      "category": "THE POLITICAL LIFE",
+      "text": "Proverbially, to indicate one's candidacy is to throw one's hat here",
+      "answer": "In the ring"
+    },
+    {
+      "category": "THAT'S SNOW FUN",
+      "text": "It's what the child seen here is making",
+      "answer": "Snow angel"
+    },
+    {
+      "category": "YASIR",
+      "text": "Some say Arafat was born in Jerusalem in 1929; others, in Gaza; still others, in this capital of Egypt",
+      "answer": "Cairo"
+    },
+    {
+      "category": "THAT'S MY \"BABY",
+      "text": "Term for the sharp increase of birthrate in the U.S. after World War II",
+      "answer": "Baby Boom"
+    },
+    {
+      "category": "BIG COUNTRY",
+      "text": "The darkest area seen here, this Scandinavian nation is the fourth-largest country in Europe",
+      "answer": "Sweden"
+    },
+    {
+      "category": "COMIC & CARTOON CRITTERS",
+      "text": "Pepe Le Pew",
+      "answer": "Skunk"
+    },
+    {
+      "category": "THE POLITICAL LIFE",
+      "text": "An officeholder during the interval before a successor takes over is known as one of these limping birds",
+      "answer": "Lame duck"
+    },
+    {
+      "category": "THAT'S SNOW FUN",
+      "text": "A Hasbro machine made them in the '70s, & you can make them yourself using juice concentrate",
+      "answer": "Sno-cones"
+    },
+    {
+      "category": "YASIR",
+      "text": "It's \"The Loneliest Number\" of nights Arafat will reportedly sleep in a house before moving on",
+      "answer": "1"
+    },
+    {
+      "category": "THAT'S MY \"BABY",
+      "text": "Site where 1 of the 7 wonders of the ancient world \"hung around\"",
+      "answer": "Babylon"
+    },
+    {
+      "category": "BIG COUNTRY",
+      "text": "Almost twice the size of the U.S., it's the largest member of the C.I.S.",
+      "answer": "Russia"
+    },
+    {
+      "category": "COMIC & CARTOON CRITTERS",
+      "text": "Pinky & the Brain",
+      "answer": "Mice"
+    },
+    {
+      "category": "THE POLITICAL LIFE",
+      "text": "From the Latin for \"to be away\", this type of ballot is a vote cast by mail, not at a polling place",
+      "answer": "Absentee"
+    },
+    {
+      "category": "THAT'S SNOW FUN",
+      "text": "In December 1968 Philadelphia Eagles fans pelted this usually-beloved personage with snowballs",
+      "answer": "Santa Claus"
+    },
+    {
+      "category": "YASIR",
+      "text": "In 1969 Arafat was named chairman of the PLO, which stands for this",
+      "answer": "Palestine Liberation Organization"
+    },
+    {
+      "category": "THAT'S MY \"BABY",
+      "text": "This 1963 song was the Ronettes' biggest hit",
+      "answer": "\"Be My Baby\""
+    },
+    {
+      "category": "BIG COUNTRY",
+      "text": "It borders every country on its continent but Ecuador & Chile",
+      "answer": "Brazil"
+    },
+    {
+      "category": "COMIC & CARTOON CRITTERS",
+      "text": "Quick Draw McGraw",
+      "answer": "Horse"
+    },
+    {
+      "category": "THE POLITICAL LIFE",
+      "text": "Term for the speech at a convention that sets the tone & outlines the main issues",
+      "answer": "Keynote speech"
+    },
+    {
+      "category": "THAT'S SNOW FUN",
+      "text": "At the 1939 World's Fair, the Carrier Corp. demonstrated A/C in an imitation one of these domed dwellings",
+      "answer": "Igloo"
+    },
+    {
+      "category": "YASIR",
+      "text": "Arafat & this Likud leader signed a 1997 accord on Israeli troop withdrawal from most of the city of Hebron",
+      "answer": "Benjamin Netanyahu"
+    },
+    {
+      "category": "THAT'S MY \"BABY",
+      "text": "So called from its delicate odor, it's a tall plant with many small white or pink flowers",
+      "answer": "Baby's breath"
+    },
+    {
+      "category": "BIG COUNTRY",
+      "text": "Principal mountain ranges in this large country include the Kunlun, the Tian Shan & the Trans-Himalaya",
+      "answer": "China"
+    },
+    {
+      "category": "COMIC & CARTOON CRITTERS",
+      "text": "PBS' Arthur",
+      "answer": "Aardvark"
+    },
+    {
+      "category": "THE POLITICAL LIFE",
+      "text": "From the Latin for \"grow together\", it's an alliance of different groups for a specific cause",
+      "answer": "a coalition"
+    },
+    {
+      "category": "THAT'S SNOW FUN",
+      "text": "Skiers know this 6-letter term for fresh, loose unpacked snow",
+      "answer": "Powder"
+    },
+    {
+      "category": "YASIR",
+      "text": "In the '50s Arafat worked in an engineering firm in this country, the invasion of which triggered the Gulf War",
+      "answer": "Kuwait"
+    },
+    {
+      "category": "THAT'S MY \"BABY",
+      "text": "This 1991 U2 album featuring \"Mysterious Ways\" caught our attention",
+      "answer": "\"Achtung Baby\""
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "This private Utah university is controlled by the Church of Jesus Christ of Latter-day Saints",
+      "answer": "Brigham Young University"
+    },
+    {
+      "category": "LOVE THOSE VEGGIES!",
+      "text": "Daucus carota",
+      "answer": "Carrot"
+    },
+    {
+      "category": "OLD TRAVEL BOOKS",
+      "text": "\"Voyages to Vinland\" begins with this lucky guy getting baptized",
+      "answer": "Leif Ericson"
+    },
+    {
+      "category": "THE MOVIES",
+      "text": "Benecio del Toro plays troubled cop Javier Rodriguez in the 2000 film tale of America's war on drugs",
+      "answer": "Traffic"
+    },
+    {
+      "category": "19th CENTURY VPs",
+      "text": "Like Abe Lincoln, 19th century VP Adlai Stevenson was born in Kentucky but was a congressman from this state",
+      "answer": "Illinois"
+    },
+    {
+      "category": "IF THEY MARRIED...",
+      "text": "Current actress Barrymore says \"I Do\" with Bugs' voice Mel & becomes...",
+      "answer": "Drew Blanc"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "In 1695 the Christopher Wren Building was built on this Virginia school's campus; classes are still held in it",
+      "answer": "William and Mary"
+    },
+    {
+      "category": "LOVE THOSE VEGGIES!",
+      "text": "Solanum tuberosum",
+      "answer": "Potato"
+    },
+    {
+      "category": "OLD TRAVEL BOOKS",
+      "text": "This Englishman's 1577-1580 trip around the world wasn't mentioned in Hakluyt's 1589 book on English voyages",
+      "answer": "Sir Francis Drake"
+    },
+    {
+      "category": "THE MOVIES",
+      "text": "In 1996 Sean Connery was the voice of Draco, the last of these creatures",
+      "answer": "Dragon"
+    },
+    {
+      "category": "19th CENTURY VPs",
+      "text": "1 of the 2 19th century VPs named John C.; both were partisans of the South",
+      "answer": "John C. Calhoun (or John C. Breckinridge)"
+    },
+    {
+      "category": "IF THEY MARRIED...",
+      "text": "Ms. Farrow might be sorry if she makes it legal with \"I Spy\" actor Robert & becomes...",
+      "answer": "Mia Culp"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "On May 17, 1987 pranksters from this Pasadena school changed the Hollywood sign to the name of the school",
+      "answer": "Caltech"
+    },
+    {
+      "category": "LOVE THOSE VEGGIES!",
+      "text": "Capsicum annuum",
+      "answer": "Pepper"
+    },
+    {
+      "category": "OLD TRAVEL BOOKS",
+      "text": "By his account, he reached the New World's mainland 14 months before Columbus; that's why we're not in Columbia",
+      "answer": "Amerigo Vespucci"
+    },
+    {
+      "category": "THE MOVIES",
+      "text": "In 1981 Wallace Shawn came prepared to eat in \"My Dinner With\" this man",
+      "answer": "Andre"
+    },
+    {
+      "category": "19th CENTURY VPs",
+      "text": "We were going to save this 1870s VP for a \"Starts With 'Colf'\" category, but here goes",
+      "answer": "Schuyler Colfax"
+    },
+    {
+      "category": "IF THEY MARRIED...",
+      "text": "If the corn-rowed star of \"10\" married English diarist Samuel, she'd make an entry as...",
+      "answer": "Bo Pepys"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "This state university of New Jersey was founded by the Dutch Reformed Church as Queen's College in 1766",
+      "answer": "Rutgers"
+    },
+    {
+      "category": "LOVE THOSE VEGGIES!",
+      "text": "Zea mays",
+      "answer": "Corn"
+    },
+    {
+      "category": "OLD TRAVEL BOOKS",
+      "text": "This Tarrytown, N.Y. author's cross-country trip was the source for his 1835 book \"A Tour on the Prairies\"",
+      "answer": "Washington Irving"
+    },
+    {
+      "category": "THE MOVIES",
+      "text": "This 1992 Denzel Washington film is reportedly the first & only non-documentary film allowed to be made in Mecca",
+      "answer": "Malcolm X"
+    },
+    {
+      "category": "19th CENTURY VPs",
+      "text": "Richard Johnson was elected with the slogan \"Rumpsey Dumpsey Colonel Johnson Killed\" this Shawnee leader",
+      "answer": "Tecumseh"
+    },
+    {
+      "category": "IF THEY MARRIED...",
+      "text": "If bubbly Ms. Hawn reaches a \"Human Understanding\" with British philosopher John, she'd become...",
+      "answer": "Goldie Locke"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "The Statler Inn at this Ithaca, N.Y. school was built as a \"teaching hotel\" for its school of hotel administration",
+      "answer": "Cornell"
+    },
+    {
+      "category": "LOVE THOSE VEGGIES!",
+      "text": "Phaseolus limensis",
+      "answer": "Lima bean"
+    },
+    {
+      "category": "OLD TRAVEL BOOKS",
+      "text": "In the 5th century B.C. he added a great description of the land of Egypt to his great history work",
+      "answer": "Herodotus"
+    },
+    {
+      "category": "THE MOVIES",
+      "text": "(Hi, I'm Nathan Lane.)  My movie with Robin Williams, \"The Birdcage\", is an English language version of this film",
+      "answer": "La Cage aux Folles"
+    },
+    {
+      "category": "19th CENTURY VPs",
+      "text": "In 1848 future VP Henry Wilson helped form this party opposed to extending slavery to new territory",
+      "answer": "Free Soil Party"
+    },
+    {
+      "category": "IF THEY MARRIED...",
+      "text": "Ivanka's mom, the former Mrs. Trump, makes it legal with '70s chief justice Warren & becomes...",
+      "answer": "Ivana Burger"
+    }
+  ]
+}

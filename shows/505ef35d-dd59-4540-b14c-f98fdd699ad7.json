@@ -1,0 +1,310 @@
+{
+  "title": "Show #6474 - Thursday, November 8, 2012",
+  "date": {
+    "day": 8,
+    "month": "November",
+    "year": 2012
+  },
+  "clues": [
+    {
+      "category": "WHERE'S THAT?",
+      "text": "Rockefeller Center:The borough",
+      "answer": "Manhattan"
+    },
+    {
+      "category": "FILL IN THE QUOTE",
+      "text": "Patrick Henry: \"Give me ____ or give me death!\"",
+      "answer": "liberty"
+    },
+    {
+      "category": "JEOPARDY!ENNUI",
+      "text": "Ennui means this; Schopenhauer calls it the feeling of the emptiness of existence, & I feel it when I read Schopenhauer",
+      "answer": "boredom"
+    },
+    {
+      "category": "50 YEARS OF JAMES BOND FILMS",
+      "text": "The franchise started in 1962 with James Bond facing off againstthis title villain",
+      "answer": "Dr. No"
+    },
+    {
+      "category": "BUSINESS IS GOOD",
+      "text": "In 2012 this 2-named energy company reported a quarterly profit of nearly $16 bil., the highest ever for a U.S. corp.",
+      "answer": "Exxon Mobil"
+    },
+    {
+      "category": "RE\"-CESS",
+      "text": "Light is focused by a concave mirror in this type of telescope",
+      "answer": "a reflecting telescope"
+    },
+    {
+      "category": "WHERE'S THAT?",
+      "text": "Chicago:The county",
+      "answer": "Cook"
+    },
+    {
+      "category": "FILL IN THE QUOTE",
+      "text": "Benjamin Franklin: \"There never was a ____  ____ or a bad peace\"",
+      "answer": "good war"
+    },
+    {
+      "category": "JEOPARDY!ENNUI",
+      "text": "20,000 times a day these paired organs expand & contract, in & out; how tedious",
+      "answer": "lungs"
+    },
+    {
+      "category": "50 YEARS OF JAMES BOND FILMS",
+      "text": "Oddjob painted Jill Masterson's entire body, resulting in a memorable scene inthis film",
+      "answer": "Goldfinger"
+    },
+    {
+      "category": "BUSINESS IS GOOD",
+      "text": "In January 2009 a share in this tech co. was $82.33; In August 2012, after a court victory over Samsung, it opened at $680",
+      "answer": "Apple"
+    },
+    {
+      "category": "RE\"-CESS",
+      "text": "This condensed compendium is one of the 10 most popular magazines in America",
+      "answer": "Reader's Digest"
+    },
+    {
+      "category": "WHERE'S THAT?",
+      "text": "Petco Park Major League Baseball stadium:The city",
+      "answer": "San Diego"
+    },
+    {
+      "category": "FILL IN THE QUOTE",
+      "text": "Huey P. Long: \"I looked around at the little fishes present, and said, 'I'm the ____'\"",
+      "answer": "kingfish"
+    },
+    {
+      "category": "JEOPARDY!ENNUI",
+      "text": "I tire of the rows & columns of this Microsoft spreadsheet program introduced in 1985",
+      "answer": "Excel"
+    },
+    {
+      "category": "50 YEARS OF JAMES BOND FILMS",
+      "text": "\"Skyfall\", the 23rd film in the franchise, marksthisactor's third outing as Bond, James Bond",
+      "answer": "Daniel Craig"
+    },
+    {
+      "category": "BUSINESS IS GOOD",
+      "text": "In 1999 this \"colorful\" airline took delivery of its 1st airbus A320--in 2011 it boasted 100 daily flights at Logan Airport",
+      "answer": "JetBlue"
+    },
+    {
+      "category": "RE\"-CESS",
+      "text": "It's the \"R\" in RSV, a 1952 version of the Bible",
+      "answer": "revised"
+    },
+    {
+      "category": "WHERE'S THAT?",
+      "text": "Mount McKinley:The national park",
+      "answer": "Denali"
+    },
+    {
+      "category": "FILL IN THE QUOTE",
+      "text": "Richard Nixon: \"It is time for the great ____  ____ of Americans to stand up and be counted\"",
+      "answer": "silent majority"
+    },
+    {
+      "category": "JEOPARDY!ENNUI",
+      "text": "Calling sit-ups & push-ups by this word from the Greek for \"beautiful\" doesn't make them interesting",
+      "answer": "calisthenics"
+    },
+    {
+      "category": "50 YEARS OF JAMES BOND FILMS",
+      "text": "The title of the 16th Bond film, it's also what's denoted by the \"00\" prefix",
+      "answer": "Licence to Kill"
+    },
+    {
+      "category": "BUSINESS IS GOOD",
+      "text": "O-ho, this bank's wagon is a-comin' down the street & it's filled with money; it's No. 26 on the 2012 Fortune 500",
+      "answer": "Wells Fargo"
+    },
+    {
+      "category": "RE\"-CESS",
+      "text": "It's the \"R\" in RV when the \"V\" is a spacecraft",
+      "answer": "reentry"
+    },
+    {
+      "category": "WHERE'S THAT?",
+      "text": "Holiday Inn Bratislava:The country",
+      "answer": "Slovakia"
+    },
+    {
+      "category": "FILL IN THE QUOTE",
+      "text": "Margaret Sanger: \"No woman can call herself free until she can choose...whether she will or will not be a ____\"",
+      "answer": "mother"
+    },
+    {
+      "category": "JEOPARDY!ENNUI",
+      "text": "This government agency with a lightning bolt logo says sunshine all next week; will it never end?",
+      "answer": "the National Weather Service"
+    },
+    {
+      "category": "50 YEARS OF JAMES BOND FILMS",
+      "text": "George Lazenby played 007 just once, in this film where Bond fell in love & got married",
+      "answer": "On Her Majesty's Secret Service"
+    },
+    {
+      "category": "BUSINESS IS GOOD",
+      "text": "Don Fisher \"couldn't find a pair of jeans that fit\"; the result was this store, clothing us since 1969",
+      "answer": "Gap"
+    },
+    {
+      "category": "RE\"-CESS",
+      "text": "From the Latin for \"beat back\", it means to resound in a succession of echoes",
+      "answer": "reverberate"
+    },
+    {
+      "category": "FIZZ ED",
+      "text": "Carbonation is the phenomenon in which this gas is suspended in liquid, creating small bubbles or fizz",
+      "answer": "carbon dioxide"
+    },
+    {
+      "category": "DOUBLE-TALK NAMES",
+      "text": "\"The Starter Wife\" is by Ms. Levangie Grazer, who has this first name",
+      "answer": "Gigi"
+    },
+    {
+      "category": "CLEOPATRA",
+      "text": "Shakespeare is among those who say Cleopatra killed herself with one of these, a symbol of divine royalty",
+      "answer": "an asp"
+    },
+    {
+      "category": "TOUGH 2-LETTER WORDS",
+      "text": "In this language Pe is the first letter of Pesach, meaning Passover",
+      "answer": "Hebrew"
+    },
+    {
+      "category": "RUSSIAN NOVELISTS",
+      "text": "In 1965 Mikhail Sholokhov won this prestigious award & traveled to Stockholm to receive it",
+      "answer": "the Nobel Prize"
+    },
+    {
+      "category": "WEIRDPODGE",
+      "text": "Gary Larson says that when this comic first hit papers, \"weird\" was the word people most often used to describe it",
+      "answer": "The Far Side"
+    },
+    {
+      "category": "FIZZ ED",
+      "text": "Beer has natural carbonation as a byproduct of this process involving yeast & sugar that produces the alcohol",
+      "answer": "fermentation"
+    },
+    {
+      "category": "DOUBLE-TALK NAMES",
+      "text": "In kids' books, the gang at Tarrytown Airport includes this jet plane",
+      "answer": "Jay Jay"
+    },
+    {
+      "category": "CLEOPATRA",
+      "text": "The Ptolemies, Cleo's dynasty, put these lion/human statues in front of temples to show a pharaoh's brains & brawn",
+      "answer": "a sphinx"
+    },
+    {
+      "category": "TOUGH 2-LETTER WORDS",
+      "text": "Os is a technical name for one of these in the body",
+      "answer": "a bone"
+    },
+    {
+      "category": "RUSSIAN NOVELISTS",
+      "text": "This author began writing \"Crime and Punishment\" in the form of a confession but later abandoned that idea",
+      "answer": "Dostoyevsky"
+    },
+    {
+      "category": "WEIRDPODGE",
+      "text": "From 1879 to 1931 this was the most any item cost at Woolworth's",
+      "answer": "ten cents"
+    },
+    {
+      "category": "FIZZ ED",
+      "text": "Soda on top of ice cream makes an ice cream soda; put the ice cream on top & it's called this, like a root beer one",
+      "answer": "float"
+    },
+    {
+      "category": "DOUBLE-TALK NAMES",
+      "text": "Nickname of the Olympian seenhere",
+      "answer": "Lolo (Jones)"
+    },
+    {
+      "category": "CLEOPATRA",
+      "text": "When she took the throne of Egypt, Cleopatra claimed to be the living embodiment of this Egyptian goddess",
+      "answer": "Isis"
+    },
+    {
+      "category": "TOUGH 2-LETTER WORDS",
+      "text": "French for \"from\"",
+      "answer": "de"
+    },
+    {
+      "category": "RUSSIAN NOVELISTS",
+      "text": "This count's first published work was \"Childhood\", a fictionalized account of his early years",
+      "answer": "Tolstoy"
+    },
+    {
+      "category": "WEIRDPODGE",
+      "text": "Swiss writers of this language generally ignore the weird \"B\" that sometimes replaces a double \"S\"",
+      "answer": "German"
+    },
+    {
+      "category": "FIZZ ED",
+      "text": "New studies show chemical carbonation in magma may fizz up these hardest gems from within the earth",
+      "answer": "diamonds"
+    },
+    {
+      "category": "DOUBLE-TALK NAMES",
+      "text": "Completes the title of a spin-off from \"Toddlers & Tiaras\", \"Here Comes Honey...\"",
+      "answer": "Boo Boo"
+    },
+    {
+      "category": "CLEOPATRA",
+      "text": "Cleopatra's royal residence was in this Egyptian port city; many artifacts have been recovered from its waters",
+      "answer": "Alexandria"
+    },
+    {
+      "category": "TOUGH 2-LETTER WORDS",
+      "text": "Spanish for \"I\"",
+      "answer": "yo"
+    },
+    {
+      "category": "RUSSIAN NOVELISTS",
+      "text": "From 1945 to 1953 he was imprisoned in labor camps for writing a letter critical of Stalin",
+      "answer": "Solzhenitsyn"
+    },
+    {
+      "category": "WEIRDPODGE",
+      "text": "Bill Paxton offers up a \"greasy pork sandwich served in a dirty ashtray\" in this film",
+      "answer": "Weird Science"
+    },
+    {
+      "category": "FIZZ ED",
+      "text": "The first artificially carbonated beverage was invented by this English discoverer of oxygen",
+      "answer": "Joseph Priestley"
+    },
+    {
+      "category": "DOUBLE-TALK NAMES",
+      "text": "It's the Hawaiian name of the goose seenhere",
+      "answer": "nene"
+    },
+    {
+      "category": "CLEOPATRA",
+      "text": "A head from the exhibit Cleopatra: The Search for the Last Queen of Egypt is thought to depictthisson of Cleopatra",
+      "answer": "Caesarion or Ptolemy XV"
+    },
+    {
+      "category": "TOUGH 2-LETTER WORDS",
+      "text": "Ut is a version of the musical note also known by the word do & by this letter",
+      "answer": "C"
+    },
+    {
+      "category": "RUSSIAN NOVELISTS",
+      "text": "Hostile reaction to his novel \"Fathers and Sons\" prompted him to leave Russia in 1863",
+      "answer": "(Ivan) Turgenev"
+    },
+    {
+      "category": "WEIRDPODGE",
+      "text": "The Azores & St. Helena are actually among the highest peaks of this mountain \"ridge\"",
+      "answer": "Mid-Atlantic Ridge"
+    }
+  ]
+}

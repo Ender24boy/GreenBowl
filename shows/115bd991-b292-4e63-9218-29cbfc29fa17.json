@@ -1,0 +1,305 @@
+{
+  "title": "Show #6599 - Thursday, May 2, 2013",
+  "date": {
+    "day": 2,
+    "month": "May",
+    "year": 2013
+  },
+  "clues": [
+    {
+      "category": "TO THE POLICE STATION!",
+      "text": "This city's 1st district station is on State Street, that great street",
+      "answer": "Chicago"
+    },
+    {
+      "category": "TV SUPPORTING CASTS",
+      "text": "Dirk Benedict as Face, Dwight Schultz as Howling Mad Murdock, some fools to be pitied",
+      "answer": "The A-Team"
+    },
+    {
+      "category": "NAVAL VESSELS",
+      "text": "The Seawolf class of this vessel has 8 torpedo tubes",
+      "answer": "submarine"
+    },
+    {
+      "category": "TABLE OF CONDIMENTS",
+      "text": "Of course Heinz has a sauce with this numerical name; it was originally called Beefsteak Sauce",
+      "answer": "57"
+    },
+    {
+      "category": "MLB TEAM NAMES?",
+      "text": "Residents of New Delhi or Mumbai",
+      "answer": "Indians"
+    },
+    {
+      "category": "THINGS MOTHER GAVE US",
+      "text": "Butterfly cousin",
+      "answer": "moth"
+    },
+    {
+      "category": "TO THE POLICE STATION!",
+      "text": "This city's Tenderloin District station is on Eddy Street",
+      "answer": "San Francisco"
+    },
+    {
+      "category": "TV SUPPORTING CASTS",
+      "text": "Meghan Ory as Ruby, Meghan Ory as Red Riding Hood",
+      "answer": "Once Upon a Time"
+    },
+    {
+      "category": "NAVAL VESSELS",
+      "text": "Spain usedthistype of ship in both war and peace; the San Diego Maritime Museum is building areplicaof Cabrillo's",
+      "answer": "galleon"
+    },
+    {
+      "category": "TABLE OF CONDIMENTS",
+      "text": "Cornichons are itty bitty these, made from gherkins",
+      "answer": "pickles"
+    },
+    {
+      "category": "MLB TEAM NAMES?",
+      "text": "Capt. Jack Sparrow & Capt. Blood",
+      "answer": "pirates"
+    },
+    {
+      "category": "THINGS MOTHER GAVE US",
+      "text": "Nickname for the subway in Paris",
+      "answer": "metro"
+    },
+    {
+      "category": "TO THE POLICE STATION!",
+      "text": "This city's Poste de Quartier 31 is right near the Expos' old Jarry Park",
+      "answer": "Montreal"
+    },
+    {
+      "category": "TV SUPPORTING CASTS",
+      "text": "Vic Tayback as Mel, Polly Holliday as Flo (there was a lot of grits-kissing)",
+      "answer": "Alice"
+    },
+    {
+      "category": "NAVAL VESSELS",
+      "text": "The USS Carl Vinson, this type of ship, is nearly as long as the Empire State Building is tall",
+      "answer": "aircraft carrier"
+    },
+    {
+      "category": "TABLE OF CONDIMENTS",
+      "text": "Maror, the bitter herb found on the Passover table, is usually this root",
+      "answer": "horseradish"
+    },
+    {
+      "category": "MLB TEAM NAMES?",
+      "text": "Arthur Guinness & Adolphus Busch",
+      "answer": "brewers"
+    },
+    {
+      "category": "THINGS MOTHER GAVE US",
+      "text": "Sped off, or pulled apart",
+      "answer": "tore"
+    },
+    {
+      "category": "TO THE POLICE STATION!",
+      "text": "If you lose yourself in this city, call the 12th precinct station on West 7 Mile",
+      "answer": "Detroit"
+    },
+    {
+      "category": "TV SUPPORTING CASTS",
+      "text": "Lighting up the screen--David Lyons as General Monroe, Zak Orth as Aaron Pittman",
+      "answer": "Revolution"
+    },
+    {
+      "category": "NAVAL VESSELS",
+      "text": "USS Hazard was this type of WWII ship that looked for hazards. specifically explosive ones",
+      "answer": "minesweeper"
+    },
+    {
+      "category": "TABLE OF CONDIMENTS",
+      "text": "In 1866 Colman's, a British brand of this condiment, received a special seal of approval from Queen Victoria",
+      "answer": "mustard"
+    },
+    {
+      "category": "MLB TEAM NAMES?",
+      "text": "Creature seenhere",
+      "answer": "an oriole"
+    },
+    {
+      "category": "THINGS MOTHER GAVE US",
+      "text": "Where American college kids say semester, Brits are more likely to say this 4-letter word",
+      "answer": "term"
+    },
+    {
+      "category": "TO THE POLICE STATION!",
+      "text": "Mouth off to a highway patrolman in this state & you may find yourself at the Broward County station",
+      "answer": "Florida"
+    },
+    {
+      "category": "TV SUPPORTING CASTS",
+      "text": "Jimmy Smits as Victor Sifuentes; Diana Muldaur as Rosalind Shays, but she got the shaft",
+      "answer": "L.A. Law"
+    },
+    {
+      "category": "NAVAL VESSELS",
+      "text": "In 1992 the USS Missouri, the last of this type of heavily armored warship in the U.S. Navy, was decommissioned",
+      "answer": "battleship"
+    },
+    {
+      "category": "TABLE OF CONDIMENTS",
+      "text": "This thick paste made from sesame seeds flavors hummus & baba ganoush",
+      "answer": "tahini"
+    },
+    {
+      "category": "MLB TEAM NAMES?",
+      "text": "Mr. Leno & Mr. Mohr, in a sad mood",
+      "answer": "Blue Jays"
+    },
+    {
+      "category": "THINGS MOTHER GAVE US",
+      "text": "A key that returns the cursor to the beginning of the line you're on",
+      "answer": "Home"
+    },
+    {
+      "category": "THE LITERARY CHARACTER TWEETS",
+      "text": "@stellakowalskiI'd like to stay with you & Stanley for a bit. thanks, sis! #neworleansfamilyfun",
+      "answer": "Blanche (DuBois)"
+    },
+    {
+      "category": "AMERICANA",
+      "text": "Waynesboro near the Savannah River in this state is known as the \"bird dog capital of the world\"",
+      "answer": "Georgia"
+    },
+    {
+      "category": "ACTRESSES PLAYING ACTRESSES",
+      "text": "In 2012 Tracie Bennett starred on Broadway as this entertainer in \"End of the Rainbow\"",
+      "answer": "Judy Garland"
+    },
+    {
+      "category": "THE 8 PLANETS",
+      "text": "This planet shines the brightest in our sky",
+      "answer": "Venus"
+    },
+    {
+      "category": "THE MIDDLE AGES",
+      "text": "In 845 the Vikings rowed up this river & plundered Paris; they left only after accepting a bribe from Charles the Bald",
+      "answer": "the Seine"
+    },
+    {
+      "category": "I \"NV\" YOU",
+      "text": "This adjective meaning undefeatable & unconquerable was often applied to the Spanish Armada",
+      "answer": "invincible"
+    },
+    {
+      "category": "THE LITERARY CHARACTER TWEETS",
+      "text": "@effietrinketPrim is out. I'm taking her place. #roughdayindistrict12",
+      "answer": "Katniss Everdeen"
+    },
+    {
+      "category": "AMERICANA",
+      "text": "(Jimmy of the Clue Crew delivers the clue.)  Scholars have mapped the U.S. based on what people in each region call soft drinks like Coke & ginger ale; In the highlighted areas here, they use the word \"pop\"; in these areas here, they use this word",
+      "answer": "soda"
+    },
+    {
+      "category": "THE 8 PLANETS",
+      "text": "Since it was discovered in 1846, it has completed only one orbit around the Sun",
+      "answer": "Neptune"
+    },
+    {
+      "category": "THE MIDDLE AGES",
+      "text": "After this Venice cathedral burned down during a 976 uprising, it was rebuilt twice over the next 120 years",
+      "answer": "St. Mark's"
+    },
+    {
+      "category": "I \"NV\" YOU",
+      "text": "One on women's rights was held at Seneca Falls, New York in 1848",
+      "answer": "convention"
+    },
+    {
+      "category": "THE LITERARY CHARACTER TWEETS",
+      "text": "@brotherjemGonna be late, Dill N me R hangin out#alabamaslammin",
+      "answer": "Scout"
+    },
+    {
+      "category": "AMERICANA",
+      "text": "Last name of brothers John & Henry, who in 1874 provided 80 acres for what became the home of the Kentucky Derby",
+      "answer": "Churchill"
+    },
+    {
+      "category": "ACTRESSES PLAYING ACTRESSES",
+      "text": "She went near the edge herself playing fragile actress Frances Farmer in a 1982 film",
+      "answer": "Jessica Lange"
+    },
+    {
+      "category": "THE 8 PLANETS",
+      "text": "It's where you'll find the Haviland Crater",
+      "answer": "Earth"
+    },
+    {
+      "category": "THE MIDDLE AGES",
+      "text": "In the Middle Ages, to be \"broken on\" one of these, like St. Catherine, was to be lashed to it & beaten",
+      "answer": "wheel"
+    },
+    {
+      "category": "I \"NV\" YOU",
+      "text": "You don't have to be a CBer to know that it's a group of military vehicles traveling together for safety",
+      "answer": "convoy"
+    },
+    {
+      "category": "THE LITERARY CHARACTER TWEETS",
+      "text": "@coramunroStay alive! no matter what occurs! I will find you!#inmovienotbookbutyougettheidea",
+      "answer": "Hawkeye"
+    },
+    {
+      "category": "AMERICANA",
+      "text": "A cruise ship called The Spirit of Ethan Allen III provides narrated tours of this large scenic lake",
+      "answer": "Lake Champlain"
+    },
+    {
+      "category": "ACTRESSES PLAYING ACTRESSES",
+      "text": "In 2011 she starred as Marilyn Monroe in \"My Week with Marilyn\"",
+      "answer": "Michelle Williams"
+    },
+    {
+      "category": "THE 8 PLANETS",
+      "text": "There a day is twice as long as a year, 4,222 hours to 2,111",
+      "answer": "Mercury"
+    },
+    {
+      "category": "THE MIDDLE AGES",
+      "text": "After a journey of 3 1/2 years, Marco Polo reached Shang-tu, China, which was called this in \"Kubla Khan\"",
+      "answer": "Xanadu"
+    },
+    {
+      "category": "I \"NV\" YOU",
+      "text": "A popular wallflower in warm climates, it's the colorful shrub seenhere",
+      "answer": "Bougainvillea"
+    },
+    {
+      "category": "THE LITERARY CHARACTER TWEETS",
+      "text": "@woodrowcallJake Spoon wants the 2 of us on a Montana cattle drive. Y/N? #texasrangers4life",
+      "answer": "Gus"
+    },
+    {
+      "category": "AMERICANA",
+      "text": "Known for its jazz festival, this Rhode Island city also has a Greek festival & a chowder cook-off",
+      "answer": "Newport"
+    },
+    {
+      "category": "ACTRESSES PLAYING ACTRESSES",
+      "text": "In her own memoir, she politely called \"Mommie Dearest\" \"a turning point\" in her career",
+      "answer": "Faye Dunaway"
+    },
+    {
+      "category": "THE 8 PLANETS",
+      "text": "It has the solar system's deepest canyon",
+      "answer": "Mars"
+    },
+    {
+      "category": "THE MIDDLE AGES",
+      "text": "His \"Summa Against the Gentiles\" may have been intended as a teaching & study manual for missionaries",
+      "answer": "St. Thomas Aquinas"
+    },
+    {
+      "category": "I \"NV\" YOU",
+      "text": "It's the more common name for the tiny ear bone called the incus",
+      "answer": "anvil"
+    }
+  ]
+}

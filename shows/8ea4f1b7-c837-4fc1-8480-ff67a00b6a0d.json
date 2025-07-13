@@ -1,0 +1,295 @@
+{
+  "title": "Super Jeopardy!show #3 - Saturday, June 30, 1990",
+  "date": {
+    "day": 30,
+    "month": "June",
+    "year": 1990
+  },
+  "clues": [
+    {
+      "category": "FILM FACTS",
+      "text": "Richard Pryor co-wrote this Western with Mel Brooks; its original title was \"Black Bart\"",
+      "answer": "Blazing Saddles"
+    },
+    {
+      "category": "BIOLOGY",
+      "text": "Class of animals so named because they have an aquatic larval stage & terrestrial adult lives",
+      "answer": "amphibians"
+    },
+    {
+      "category": "ORGANIZATIONS",
+      "text": "Originally, this amateur boxing organization was sponsored by the Chicago Tribune Charities",
+      "answer": "Golden Gloves"
+    },
+    {
+      "category": "LAKES",
+      "text": "Fur trappers called this Great Lake the \"Upper Lake\" in French",
+      "answer": "Lake Superior"
+    },
+    {
+      "category": "FAMOUS POLITICIANS",
+      "text": "In his bid for an unprecedented 4th term, this NYC mayor was defeated in the 1989 Democratic Party",
+      "answer": "Ed Koch"
+    },
+    {
+      "category": "H\"ISTORY",
+      "text": "This Communist revolutionary founded the Democratic Republic of Vietnam in 1945",
+      "answer": "Hồ Chí Minh"
+    },
+    {
+      "category": "FILM FACTS",
+      "text": "Kevin Costner starred in this 1989 film based on the novel \"Shoeless Joe\"",
+      "answer": "Field of Dreams"
+    },
+    {
+      "category": "BIOLOGY",
+      "text": "The development of this part of the egg contributed to the evolution of life on land",
+      "answer": "the shell"
+    },
+    {
+      "category": "ORGANIZATIONS",
+      "text": "\"Show a kid how America works\" is the slogan of this young people's business organization",
+      "answer": "Junior Achievement"
+    },
+    {
+      "category": "LAKES",
+      "text": "Located in South America, it's the world's highest large navigable lake",
+      "answer": "Lake Titicaca"
+    },
+    {
+      "category": "FAMOUS POLITICIANS",
+      "text": "Ironically, the Arizona Democratic Party Organization was founded by his father & uncle",
+      "answer": "Barry Goldwater"
+    },
+    {
+      "category": "H\"ISTORY",
+      "text": "Janos Kadar assumed power in this country after a revolt was suppressed by Soviet tanks",
+      "answer": "Hungary"
+    },
+    {
+      "category": "FILM FACTS",
+      "text": "\"Tonight Show\" exec. producer who directed \"Bedtime for Bonzo\" & \"Bonzo Goes to College\"",
+      "answer": "(Freddy) de Cordova"
+    },
+    {
+      "category": "BIOLOGY",
+      "text": "In the lab, you put something in an autoclave to do this to it",
+      "answer": "sterilize it"
+    },
+    {
+      "category": "ORGANIZATIONS",
+      "text": "Members of SPEBSQSA usually sing in a group of this many people",
+      "answer": "4"
+    },
+    {
+      "category": "LAKES",
+      "text": "The construction of this created Lake Nasser",
+      "answer": "the Aswan Dam"
+    },
+    {
+      "category": "FAMOUS POLITICIANS",
+      "text": "Tho this senate minority leader won the 1988 GOP Iowa caucauses, he lost the presidential nomination",
+      "answer": "Bob Dole"
+    },
+    {
+      "category": "H\"ISTORY",
+      "text": "Although this British general opposed coercion in North America, he led troops at the Battle of Bunker Hill",
+      "answer": "(William) Howe"
+    },
+    {
+      "category": "FILM FACTS",
+      "text": "The first film Jimmy Stewart made after serving as a WWII bomber pilot was this holiday classic",
+      "answer": "It's a Wonderful Life"
+    },
+    {
+      "category": "BIOLOGY",
+      "text": "In humans it separates the thoracic cavity from the abdominal cavity",
+      "answer": "the diaphragm"
+    },
+    {
+      "category": "ORGANIZATIONS",
+      "text": "Candy manufacturer Robert Welch founded this organization in 1958",
+      "answer": "the John Birch Society"
+    },
+    {
+      "category": "LAKES",
+      "text": "A castle on this French-Swiss lake was made famous by the poem \"The Prisoner of Chillon\"",
+      "answer": "Lake Geneva"
+    },
+    {
+      "category": "FAMOUS POLITICIANS",
+      "text": "This Minnesota congressman wrote the 1919 act that enforced prohibition",
+      "answer": "Volstead"
+    },
+    {
+      "category": "H\"ISTORY",
+      "text": "In 29 A.D. lava from Mt. Vesuvius buried this city named for its mythical founder",
+      "answer": "Herculaneum"
+    },
+    {
+      "category": "FILM FACTS",
+      "text": "Elizabeth Taylor found passion on a plantation before it was pulverized by pachyderms in this 1954 film",
+      "answer": "Elephant Walk"
+    },
+    {
+      "category": "BIOLOGY",
+      "text": "The Savi's pygmy variety of this animal is said to be the world's smallest mammal",
+      "answer": "the shrew"
+    },
+    {
+      "category": "ORGANIZATIONS",
+      "text": "This farmers organization is officially called the Order of Patrons of Husbandry",
+      "answer": "the Grange"
+    },
+    {
+      "category": "LAKES",
+      "text": "A part of Minnesota, the northernmost point in the lower 48 states, juts into this U.S.-Canadian lake",
+      "answer": "Lake of the Woods"
+    },
+    {
+      "category": "FAMOUS POLITICIANS",
+      "text": "The 2 late sons of John D. Rockefeller Jr. who became governors",
+      "answer": "Nelson Rockefeller (New York) & Winthrop Rockefeller (Arkansas)"
+    },
+    {
+      "category": "H\"ISTORY",
+      "text": "This Medieval confederacy of N. German cities was formed to defend their mutual trading interests",
+      "answer": "the Hanseatic League"
+    },
+    {
+      "category": "OPERA",
+      "text": "It's been said of this tenor that \"(he) made the gramophone & the gramophone (made him)\"",
+      "answer": "Caruso"
+    },
+    {
+      "category": "LANDMARKS",
+      "text": "The president of Venezuela has his offices in the Miraflores Palace in this city",
+      "answer": "Caracas"
+    },
+    {
+      "category": "FOREIGN WORDS & PHRASES",
+      "text": "Ubermensch, as both Nietzsche & Clark Kent could tell you",
+      "answer": "superman"
+    },
+    {
+      "category": "AUTHORS",
+      "text": "The Charley in his \"Travels with Charley\" was his dog",
+      "answer": "John Steinbeck"
+    },
+    {
+      "category": "WORLD RELIGION",
+      "text": "The 3 major orders of clergy in the Eastern Orthodox Church are bishops, deacons & these",
+      "answer": "priests"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "You now have to pay to use this university's coat of arms or veritas motto",
+      "answer": "Harvard"
+    },
+    {
+      "category": "OPERA",
+      "text": "In a Mozart opera this title object belonged to Tamino",
+      "answer": "the magic flute"
+    },
+    {
+      "category": "LANDMARKS",
+      "text": "This historic New York fort overlooks both Lake George & Lake Champlain",
+      "answer": "Ticonderoga"
+    },
+    {
+      "category": "FOREIGN WORDS & PHRASES",
+      "text": "RSVP is an abbreviation of this French expression",
+      "answer": "répondez s'il vous plaît"
+    },
+    {
+      "category": "AUTHORS",
+      "text": "She wrote \"The Making of Americans\" during the 43 years she lived in Paris",
+      "answer": "Gertrude Stein"
+    },
+    {
+      "category": "WORLD RELIGION",
+      "text": "Of the Hebrew, Roman Catholic & Protestant Bbibles, the one with the most books",
+      "answer": "Roman Catholic"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "Jimmy Carter helped to establish the research center named for him at this Atlanta Univ.",
+      "answer": "Emory"
+    },
+    {
+      "category": "OPERA",
+      "text": "This opera, which featuresthe following, was the 1st transmitted in color on TV:",
+      "answer": "Carmen"
+    },
+    {
+      "category": "LANDMARKS",
+      "text": "To honor W. Churchill, London's Church of St. Mary the Virgin was moved stone by stone to this Mo. town",
+      "answer": "Fulton"
+    },
+    {
+      "category": "FOREIGN WORDS & PHRASES",
+      "text": "Greek word also used in English which means purging from guilt or defilement",
+      "answer": "catharsis"
+    },
+    {
+      "category": "AUTHORS",
+      "text": "Eugene O'Neill work based on the \"Oresteia\" by Aeschylus",
+      "answer": "Mourning Becomes Electra"
+    },
+    {
+      "category": "WORLD RELIGION",
+      "text": "This celibate sect, a.k.a. the United Society of Believers in Christ's 2nd Appearing, is in serious decline",
+      "answer": "the Shakers"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "Roger Bacon, John Duns Scotus & William of Ockham were among the Franciscans who taught here",
+      "answer": "Oxford"
+    },
+    {
+      "category": "OPERA",
+      "text": "This popular Smetana opera includes a spirited polka & a chorus in praise of beer",
+      "answer": "The Bartered Bride"
+    },
+    {
+      "category": "LANDMARKS",
+      "text": "The Cappella della Sacra Sindone was built in the 17th century to house this relic",
+      "answer": "the Shroud of Turin"
+    },
+    {
+      "category": "FOREIGN WORDS & PHRASES",
+      "text": "We associate \"auto da fe\" with the Spanish Inquisition, but the expression, which means this, is Portuguese",
+      "answer": "act of faith"
+    },
+    {
+      "category": "AUTHORS",
+      "text": "She's the author of the mystical autobiographical book \"Cross Creek\"",
+      "answer": "(Marjorie) Rawlings"
+    },
+    {
+      "category": "WORLD RELIGION",
+      "text": "It's the title of the spiritual leader of the Ismaili sect of Muslims",
+      "answer": "Aga Khan"
+    },
+    {
+      "category": "COLLEGES & UNIVERSITIES",
+      "text": "This university in St. Louis was founded by T.S. Eliot's grandfather but is named for a president",
+      "answer": "Washington"
+    },
+    {
+      "category": "OPERA",
+      "text": "Minnie, a saloon owner, is the title characters in this Puccini opera",
+      "answer": "The Girl of the Golden West"
+    },
+    {
+      "category": "LANDMARKS",
+      "text": "The famous Oracle of Delphi was located on the lower slope of this sacred Greek mountain",
+      "answer": "Mount Parnassus"
+    },
+    {
+      "category": "FOREIGN WORDS & PHRASES",
+      "text": "Russian for \"comrade\", it came into greater use after the Bolshevik Revolution",
+      "answer": "tovarich"
+    }
+  ]
+}

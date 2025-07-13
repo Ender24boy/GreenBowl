@@ -1,0 +1,310 @@
+{
+  "title": "Show #4173 - Wednesday, October 23, 2002",
+  "date": {
+    "day": 23,
+    "month": "October",
+    "year": 2002
+  },
+  "clues": [
+    {
+      "category": "BIRTH OF A PRESIDENT",
+      "text": "August 19, 1946 in Hope, Arkansas",
+      "answer": "Bill Clinton"
+    },
+    {
+      "category": "HERE'S TO YOU, MR. ROBINSON",
+      "text": "This Defoe character spends 26 years alone on an island but thanks God it's Friday for the next 2",
+      "answer": "Robinson Crusoe"
+    },
+    {
+      "category": "STUPID ANSWERS",
+      "text": "At the 2004 Olympics, this event's course will run from Marathon to Athens",
+      "answer": "Marathon"
+    },
+    {
+      "category": "OCEAN LIFE",
+      "text": "The species Oceanites oceanicus isn't a fish but a petrel, one of these",
+      "answer": "bird"
+    },
+    {
+      "category": "A WORLD OF PIRATES",
+      "text": "Later dictator, this Roman was kidnapped by pirates while on a journey to Rhodes around 75 B.C.",
+      "answer": "Julius Caesar"
+    },
+    {
+      "category": "R\"RRRRRRRRR",
+      "text": "Sometimes it's necessary to do this, meaning to reload your computer's operating system",
+      "answer": "reboot"
+    },
+    {
+      "category": "BIRTH OF A PRESIDENT",
+      "text": "May 8, 1884 in Lamar, Missouri",
+      "answer": "Harry S. Truman"
+    },
+    {
+      "category": "HERE'S TO YOU, MR. ROBINSON",
+      "text": "During his major league career, this trailblazer stole home 19 times",
+      "answer": "Jackie Robinson"
+    },
+    {
+      "category": "STUPID ANSWERS",
+      "text": "First name of Leif Eriksson's father",
+      "answer": "Erik"
+    },
+    {
+      "category": "OCEAN LIFE",
+      "text": "The manatee is distantly related to this land mammal that also uses its snout to push food into its mouth",
+      "answer": "elephant"
+    },
+    {
+      "category": "A WORLD OF PIRATES",
+      "text": "In 1815 Washington Irving planned to join Stephen Decatur on an expedition against these North African pirates",
+      "answer": "Barbary pirates"
+    },
+    {
+      "category": "R\"RRRRRRRRR",
+      "text": "3 points on one throw in horseshoes",
+      "answer": "ringer"
+    },
+    {
+      "category": "BIRTH OF A PRESIDENT",
+      "text": "February 12, 1809 in Hardin County, Kentucky",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "category": "HERE'S TO YOU, MR. ROBINSON",
+      "text": "Not content merely penning \"My Guy\" in 1964, he \"miraculously\" followed it up with \"My Girl\" in 1965",
+      "answer": "Smokey Robinson"
+    },
+    {
+      "category": "STUPID ANSWERS",
+      "text": "If you split 12 eggs into 2 equal groups, you'll have a total of this many eggs",
+      "answer": "12"
+    },
+    {
+      "category": "OCEAN LIFE",
+      "text": "A Pacific northern bluefin one of these fish was tracked swimming 6,700 miles from Japan to Baja",
+      "answer": "tuna"
+    },
+    {
+      "category": "A WORLD OF PIRATES",
+      "text": "The costumes for this 1991 Steven Spielberg film included 350 pirate outfits for the extras alone",
+      "answer": "Hook"
+    },
+    {
+      "category": "R\"RRRRRRRRR",
+      "text": "The stems of these Asian palms are used to make wicker furniture",
+      "answer": "rattan"
+    },
+    {
+      "category": "BIRTH OF A PRESIDENT",
+      "text": "February 6, 1911 in Tampico, Illinois",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "HERE'S TO YOU, MR. ROBINSON",
+      "text": "Teenage boys wept when this Black Crowe married film star Kate Hudson",
+      "answer": "Chris Robinson"
+    },
+    {
+      "category": "STUPID ANSWERS",
+      "text": "The Dornford Yates mystery \"She Fell Among Thieves\" was the first presentation of this PBS series",
+      "answer": "Mystery!"
+    },
+    {
+      "category": "OCEAN LIFE",
+      "text": "(Sarah of the Clue Crew snorkeling in the Barrier Reef near Belize)  A poisonous saw-toothed spine on its tail gives this creature its name",
+      "answer": "stingray"
+    },
+    {
+      "category": "A WORLD OF PIRATES",
+      "text": "Born around 1645, this pirate captain was sent to England for trial & hanged in 1701",
+      "answer": "Captain Kidd"
+    },
+    {
+      "category": "R\"RRRRRRRRR",
+      "text": "In a memorable 1982 TV movie, Jean Stapleton played this first lady",
+      "answer": "Eleanor Roosevelt"
+    },
+    {
+      "category": "BIRTH OF A PRESIDENT",
+      "text": "December 28, 1856 in Staunton, Virginia",
+      "answer": "Woodrow Wilson"
+    },
+    {
+      "category": "HERE'S TO YOU, MR. ROBINSON",
+      "text": "In \"The Ten Commandments\" this actor famously snarled, \"Where's your messiah now?\"",
+      "answer": "Edward G. Robinson"
+    },
+    {
+      "category": "STUPID ANSWERS",
+      "text": "Frankfurt is the main city on this German river",
+      "answer": "Main"
+    },
+    {
+      "category": "OCEAN LIFE",
+      "text": "Having flat teeth is one way that these animals differ from the related dolphins who have pointy triangular teeth",
+      "answer": "porpoises"
+    },
+    {
+      "category": "A WORLD OF PIRATES",
+      "text": "Kevin Kline won a Tony Award for his role in this swashbuckling Gilbert & Sullivan operetta",
+      "answer": "The Pirates of Penzance"
+    },
+    {
+      "category": "R\"RRRRRRRRR",
+      "text": "Ionesco play that ends, \"I'm the last man left, and I'm staying that way until the end.  I'm not capitulating!\"",
+      "answer": "Rhinoceros"
+    },
+    {
+      "category": "THE BEAUTIFUL SOUTH",
+      "text": "In a letter on the capture of Vicksburg, Lincoln referred to it as the \"Father of Waters\"",
+      "answer": "Mississippi River"
+    },
+    {
+      "category": "MUSIC VIDEOS",
+      "text": "An MTV \"Making the Video\" episode explored her \"Slave 4 U\" shoot",
+      "answer": "Britney Spears"
+    },
+    {
+      "category": "70s U.S.",
+      "text": "Phyllis Schlafly was among those leading the fight for the defeat of this proposed constitutional amendment",
+      "answer": "ERA (Equal Rights Amendment)"
+    },
+    {
+      "category": "THE LETTER G",
+      "text": "This cereal maker uses the letter G as its logo",
+      "answer": "General Mills"
+    },
+    {
+      "category": "COLORFUL BOOKS",
+      "text": "It begins,\"I am SamI am SamSam I am\"",
+      "answer": "\"Green Eggs and Ham\""
+    },
+    {
+      "category": "WORD ORIGINS",
+      "text": "This nation's name is an acronym partly standing for Punjab, Afghan, Kashmir, Sind & \"Tan\" from Baluchistan",
+      "answer": "Pakistan"
+    },
+    {
+      "category": "THE BEAUTIFUL SOUTH",
+      "text": "Nicknames for this city include \"The Metropolis of the New South\" & \"Derby Town\"",
+      "answer": "Louisville"
+    },
+    {
+      "category": "MUSIC VIDEOS",
+      "text": "Her \"Never Too Far\" video sure \"Glitter\"ed",
+      "answer": "Mariah Carey"
+    },
+    {
+      "category": "70s U.S.",
+      "text": "In 1975 this comic strip won a Pulitzer Prize for editorial cartooning",
+      "answer": "Doonesbury"
+    },
+    {
+      "category": "THE LETTER G",
+      "text": "In slang terms, a G refers to this amount of money",
+      "answer": "thousand"
+    },
+    {
+      "category": "COLORFUL BOOKS",
+      "text": "The 2 bestselling 1980s novels by Tom Clancy with \"Red\" in the title",
+      "answer": "\"Red Storm Rising\" & \"The Hunt for Red October\""
+    },
+    {
+      "category": "WORD ORIGINS",
+      "text": "The hero of a Robert Burns poem lends his name to this woolen cap with a pompom or a tassel",
+      "answer": "Tam o' Shanter"
+    },
+    {
+      "category": "THE BEAUTIFUL SOUTH",
+      "text": "(Hi, I'm Harry Connick Jr.)  At age 5 I played \"The Star-Spangled Banner\" at my dad's inauguration as D.A. of this \"Crescent City\", my hometown",
+      "answer": "New Orleans"
+    },
+    {
+      "category": "MUSIC VIDEOS",
+      "text": "(Hello, I'm \"Weird Al\" Yankovic.)  In this parody of a Coolio hit, I churn butter & rap with Florence Henderson",
+      "answer": "\"Amish Paradise\""
+    },
+    {
+      "category": "70s U.S.",
+      "text": "In 1970 Massachusetts introduced no-fault auto insurance & this state came up with no-fault divorce",
+      "answer": "California"
+    },
+    {
+      "category": "THE LETTER G",
+      "text": "In movie ratings, G stands for general; the G in PG & PG-13 stands for this",
+      "answer": "guidance"
+    },
+    {
+      "category": "COLORFUL BOOKS",
+      "text": "This Pulitzer-winning novel is told through letters written by a Southern black woman named Celie",
+      "answer": "\"The Color Purple\""
+    },
+    {
+      "category": "WORD ORIGINS",
+      "text": "Perhaps from the Italian for \"imperfect pearl\", it can be a style of music, art or architecture",
+      "answer": "Baroque"
+    },
+    {
+      "category": "THE BEAUTIFUL SOUTH",
+      "text": "Carter's Grove, a magnificent plantation home, is just 7 1/2 miles from the colonial area of this Virginia town",
+      "answer": "Williamsburg"
+    },
+    {
+      "category": "MUSIC VIDEOS",
+      "text": "In this group's \"Emotion\" video, one of the members pours bleach over her ex's clothes",
+      "answer": "Destiny's Child"
+    },
+    {
+      "category": "70s U.S.",
+      "text": "Shortly after this U.S. president declared Iran \"an island of stability\", the Shah was overthrown",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "THE LETTER G",
+      "text": "This group that meets to discuss economic concerns consists of the U.S., Canada, Japan & 5 European nations",
+      "answer": "Group of 8"
+    },
+    {
+      "category": "COLORFUL BOOKS",
+      "text": "When we first met Alex in this 1962 novel, he's sitting with his 3 droogs in the Korova Milkbar",
+      "answer": "\"A Clockwork Orange\""
+    },
+    {
+      "category": "WORD ORIGINS",
+      "text": "The name of this large island in the Gulf of Alaska is derived from an Inuit word for \"island\"",
+      "answer": "Kodiak"
+    },
+    {
+      "category": "THE BEAUTIFUL SOUTH",
+      "text": "John Berendt's \"Midnight in the Garden of Good and Evil\" depicts some colorful characters in this Georgia city",
+      "answer": "Savannah"
+    },
+    {
+      "category": "MUSIC VIDEOS",
+      "text": "David Arquette's role as a guard in Creed's \"What If\" spoofs his Deputy Dewey role in this film series",
+      "answer": "Scream"
+    },
+    {
+      "category": "70s U.S.",
+      "text": "A national inoculation campaign was held in 1976 to prevent an epidemic of this that never materialized",
+      "answer": "swine flu"
+    },
+    {
+      "category": "THE LETTER G",
+      "text": "In Internet domain name extensions, gg stands for Alderney, Sark & this other Channel Island",
+      "answer": "Guernsey"
+    },
+    {
+      "category": "COLORFUL BOOKS",
+      "text": "Katie Arnoldi writes about the world of female bodybuilding in her novel \"Chemical...\" this",
+      "answer": "Pink"
+    },
+    {
+      "category": "WORD ORIGINS",
+      "text": "From the Latin for \"to raise\", it refers to the altitude of a city or mountain above sea level",
+      "answer": "elevation"
+    }
+  ]
+}
