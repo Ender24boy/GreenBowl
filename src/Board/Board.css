@@ -1,0 +1,26 @@
+.board {
+  position: absolute;
+  top: 0.5in;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 637px;
+  height: 299px;
+  background: url('../assets/board.gif') no-repeat center center;
+  background-size: contain;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.board h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* move it up/left by half its own size */
+  transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  width: 100%;    /* so multi-line text still centers */
+  z-index: 2;
+}
