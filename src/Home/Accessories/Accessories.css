@@ -1,0 +1,23 @@
+/* Accessories.css */
+
+.accessories {
+  display: inline-flex;         /* shrink-wrap to the image */
+  justify-content: center;
+  align-items: center;
+  width: var(--size);           /* e.g. “80px” */
+  height: var(--size);
+  overflow: hidden; 
+}
+
+.accessories__image {
+  width: 100%;                  /* fill the square container */
+  height: 100%;
+  object-fit: contain;          /* preserve aspect */
+  transition: transform 0.2s ease-in-out;
+  transform-origin: center;
+  cursor: pointer;
+}
+
+.accessories:hover .accessories__image {
+  transform: scale(1.05);
+}

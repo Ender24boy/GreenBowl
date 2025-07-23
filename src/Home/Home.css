@@ -1,0 +1,32 @@
+/* remove bg from body */
+body {
+  margin: 0;
+  background-color: #000; /* empty borders */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* the fixed 640×480 “canvas” */
+.main-canvas {
+  width: 1280px;
+  height: 960px;
+  position: relative;
+  background: url('../assets/bg.gif') no-repeat center center;
+  background-size: contain;
+  overflow: hidden; /* hide anything that sticks out */
+  display: flex;
+  flex-direction: column;
+}
+
+/* if you still want .container to center within that frame */
+.container {
+  flex: 1; /* fill available vertical space */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* you can drop height:100vh here, since it's inside .main-canvas */

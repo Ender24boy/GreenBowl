@@ -1,0 +1,21 @@
+/* src/Player/Player.css */
+.player {
+  position: absolute;
+  bottom: 1.5%;
+  right: 70%;
+  width: 300px;   /* adjust container size if you need more room */
+  height: 300px;
+  pointer-events: none;
+  overflow: visible;
+}
+
+.player__item {
+  position: absolute;
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
